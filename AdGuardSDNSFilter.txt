@@ -1,4 +1,4 @@
-#·········更新时间:2022-12-03 09:30:02·········数量:50834条·········增量:42条·········
+#·········更新时间:2022-12-04 09:30:01·········数量:50850条·········增量:16条·········
 .svfwyyxzbjrd.com
 .ythjhk.com
 .crpcruynxxc.com
@@ -4055,6 +4055,7 @@ vkcdnservice.appspot.com
 .appsprelandlab.com
 .apptdvibrate.com
 .apptechnewz.com
+.apptjmp.com
 .appwebview.com
 .appzeyland.com
 .apricotaimless.com
@@ -22524,6 +22525,7 @@ vkcdnservice.appspot.com
 .wmlleyjtj.com
 .wmnejndvberrd.com
 .wmonthsaft.biz
+.wmptctl.com
 .wmruzfvtg.com
 .wmvlivmdnvy.com
 .wmzrmmlgqe.com
@@ -32890,6 +32892,7 @@ charlestownwyllie.oaklawnnonantum.com
 .do-not-tracker.org
 .eviltracker.net
 .trackersimulator.org
+.pangle-b.io
 .track.*.roku.com
 .traces.sr.roku.com
 .analytics.kidoz.net
@@ -33941,7 +33944,6 @@ charlestownwyllie.oaklawnnonantum.com
 .innertrends.com
 .innomdc.com
 .instant.page
-.intelligems.io
 .interact-analytics.com
 .invisioncloudstats.com
 .io1g.net
@@ -41231,8 +41233,8 @@ charlestownwyllie.oaklawnnonantum.com
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2022-11-28 10:27:02 CET
-# entries:        963
+# last updated:   2022-12-03 10:03:49 CET
+# entries:        964
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 .1terms.com
@@ -42826,9 +42828,11 @@ charlestownwyllie.oaklawnnonantum.com
 .6u4j.icu
 .79zxcv.com
 .828239sam.com
+.82ip.top
 .86o0h.top
 .8861203.com
 .897263tqs.com
+.91pk.love
 .9795x.com
 .99997aaa.com
 .9eu7c.top
@@ -42867,6 +42871,7 @@ charlestownwyllie.oaklawnnonantum.com
 .cvemhco.cn
 .cyhbrjf.cn
 .d86.xyz
+.dangongshijie.com
 .dbmcmhh.cn
 .dfkd.xyz
 .dharkyu.cn
@@ -42895,6 +42900,7 @@ charlestownwyllie.oaklawnnonantum.com
 .fwrpq.cyou
 .fypcy.cyou
 .fztimyc.cn
+.gcxp.xyz
 .gfqfjau.cn
 .gfxjjpo.cn
 .gkcmei.xyz
@@ -42937,6 +42943,7 @@ charlestownwyllie.oaklawnnonantum.com
 .japsmna.cyou
 .jghmrie.cn
 .jiedu.fun
+.jieshimaya.xyz
 .jknmsdpo.xyz
 .jmm8a.xyz
 .jnkmwr.xyz
@@ -42964,6 +42971,7 @@ charlestownwyllie.oaklawnnonantum.com
 .lapsmnl.cyou
 .lbzx.xyz
 .lejso.com
+.lezbrja.cn
 .lgjxw.xyz
 .lhare.xyz
 .lihuan.store
@@ -42976,6 +42984,7 @@ charlestownwyllie.oaklawnnonantum.com
 .lqnggnsl.fun
 .lrkporm.cn
 .luotuoma.xin
+.lwhqa.xyz
 .lxrhw.xyz
 .lzngisyl.xyz
 .lzwdq.xyz
@@ -42998,6 +43007,7 @@ charlestownwyllie.oaklawnnonantum.com
 .ocive.xyz
 .odfykc.cn
 .oehhq.xyz
+.ofqldv.cn
 .oicvvnm.cn
 .oivgqnt.cn
 .ok-11-cai.cc
@@ -43039,6 +43049,7 @@ charlestownwyllie.oaklawnnonantum.com
 .rkkhuwl.cn
 .rlllwby.cn
 .rmm7ss.top
+.rokkkpc.cn
 .rqnggnsz.fun
 .rss9f.top
 .ruohe.fun
@@ -43065,11 +43076,13 @@ charlestownwyllie.oaklawnnonantum.com
 .tffytdo.cn
 .tian-ting.ink
 .toijr.xyz
+.toskmisway.com
 .tptp001.buzz
 .tqnggnsi.fun
 .troxa.xyz
 .trqhf.xyz
 .trqpfc.cn
+.tx888.wang
 .txnwq.xyz
 .tzngisyi.xyz
 .u09.xyz
@@ -43097,6 +43110,7 @@ charlestownwyllie.oaklawnnonantum.com
 .wgdacc.com
 .wglbx.ltd
 .wgpsfdg.cn
+.whqxj.xyz
 .whrc.xyz
 .wocexaa.cn
 .wotmvdc.cn
@@ -43144,8 +43158,10 @@ charlestownwyllie.oaklawnnonantum.com
 .zvxwvny.cn
 .zw2b9.cn
 .zzngisyq.xyz
-.rokkkpc.cn
-.lezbrja.cn
+.tpvdcqw.cn
+.phsidmk.cn
+.gmkmkn.xyz
+.qycw.xyz
 .001adafg.xyz
 .0024aaaa.com
 .004fsdljasd.xyz
