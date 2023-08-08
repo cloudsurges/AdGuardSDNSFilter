@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-08 21:56:08·········数量:54489条·········增量:$[54489-$[54491-1]]条·········
+#·········更新时间:2023-08-08 23:00:01·········数量:54489条·········增量:$[54489-$[54491-1]]条·········
 .ginsicih.xyz
 .manoirshrine.com
 .pariatonet.com
