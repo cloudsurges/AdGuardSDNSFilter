@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-09 09:00:01·········数量:54514条·········增量:$[54514-$[54508-1]]条·········
+#·········更新时间:2023-08-09 10:00:01·········数量:54514条·········增量:$[54514-$[54516-1]]条·········
 .anemenzemkwkm.top
 .ginsicih.xyz
 .manoirshrine.com
