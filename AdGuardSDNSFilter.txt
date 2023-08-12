@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-12 14:00:02·········数量:54784条·········增量:$[54784-$[54786-1]]条·········
+#·········更新时间:2023-08-12 15:00:01·········数量:54793条·········增量:$[54793-$[54786-1]]条·········
 .gastersliddry.com
 .anemenzemkwkm.top
 .ginsicih.xyz
@@ -1794,6 +1794,7 @@ vkcdnservice.appspot.com
 .22blqkmkg.de
 .22e991e711.com
 .22filexstarted22.com
+.22gui20230801.live
 .22lmsi1t5.de
 .23182b9851.com
 .234f6ce965.com
@@ -5556,6 +5557,7 @@ vkcdnservice.appspot.com
 .bemusic.xyz
 .benced.com
 .benchastonishingstudying.com
+.benchsuited.com
 .bendcauslesscauslessnotion.com
 .bendingalliance.com
 .bendingrevivestriped.com
@@ -19150,6 +19152,7 @@ vkcdnservice.appspot.com
 .pejzeexukxo.com
 .pelagictanjib.com
 .pelamydlours.com
+.pelfsgarote.com
 .peliomaafb.com
 .pelisrev.live
 .peltingcatwood.com
@@ -23248,6 +23251,7 @@ vkcdnservice.appspot.com
 .solveround.com
 .solvewebagitated.com
 .solvingcue.com
+.solvusserosal.com
 .somberalcyon.com
 .sombes.com
 .somecdn.bid
@@ -25278,6 +25282,7 @@ vkcdnservice.appspot.com
 .trollwarningpaws.com
 .tromairiememasdaq.com
 .trombocrack.com
+.tronads.io
 .troncomelets.com
 .troolyhonks.com
 .troozescript.store
@@ -29364,6 +29369,7 @@ vkcdnservice.appspot.com
 .shrtfly.com
 .simpio.com
 .simpletraffic.co
+.sinogamepeck.com
 .sitemaji.com
 .sitesense-oo.com
 .sitethree.com
@@ -29562,6 +29568,7 @@ vkcdnservice.appspot.com
 .worthathousandwords.com
 .wwads.cn
 .xmlmonetize.com
+.xmtrading.com
 .xtendmedia.com
 .yieldkit.com
 .yieldlove.com
@@ -38412,7 +38419,6 @@ inapps.appsflyersdk.com
 .fasttiger.io
 .ffbbbdc6d3c353211fe2ba39c9f744cd.com
 .ffe390afd658c19dcbf707e0597b846d.de
-.fmhy.net
 .fn-pz.com
 .fourtimessmelly.com
 .fpapi.io
@@ -38814,6 +38820,7 @@ inapps.appsflyersdk.com
 .flashb.id
 .flexlinkspro.com
 .flyspy.co
+.fmhy.net
 .fndrsp.net
 .fpjs.io
 .fqsecure.com
@@ -48747,6 +48754,8 @@ inapps.appsflyersdk.com
 .hqdlhgx.cn
 .tuplzt.xyz
 .lknhrnd.com
+.jothvz.xyz
+.jmbluyxkl.xyz
 .zonyff.xyz
 .zvasuzb.icu
 .zxrcfw.com
