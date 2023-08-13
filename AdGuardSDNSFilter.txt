@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-13 15:00:01·········数量:54940条·········增量:$[54940-$[54885-1]]条·········
+#·········更新时间:2023-08-13 16:00:01·········数量:54940条·········增量:$[54940-$[54942-1]]条·········
 .sjolcdkqwiybh.xyz
 .gastersliddry.com
 .anemenzemkwkm.top
