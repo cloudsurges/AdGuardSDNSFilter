@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-14 17:00:01·········数量:55038条·········增量:$[55038-$[55040-1]]条·········
+#·········更新时间:2023-08-14 18:00:01·········数量:55036条·········增量:$[55036-$[55040-1]]条·········
 .sjolcdkqwiybh.xyz
 .gastersliddry.com
 .anemenzemkwkm.top
@@ -46478,8 +46478,6 @@ inapps.appsflyersdk.com
 .content2.nrc.nl
 .aa.hwigroup.com
 .ab.hwigroup.com
-.aa.tweakers.nl
-.ab.tweakers.nl
 .adrequest.net
 .adshim.com
 .affiliatepartners.com
