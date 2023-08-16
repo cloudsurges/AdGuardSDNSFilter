@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-16 20:00:01·········数量:55106条·········增量:$[55106-$[55108-1]]条·········
+#·········更新时间:2023-08-16 21:00:01·········数量:55114条·········增量:$[55114-$[55108-1]]条·········
+.dr7.biz
 .wuftoars.net
 .afdrivovoq.com
 .sjolcdkqwiybh.xyz
@@ -28496,6 +28497,7 @@ vkcdnservice.appspot.com
 .zlacraft.com
 .zlink2.com
 .zlink6.com
+.zlinkc.com
 .zlinkm.com
 .zljwhbuagdvl.com
 .zlx.com.br
@@ -30783,6 +30785,8 @@ vkcdnservice.appspot.com
 .reqde.afreecatv.com
 .adballoon.afreecatv.com
 .deapi.afreecatv.com
+.startup.mobile.yandex.net
+.startup-mobile.ap.yandex-net.ru
 .stream.spongead.com
 .naverpa-phinf.pstatic.net
 .tivan.naver.com
@@ -31410,6 +31414,7 @@ vkcdnservice.appspot.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.sdk.fra-*.braze.eu
 .ct2.kutinawa.com
 .ythingy.com
 .spiny.ai
@@ -34678,7 +34683,6 @@ vkcdnservice.appspot.com
 .webcompteur.com
 .webcounter.co.za
 .webcounter.ws
-.webengage.com
 .webest.info
 .webflowmetrics.com
 .webforensics.co.uk
@@ -39413,6 +39417,7 @@ inapps.appsflyersdk.com
 .showheroes.com
 .simpleanalytics.io
 .simpleanalyticsbadge.com
+.simpleanalyticsexternal.com
 .sirdata.eu
 .siteimproveanalytics.io
 .siteplug.com
@@ -39552,6 +39557,7 @@ inapps.appsflyersdk.com
 .wdsvc.net
 .web-stat.fr
 .webanalytic.info
+.webengage.com
 .webeyez.com
 .weborama.design
 .webstat.fr
@@ -40197,6 +40203,7 @@ inapps.appsflyersdk.com
 .stereotypedsugar.com
 .stingsquirrel.com
 .stockingsneeze.com
+.stomachscience.com
 .strangeclocks.com
 .strangersponge.com
 .stretchsneeze.com
@@ -49068,6 +49075,7 @@ inapps.appsflyersdk.com
 .bmptbyb.com
 .vhutitpu.icu
 .zcbfjd.xyz
+.mnpbxjq.cn
 .zonyff.xyz
 .zvasuzb.icu
 .zxrcfw.com
