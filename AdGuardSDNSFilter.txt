@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-17 14:00:01·········数量:55135条·········增量:$[55135-$[55137-1]]条·········
+#·········更新时间:2023-08-17 15:00:01·········数量:55141条·········增量:$[55141-$[55137-1]]条·········
 .dr7.biz
 .wuftoars.net
 .afdrivovoq.com
@@ -34830,6 +34830,8 @@ vkcdnservice.appspot.com
 .visilabs.net
 .ay.delivery
 .functionalclam.com
+.ruralrobin.com
+.scaredsnakes.com
 .bleachscarecrow.com
 .parentpicture.com
 .suspectmark.com
@@ -40141,13 +40143,11 @@ inapps.appsflyersdk.com
 .ritzyveil.com
 .roseincome.com
 .rottenray.com
-.ruralrobin.com
 .sablesong.com
 .sadloaf.com
 .scarcesurprise.com
 .scarecrowslope.com
 .scaredfarm.com
-.scaredsnakes.com
 .scaredswing.com
 .scarfthought.com
 .scrapesleep.com
@@ -46847,8 +46847,8 @@ inapps.appsflyersdk.com
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-08-13 08:20:48 CEST
-# entries:        1176
+# last updated:   2023-08-17 07:53:10 CEST
+# entries:        1178
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 .1terms.com
@@ -47091,6 +47091,7 @@ inapps.appsflyersdk.com
 .kyrkskatt.se
 .lanapengar.expressen.se
 .lararforbundet.analytics.ozzi.io
+.lasso.link
 .leadconnect.ipmaxi.se
 .leadenhancer.com
 .legero.com.se
@@ -49096,6 +49097,11 @@ inapps.appsflyersdk.com
 .thesac4.top
 .kmjndas.com
 .dnceqzz.icu
+.rszkhn.xyz
+.hfjk3wa.com
+.fmre1.com
+.fiktvlnc.icu
+.qucncfo.cn
 .zszhln.xyz
 .zvasuzb.icu
 .zxrcfw.com
