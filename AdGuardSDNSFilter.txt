@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-17 08:00:01·········数量:55130条·········增量:$[55130-$[55132-1]]条·········
+#·········更新时间:2023-08-17 09:00:01·········数量:55135条·········增量:$[55135-$[55132-1]]条·········
 .dr7.biz
 .wuftoars.net
 .afdrivovoq.com
@@ -49091,6 +49091,11 @@ inapps.appsflyersdk.com
 .ziravd.xyz
 .znyjmbh.icu
 .zonyff.xyz
+.bfjk360.com
+.zzisnvb.cn
+.thesac4.top
+.kmjndas.com
+.dnceqzz.icu
 .zszhln.xyz
 .zvasuzb.icu
 .zxrcfw.com
