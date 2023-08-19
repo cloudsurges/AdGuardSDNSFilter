@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-19 20:00:01·········数量:55271条·········增量:$[55271-$[55273-1]]条·········
+#·········更新时间:2023-08-19 21:00:01·········数量:55274条·········增量:$[55274-$[55273-1]]条·········
 .watekade.xyz
 .smervyfenks.com
 .dr7.biz
@@ -49231,6 +49231,9 @@ inapps.appsflyersdk.com
 .brendanbc.com
 .mmtnat.com
 .ajtdumo.cn
+.bslbahv.top
+.dadms.cn
+.tqytqdrq.icu
 .zszhln.xyz
 .zvasuzb.icu
 .zxrcfw.com
