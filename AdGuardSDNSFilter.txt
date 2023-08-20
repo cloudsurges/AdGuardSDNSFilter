@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-20 08:00:01·········数量:55292条·········增量:$[55292-$[55294-1]]条·········
+#·········更新时间:2023-08-20 09:00:01·········数量:55299条·········增量:$[55299-$[55294-1]]条·········
 .smervyfenks.com
 .sjolcdkqwiybh.xyz
 .gastersliddry.com
@@ -40220,6 +40220,7 @@ inapps.appsflyersdk.com
 .pointlesspocket.com
 .pointlessprofit.com
 .politeplanes.com
+.politicalporter.com
 .popcornfood.com
 .potatoinvention.com
 .predictplate.com
@@ -49252,6 +49253,12 @@ inapps.appsflyersdk.com
 .zmdjbl.xyz
 .znyjmbh.icu
 .zonyff.xyz
+.pgght17.com
+.lshuaibin.cn
+.hacde1.icu
+.nmssdbgmf.xyz
+.zwfkxb.xyz
+.fxeaobv.icu
 .zszhln.xyz
 .zvasuzb.icu
 .zxrcfw.com
