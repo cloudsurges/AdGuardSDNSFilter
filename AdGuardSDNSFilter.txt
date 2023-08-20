@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-20 20:00:01·········数量:55363条·········增量:$[55363-$[55365-1]]条·········
+#·········更新时间:2023-08-20 21:00:01·········数量:55383条·········增量:$[55383-$[55365-1]]条·········
 .smervyfenks.com
 .sjolcdkqwiybh.xyz
 .gastersliddry.com
@@ -3335,6 +3335,7 @@ vkcdnservice.appspot.com
 .agraffesalps.com
 .agraglie.net
 .agrarianbeepsensitivity.com
+.agreeable-target.pro
 .agreedrunawaysalty.com
 .agreeingflippantointment.com
 .agregadorcode.com
@@ -4622,6 +4623,7 @@ vkcdnservice.appspot.com
 .auloucma.net
 .aulrains.com
 .aulricol.xyz
+.aulsaftu.net
 .aulteeby.net
 .aultseemedto.xyz
 .aulttrailwaysi.xyz
@@ -7672,6 +7674,7 @@ vkcdnservice.appspot.com
 .confirmationefficiency.com
 .confirmationevidence.com
 .confiscateappellationreason.com
+.confiskbriggs.top
 .confrontationdrunk.com
 .confused-classic.pro
 .congestionbeautycrystal.com
@@ -8250,6 +8253,7 @@ vkcdnservice.appspot.com
 .d2t72ftdissnrr.cloudfront.net
 .d2vvyk8pqw001z.cloudfront.net
 .d2yeczd6cyyd0z.cloudfront.net
+.d30tme16wdjle5.cloudfront.net
 .d30yd3ryh0wmud.cloudfront.net
 .d37aacdbcc.com
 .d37ax1qs52h69r.cloudfront.net
@@ -10709,6 +10713,7 @@ vkcdnservice.appspot.com
 .familyborn.com
 .familyliar.com
 .faminedealergirl.com
+.famobmf.com
 .famoot.com
 .famous-line.pro
 .famousremainedshaft.com
@@ -10902,6 +10907,7 @@ vkcdnservice.appspot.com
 .fenchylsoonish.com
 .fenixm.com
 .fensough.xyz
+.fepgdpebyr.com
 .fer2oxheou4nd.com
 .feredletrighro.com
 .feredletrighro.info
@@ -10952,6 +10958,7 @@ vkcdnservice.appspot.com
 .fgxfnkiojgs.com
 .fh259by01r25.com
 .fhenzejas.com
+.fhepiqajsdap.com
 .fhesrohah.com
 .fhgh9sd.com
 .fhisladyloveh.xyz
@@ -11373,6 +11380,7 @@ vkcdnservice.appspot.com
 .fpgedsewst.com
 .fpnpmcdn.net
 .fpukxcinlf.com
+.fpybtxqfywreqhb.xyz
 .fqanulluixeis.com
 .fqkwn.com
 .fqtfwulmcdw.com
@@ -12141,6 +12149,7 @@ vkcdnservice.appspot.com
 .gnashedmaypops.digital
 .gnditiklas.com
 .gnjxesyfensbh.com
+.gnkljnfbd.com
 .gnosticwinks.com
 .go-rillatrack.com
 .go2.global
@@ -13337,6 +13346,7 @@ vkcdnservice.appspot.com
 .humiliating-risk.pro
 .humiliating-tradition.pro
 .humilityanytime.com
+.hummertulwar.guru
 .humoralpurline.com
 .humordecomposebreathtaking.com
 .humpdecompose.com
@@ -14338,6 +14348,7 @@ vkcdnservice.appspot.com
 .je8fn.com
 .jealousyimpostersophia.com
 .jeannvalmvvvr.top
+.jeannvalmvvzv.top
 .jeansalterne.top
 .jechesmacaltont.info
 .jeckear.com
@@ -15396,6 +15407,7 @@ vkcdnservice.appspot.com
 .ledrapti.net
 .ledslevier.com
 .leeante.com
+.leebisuk.xyz
 .leechdesperatelymidterm.com
 .leechiza.net
 .leefoojo.com
@@ -16747,9 +16759,11 @@ vkcdnservice.appspot.com
 .mixykails.com
 .mizensdisney.com
 .mjehvuwgy.com
+.mjeltachv.com
 .mjjjhfgqqpt.com
 .mjnomtahm.com
 .mjtwoqupix.com
+.mjzrebrjty.com
 .mkcurches.com
 .mkgiiijigxwwn.com
 .mkhoj.com
@@ -17401,6 +17415,7 @@ vkcdnservice.appspot.com
 .ndthensome.com
 .ndweandthe.xyz
 .ndweandthep.xyz
+.ndwouldmeu.info
 .neads.delivery
 .neadwnhhis.xyz
 .nearbyforcedirty.com
@@ -18498,6 +18513,7 @@ vkcdnservice.appspot.com
 .oodsoobe.com
 .oodsotso.com
 .ooftauph.com
+.oofycyur.com
 .oofyjigsaw.com
 .oogleaamentum.com
 .ooglootch.com
@@ -22200,6 +22216,7 @@ vkcdnservice.appspot.com
 .rtmark.net
 .rtnews.pro
 .rtorvhhdru.xyz
+.rtoukfareputfe.info
 .rtpdn11.com
 .rtpdn14.com
 .rtphit.com
@@ -26614,6 +26631,7 @@ vkcdnservice.appspot.com
 .vbvpkdwucilopuw.xyz
 .vcbydvfouqqyls.com
 .vcdc.com
+.vcdpuyl.com
 .vcmedia.com
 .vcommission.com
 .vcuasvopknu.com
@@ -49323,6 +49341,8 @@ inapps.appsflyersdk.com
 .nmssdbgmf.xyz
 .zwfkxb.xyz
 .fxeaobv.icu
+.360114.xyz
+.piqtpbxo.icu
 .zszhln.xyz
 .zvasuzb.icu
 .zxrcfw.com
