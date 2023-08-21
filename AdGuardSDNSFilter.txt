@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-22 03:00:01·········数量:55491条·········增量:$[55491-$[55466-1]]条·········
+#·········更新时间:2023-08-22 04:00:01·········数量:55491条·········增量:$[55491-$[55493-1]]条·········
 .chuxuwem.tv
 .kxuattexg.com
 .smervyfenks.com
