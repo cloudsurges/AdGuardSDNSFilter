@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-23 08:00:01·········数量:55339条·········增量:$[55339-$[55341-1]]条·········
+#·········更新时间:2023-08-23 09:00:01·········数量:55342条·········增量:$[55342-$[55341-1]]条·········
+.ads1-adnow.com
 .thaitchy.net
 .chuxuwem.tv
 .kxuattexg.com
@@ -47373,7 +47374,6 @@ inapps.appsflyersdk.com
 .stats.userneeds.com
 .statsapi.tiendeo.se
 .storymedia.se
-.st-n.ads1-adnow.com
 .synchrobox.adswizz.com
 .s-eu-1.pushpushgo.com
 .t.atmng.io
@@ -49283,6 +49283,9 @@ inapps.appsflyersdk.com
 .zvasuzb.icu
 .zwfkxb.xyz
 .zxrcfw.com
+.5lfgdju.com
+.fgetmzx.icu
+.hegk02a.top
 .zypzzv.xyz
 .zzisnvb.cn
 .01fen.com
