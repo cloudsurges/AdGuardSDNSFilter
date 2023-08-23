@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-23 15:00:01·········数量:55344条·········增量:$[55344-$[55344-1]]条·········
+#·········更新时间:2023-08-23 16:00:01·········数量:55344条·········增量:$[55344-$[55346-1]]条·········
 .ads1-adnow.com
 .thaitchy.net
 .chuxuwem.tv
