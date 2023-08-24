@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-24 20:00:01·········数量:55352条·········增量:$[55352-$[55354-1]]条·········
+#·········更新时间:2023-08-24 21:00:01·········数量:55357条·········增量:$[55357-$[55354-1]]条·········
+.xegmsox.com
 .dioxidtoluyls.com
 .optaivuy.net
 .ads1-adnow.com
@@ -30940,6 +30941,7 @@ vkcdnservice.appspot.com
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.ads*.bojijulebu.com
 .stream.spongead.com
 .naverpa-phinf.pstatic.net
 .tivan.naver.com
@@ -36068,6 +36070,7 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.tracker.p3a.net
 .tracking.socketlabs.com
 .analytics.elegela.us
 .analytics.code.illusion.jp
@@ -45708,7 +45711,6 @@ inapps.appsflyersdk.com
 .ad.bestsportstream.com
 .ad.donanimhaber.com
 .ad.eglenced.com
-.ad.emlakeki.com
 .ad.reklam.xyz
 .ad.reyazilim.com
 .ad.setrowid.com
@@ -45987,6 +45989,7 @@ inapps.appsflyersdk.com
 .mineralisasse.site
 .kz.cateredjapish.com
 .adserver.icimedias.ca
+.nectarineple.com
 .antennash.com
 .unddeliv.com
 .ad.886644.com
@@ -49297,6 +49300,8 @@ inapps.appsflyersdk.com
 .yasg114.com
 .itienlo.top
 .rvzlobj.cn
+.txcv68f.com
+.f1tfmxzg.icu
 .zypzzv.xyz
 .zzisnvb.cn
 .01fen.com
