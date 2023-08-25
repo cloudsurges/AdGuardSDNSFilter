@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-25 08:00:01·········数量:55377条·········增量:$[55377-$[55379-1]]条·········
+#·········更新时间:2023-08-25 09:00:01·········数量:55378条·········增量:$[55378-$[55379-1]]条·········
 .xegmsox.com
 .dioxidtoluyls.com
 .optaivuy.net
@@ -49315,6 +49315,8 @@ inapps.appsflyersdk.com
 .zvasuzb.icu
 .zwfkxb.xyz
 .zxrcfw.com
+.zdwykjd.icu
+.xhpghv.xyz
 .zypzzv.xyz
 .zzisnvb.cn
 .01fen.com
@@ -55080,7 +55082,6 @@ analytics-*.aasaam.com
 .vast.filmnet.ir
 # https://github.com/MasterKia/PersianBlocker/issues/107
 .analytics.football360.ir
-.fb-gw.bef.rest
 .sentry.footballiapp.com
 .analysis.faradars.org
 .tracker.farsnews.ir
