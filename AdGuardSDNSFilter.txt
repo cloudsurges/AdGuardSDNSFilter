@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-25 12:00:01·········数量:55378条·········增量:$[55378-$[55380-1]]条·········
+#·········更新时间:2023-08-25 13:00:01·········数量:55378条·········增量:$[55378-$[55380-1]]条·········
 .xegmsox.com
 .dioxidtoluyls.com
 .optaivuy.net
