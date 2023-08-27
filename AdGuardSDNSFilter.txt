@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-27 08:00:01·········数量:55408条·········增量:$[55408-$[55410-1]]条·········
+#·········更新时间:2023-08-27 09:00:01·········数量:55415条·········增量:$[55415-$[55410-1]]条·········
 .ohkyxnjj.com
 .jezailmasking.com
 .xegmsox.com
@@ -49341,6 +49341,12 @@ inapps.appsflyersdk.com
 .zvasuzb.icu
 .zwfkxb.xyz
 .zxrcfw.com
+.hbxhnqj.cn
+.3ad5iot.com
+.rbodwtj.icu
+.nbtfbb.xyz
+.danstr.fun
+.81wx.info
 .zypzzv.xyz
 .zzisnvb.cn
 .01fen.com
@@ -55257,6 +55263,7 @@ analytics-*.aasaam.com
 .mogo-crypto.net
 # https://github.com/Webamoozcom/warning-list/discussions/174
 .tinancefa.org
+.wibodir.com
 .abcounter.de
 .mobileanalytics.*.amazonaws.com
 .affiliate.mercola.com
