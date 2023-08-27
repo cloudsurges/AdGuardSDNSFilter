@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-27 14:00:01·········数量:55415条·········增量:$[55415-$[55417-1]]条·········
+#·········更新时间:2023-08-27 15:00:01·········数量:55415条·········增量:$[55415-$[55417-1]]条·········
 .ohkyxnjj.com
 .jezailmasking.com
 .xegmsox.com
@@ -49347,6 +49347,9 @@ inapps.appsflyersdk.com
 .nbtfbb.xyz
 .danstr.fun
 .81wx.info
+.sbcjahdc.com
+.999pro.top
+.l4efwdtg.icu
 .zypzzv.xyz
 .zzisnvb.cn
 .01fen.com
@@ -54597,7 +54600,6 @@ inapps.appsflyersdk.com
 .jab88.com
 .jb.dianshu119.com
 .jb.ecar168.cn
-.jc1.dayfund.cn
 .jc1.dayfund.com.cn
 .jddaw.com
 .jiaoben.eastday.com
@@ -54771,10 +54773,8 @@ inapps.appsflyersdk.com
 .static*.365inews.com
 .static.gaomaer.cn
 .static.ichehome.com
-.static.jiaquyi.com
 .static.meijiacun.com
 .static.rongkao.com
-.t.cnscore.com
 .t1.612.com
 .t1.xuefen.com.cn
 .taobc.com
