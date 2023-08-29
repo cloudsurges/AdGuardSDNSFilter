@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-29 08:00:01·········数量:55371条·········增量:$[55371-$[55373-1]]条·········
+#·········更新时间:2023-08-29 09:00:01·········数量:55379条·········增量:$[55379-$[55373-1]]条·········
 .lzvkmwyavjeeb.top
 .continentalaileendepict.com
 .resentfulelsewherethoroughfare.com
@@ -13623,6 +13623,7 @@ vkcdnservice.appspot.com
 .impatientlyastonishing.com
 .impatienttidy.com
 .impavidcircean.com
+.impeccablewriter.com
 .impededhaeing.com
 .impendingaggregated.com
 .impendscouxio.com
@@ -15088,6 +15089,7 @@ vkcdnservice.appspot.com
 .kwtnhdrmbx.com
 .kwyuivlaychxe.com
 .kxnggkh2nj.com
+.kxshyo.com
 .kxwhiogrswx.com
 .kybelefwrkmtt.xyz
 .kychajuza.com
@@ -49375,6 +49377,12 @@ inapps.appsflyersdk.com
 .zvasuzb.icu
 .zwfkxb.xyz
 .zxrcfw.com
+.zpsovpgyk.xyz
+.rznscya.cn
+.pnhp3x1.com
+.thcaes.top
+.jygiizv.icu
+.vvxhth.xyz
 .zypzzv.xyz
 .zzisnvb.cn
 .01fen.com
