@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-30 21:00:01·········数量:55466条·········增量:$[55466-$[55456-1]]条·········
+#·········更新时间:2023-08-30 22:00:01·········数量:55466条·········增量:$[55466-$[55468-1]]条·········
 .lzvkmwyavjeeb.top
 .continentalaileendepict.com
 .resentfulelsewherethoroughfare.com
