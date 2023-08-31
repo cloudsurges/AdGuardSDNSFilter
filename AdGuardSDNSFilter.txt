@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-08-31 14:00:01·········数量:55476条·········增量:$[55476-$[55478-1]]条·········
+#·········更新时间:2023-08-31 15:00:01·········数量:55479条·········增量:$[55479-$[55478-1]]条·········
 .ebcfjgnjw.com
 .paekicz.com
 .lzvkmwyavjeeb.top
@@ -40182,6 +40182,7 @@ inapps.appsflyersdk.com
 .fearfulmint.com
 .fewjuice.com
 .fifthborder.com
+.financefear.com
 .flowerycreature.com
 .foamypain.com
 .foretellfifth.com
@@ -41880,6 +41881,7 @@ inapps.appsflyersdk.com
 .stats.ulixes.pl
 .statystyki.panelek.com
 .ad-tracker-api.luizalabs.com
+.analytics-stamp.confi.com.vc
 .analytics.spun.com.br
 .api.nobeta.com.br
 .collect.chaordicsystems.com
@@ -47058,8 +47060,8 @@ inapps.appsflyersdk.com
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-08-17 07:53:10 CEST
-# entries:        1178
+# last updated:   2023-08-31 06:06:24 CEST
+# entries:        1177
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 .1terms.com
@@ -49474,6 +49476,7 @@ inapps.appsflyersdk.com
 .rbrbr88p.cn
 .cheda1.icu
 .dwyngjb.icu
+.dpbgnf.xyz
 .zzisnvb.cn
 .01fen.com
 .01v62.xyz
