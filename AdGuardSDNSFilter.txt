@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-03 01:00:01·········数量:54731条·········增量:$[54731-$[54733-1]]条·········
+#·········更新时间:2023-09-03 02:00:01·········数量:54731条·········增量:$[54731-$[54733-1]]条·········
 .yarndispost.com
 .dust-0001.delorazahnow.workers.dev
 .pwwqkppwqkezqer.site
