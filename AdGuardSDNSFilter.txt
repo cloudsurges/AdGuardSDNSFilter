@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-04 21:00:01·········数量:55048条·········增量:$[55048-$[55004-1]]条·········
+#·········更新时间:2023-09-04 22:00:01·········数量:55048条·········增量:$[55048-$[55050-1]]条·········
 .abmunnaa.com
 .optad360.net
 .dust-0001.delorazahnow.workers.dev
