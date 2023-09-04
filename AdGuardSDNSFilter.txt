@@ -1,5 +1,7 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-04 20:00:01·········数量:55002条·········增量:$[55002-$[55004-1]]条·········
+#·········更新时间:2023-09-04 21:00:01·········数量:55048条·········增量:$[55048-$[55004-1]]条·········
+.abmunnaa.com
+.optad360.net
 .dust-0001.delorazahnow.workers.dev
 .pwwqkppwqkezqer.site
 .awempt.com
@@ -2297,6 +2299,7 @@ vkcdnservice.appspot.com
 .aarswtcnoz.com
 .aasrs.info
 .aaxads.com
+.aayeuxotc.com
 .ab08706bb4.com
 .ab1n.net
 .ab3yssin4i6an.com
@@ -3392,6 +3395,7 @@ vkcdnservice.appspot.com
 .aimaffability.com
 .aimairou.net
 .aimatch.com
+.aimingaye.com
 .aimlessstrewwhistling.com
 .aimpocket.com
 .aimpooft.com
@@ -4122,6 +4126,7 @@ vkcdnservice.appspot.com
 .apsoopho.net
 .aptdiary.com
 .aptimorph.com
+.aptitudeproprietor.com
 .aptonnerv.buzz
 .apus.tech
 .apuwpigjno.com
@@ -4152,6 +4157,7 @@ vkcdnservice.appspot.com
 .arbourrenewal.com
 .arbtrnskid.com
 .arbutterfreer.com
+.arcadiavehemently.com
 .arccarterultimate.com
 .arcfctypact.top
 .archaicgrilledignorant.com
@@ -5946,6 +5952,7 @@ vkcdnservice.appspot.com
 .bookerstudent.com
 .bookeryboutre.com
 .bookletcanvass.com
+.bookletcarline.top
 .bookljlihooli.com
 .bookmakers.click
 .bookmanzyzzyva.com
@@ -5992,6 +5999,7 @@ vkcdnservice.appspot.com
 .borgoonu.net
 .borhod.com
 .boridescyamid.com
+.boringassistantincite.com
 .boriod.com
 .boriskink.com
 .bornrefreshmentheater.com
@@ -6149,6 +6157,7 @@ vkcdnservice.appspot.com
 .britanyculvert.website
 .brithungown.com
 .briticatederfd.site
+.britishensureplease.com
 .britishinquisitive.com
 .britonseyer.com
 .britonswime.website
@@ -6311,6 +6320,7 @@ vkcdnservice.appspot.com
 .bumpyfruitless.com
 .bumpyremittancecarnivorous.com
 .bunbeautifullycleverness.com
+.bunchedvisards.life
 .buncoswosh.com
 .bundleddayal.com
 .bungalowdispleasedwheeled.com
@@ -7739,6 +7749,7 @@ vkcdnservice.appspot.com
 .considerate-brief.pro
 .consideratepronouncedcar.com
 .considerationsheltercreed.com
+.consistinedibleconnections.com
 .consmo.net
 .consoupow.com
 .constablecuisinehamster.com
@@ -8777,6 +8788,7 @@ vkcdnservice.appspot.com
 .despik.com
 .desponddietist.com
 .dessly.ru
+.destinationoralairliner.com
 .destinedsponsornominate.com
 .desxpbub.xyz
 .detachedbates.com
@@ -10840,6 +10852,7 @@ vkcdnservice.appspot.com
 .farthersuspicious.com
 .fartmoda.com
 .fartris.pw
+.fasciaekatcina.com
 .fashionablegangsterexplosion.com
 .fashionacreak.life
 .fastapi.net
@@ -10870,6 +10883,7 @@ vkcdnservice.appspot.com
 .fatstepn.click
 .fatuoidmunify.com
 .fatwalkinger.club
+.fatzuclmihih.com
 .faudouglaitu.com
 .faultlessmilleranthill.com
 .faultspiano.com
@@ -11340,6 +11354,7 @@ vkcdnservice.appspot.com
 .fogayeown.com
 .foggytube.com
 .fogpurply.website
+.fogramokayed.com
 .fogvnoq.com
 .foheltou.com
 .foiblesretried.com
@@ -12025,6 +12040,7 @@ vkcdnservice.appspot.com
 .gforanythingam.com
 .gfsdloocn.com
 .gfstrck.com
+.gftkofhnz.com
 .gfumirjiva.com
 .gfxkxbai.com
 .ggedandoscarr.xyz
@@ -12340,6 +12356,7 @@ vkcdnservice.appspot.com
 .goelismidryl.com
 .goethejauks.com
 .goevyqdlo.xyz
+.gofecuhxltcqj.xyz
 .gofenews.com
 .gogglemessenger.com
 .gogglerespite.com
@@ -14124,6 +14141,7 @@ vkcdnservice.appspot.com
 .instancetonsil.com
 .instantdollarz.com
 .instantlyshrillblink.com
+.instantlyurged.com
 .instantnewzz.com
 .instantrefused.com
 .instantresp.com
@@ -14663,6 +14681,7 @@ vkcdnservice.appspot.com
 .jjaaybqjbnlaw.top
 .jjcwq.site
 .jjkwrqjklaaqa.top
+.jjmbmkklzwvbv.top
 .jjmxksqyfagljmg.com
 .jjoewnxeqt.com
 .jjqyqakarveb.com
@@ -15506,6 +15525,7 @@ vkcdnservice.appspot.com
 .lapsebreak.com
 .laptweakbriefly.com
 .lapypushistyye.com
+.laquearhokan.com
 .laqwnrazvywaz.top
 .larasub.conxxx.pro
 .larchesleatman.guru
@@ -15752,6 +15772,7 @@ vkcdnservice.appspot.com
 .lgviqkrimvmy.xyz
 .lgwddyouxxwd.com
 .lgyxxxlcsgwgfg.xyz
+.lhecbmq.com
 .lhiarfocjo.com
 .lhmos.com
 .li.blogtrottr.com
@@ -16086,6 +16107,7 @@ vkcdnservice.appspot.com
 .losingsplowter.com
 .lositz.com
 .lostinfuture.com
+.lotionfortunate.com
 .lotosmarkkaa.com
 .lotreal.com
 .lotsnippier.cam
@@ -16619,6 +16641,7 @@ vkcdnservice.appspot.com
 .maximherein.com
 .maximtoaster.com
 .maximumductpictorial.com
+.maximumimmortality.com
 .maximus-time.net
 .maxofzavdaft.com
 .maxonclick.com
@@ -17785,6 +17808,7 @@ vkcdnservice.appspot.com
 .nesiotcusses.space
 .nesispubl.buzz
 .neskxmfokctwq.com
+.neslaveswedge.guru
 .nesokiahld.com
 .nessainy.net
 .nessendencec.com
@@ -18725,6 +18749,7 @@ vkcdnservice.appspot.com
 .ompoppxulki.com
 .omsawkan.com
 .omshedinjaor.com
+.omvcilk.com
 .omxriphi.com
 .omzylhvhwp.com
 .onad.eu
@@ -19127,6 +19152,7 @@ vkcdnservice.appspot.com
 .ouncillorswhow.info
 .oungimuk.net
 .ounojushyxb.xyz
+.ounsamie.xyz
 .ounsoopt.xyz
 .oupaumul.net
 .oupe71eiun.com
@@ -19649,6 +19675,7 @@ vkcdnservice.appspot.com
 .pdxgfnnoan.com
 .peacebanana.com
 .peacefulactivity.com
+.peacefullyundergroundsubsided.com
 .peachrecess.com
 .peachsquat.com
 .peachywaspish.com
@@ -20761,6 +20788,7 @@ vkcdnservice.appspot.com
 .projectagoraservices.com
 .projectagoratech.com
 .projectwonderful.com
+.projetmildful.com
 .prolatecyclus.com
 .prolongdoadaptation.com
 .promisingcigar.com
@@ -20840,6 +20868,7 @@ vkcdnservice.appspot.com
 .providingforbidassure.com
 .providingstallionemployee.com
 .provincebarely.com
+.provingavidity.com
 .provisionpointingpincers.com
 .provlimbus.com
 .provocativeprivate.com
@@ -21033,6 +21062,7 @@ vkcdnservice.appspot.com
 .pubhotmax.com
 .pubianmending.space
 .pubimageboard.com
+.publicityparrots.com
 .publiclyemployeronerous.com
 .publicsparedpen.com
 .publicunloadbags.com
@@ -22632,6 +22662,7 @@ vkcdnservice.appspot.com
 .rtyznd.com
 .ru6sapasgs8tror.com
 .ruamupr.com
+.rubatowooer.digital
 .rubbersmyoxus.com
 .rubfastened.com
 .rubiestagaty.com
@@ -23159,6 +23190,7 @@ vkcdnservice.appspot.com
 .segrea.com
 .segreencolumn.com
 .seibertspart.com
+.seitypascola.com
 .seizecrashsophia.com
 .seizedlusciousextended.com
 .seizedorientationenrich.com
@@ -24050,6 +24082,7 @@ vkcdnservice.appspot.com
 .sophomoreprimarilyprey.com
 .sopiteddoggle.live
 .soqotr.com
+.sorbentfalsum.com
 .sordeexa.net
 .sordorcourtin.com
 .sorelyafric.com
@@ -24850,6 +24883,7 @@ vkcdnservice.appspot.com
 .swesomepop.com
 .swiftlylatterdilate.com
 .swiftpedigreebike.com
+.swigdomable.com
 .swimsunleisure.com
 .swimtwittercloakroom.com
 .swinesuburbanclue.com
@@ -24884,7 +24918,9 @@ vkcdnservice.appspot.com
 .sylvatealonely.com
 .symbolstudents.com
 .symbolultrasound.com
+.symmorybewept.com
 .symoqecnefjj.com
+.sympatheticclue.com
 .sympatheticfling.com
 .symphoneupcom.site
 .symphonyobservation.com
@@ -25479,6 +25515,7 @@ vkcdnservice.appspot.com
 .thouedslipped.life
 .thoughclassifiedjeff.com
 .thoughtfulcontroversy.com
+.thoughtfullyaskedscallop.com
 .thoughtleadr.com
 .thoughtsusta.xyz
 .thouhoom.xyz
@@ -25996,6 +26033,7 @@ vkcdnservice.appspot.com
 .traktrafficflow.com
 .tramcontact.com
 .tramplayeranyd.info
+.trampplantacre.com
 .tramshirethf.xyz
 .trandlife.info
 .transactionlumber.com
@@ -26254,6 +26292,7 @@ vkcdnservice.appspot.com
 .tujajnatzbmo.com
 .tujourda.net
 .tukipasti.com
+.tulasitoughie.com
 .tulipsameedge.com
 .tumblebit.com
 .tumblebit.org
@@ -26489,6 +26528,7 @@ vkcdnservice.appspot.com
 .ujasrnguqkdla.xyz
 .ujautifuleed.xyz
 .ujeejoan.net
+.ujevaice.com
 .ujhhfgbbhs.com
 .ujidhusjvmbfv.com
 .ujjxwbfgpfymc.xyz
@@ -26770,6 +26810,7 @@ vkcdnservice.appspot.com
 .unusuallynonfictionconsumption.com
 .unvanilluxer.com
 .unvenomtoxoids.com
+.unvextcentavo.com
 .unwartortlean.com
 .unwice.com
 .unwillingsnick.com
@@ -27143,6 +27184,7 @@ vkcdnservice.appspot.com
 .vax-now.com
 .vazypteke.pro
 .vbijjrg.com
+.vbmfeuvrtnxafy.com
 .vbqbtfkon.com
 .vbtrax.com
 .vbvpkdwucilopuw.xyz
@@ -27411,6 +27453,7 @@ vkcdnservice.appspot.com
 .viowrel.com
 .vip-datings.life
 .vip-vip-vup.com
+.vipads.live
 .vipcaptcha.live
 .vipcpms.com
 .vipicmou.net
@@ -28344,6 +28387,7 @@ vkcdnservice.appspot.com
 .woolasib.net
 .wooledswards.com
 .woolenabled.com
+.woolsawaq.com
 .woophoog.net
 .wootmedia.net
 .wootoash.net
@@ -49344,7 +49388,6 @@ inapps.appsflyersdk.com
 .vietbuzzad.com
 .vietdorje.com
 .vinaads.vn
-.vipads.live
 .vlxx.host
 .vnadssb.com
 .web-analytic.ghtk.vn
@@ -50094,6 +50137,8 @@ inapps.appsflyersdk.com
 .dvenkbn.icu
 .rrxddl.xyz
 .eexlgyn.cn
+.88lajs1.com
+.afxncq.com
 .zzisnvb.cn
 .01v62.xyz
 .0272aa.com
@@ -54843,6 +54888,7 @@ analytics-*.aasaam.com
 .tinancefa.org
 .wibodir.com
 .eh-ra-z-se-na.org
+.ebl-hot.com
 .abcounter.de
 .mobileanalytics.*.amazonaws.com
 .affiliate.mercola.com
