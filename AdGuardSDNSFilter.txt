@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-04 08:00:01·········数量:55002条·········增量:$[55002-$[55004-1]]条·········
+#·········更新时间:2023-09-04 09:00:01·········数量:55006条·········增量:$[55006-$[55004-1]]条·········
 .dust-0001.delorazahnow.workers.dev
 .pwwqkppwqkezqer.site
 .awempt.com
@@ -50094,6 +50094,10 @@ inapps.appsflyersdk.com
 .zwfkxb.xyz
 .zxrcfw.com
 .zypzzv.xyz
+.cheda7.icu
+.tltyygb.cn
+.wtienle.top
+.dvenkbn.icu
 .zzisnvb.cn
 .01v62.xyz
 .0272aa.com
