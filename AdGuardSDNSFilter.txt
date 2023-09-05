@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-05 08:00:01·········数量:55070条·········增量:$[55070-$[55072-1]]条·········
+#·········更新时间:2023-09-05 09:00:01·········数量:55084条·········增量:$[55084-$[55072-1]]条·········
 .abmunnaa.com
 .optad360.net
 .dust-0001.delorazahnow.workers.dev
@@ -7490,6 +7490,7 @@ vkcdnservice.appspot.com
 .coastlinebravediffers.com
 .coatsanguine.com
 .coatsnacrine.com
+.coawheer.net
 .coaxeswir.com
 .coaxwrote.com
 .cobalten.com
@@ -8244,6 +8245,7 @@ vkcdnservice.appspot.com
 .cvogttseoqnld.xyz
 .cvqgnkeqme.com
 .cvtfyyflrrkjsam.xyz
+.cvyimypsjxca.com
 .cwhsasrwne.xyz
 .cwknqqsjgboycim.xyz
 .cwkuki.com
@@ -13232,6 +13234,7 @@ vkcdnservice.appspot.com
 .hinkhimunpractical.com
 .hinoglauk.com
 .hinoidczarist.com
+.hinowlfuhrz.com
 .hioff1.info
 .hionedaugsbu.info
 .hip-97166b.com
@@ -15115,6 +15118,7 @@ vkcdnservice.appspot.com
 .kidnapbushesfuse.com
 .kidsboilingbeech.com
 .kidslinecover.com
+.kifaunsu.com
 .kifdngi.com
 .kihudevo.pro
 .kihwmtvzvi.com
@@ -20276,6 +20280,7 @@ vkcdnservice.appspot.com
 .plunderhoaxed.digital
 .plunderthetics.digital
 .plungeideals.life
+.plungepilmy.com
 .pluralsoc.uno
 .plusclick.biz
 .plutonactg.com
@@ -21287,6 +21292,7 @@ vkcdnservice.appspot.com
 .pwigekcyr.com
 .pwmctl.com
 .pwrgrowthapi.com
+.pwxtock.com
 .pwxueuocf.com
 .px3792.com
 .pxdghffadlhpbw.com
@@ -23922,6 +23928,7 @@ vkcdnservice.appspot.com
 .smuggleturnstile.com
 .smugmuseumframe.com
 .smuwitafmac.com
+.smyfbkk.com
 .snagbaudhulas.com
 .snaglighter.com
 .snailbodieshomesick.com
@@ -26305,6 +26312,7 @@ vkcdnservice.appspot.com
 .tuench.com
 .tuesdayfetidlit.com
 .tuffetenolize.com
+.tuffoonincaged.com
 .tufteraureous.digital
 .tugarmyindistinct.com
 .tugust.com
@@ -27843,6 +27851,7 @@ vkcdnservice.appspot.com
 .watchlivesports4k.club
 .watchmytopapp.top
 .watchnewpics.info
+.watchnewvids.online
 .watchnewvids.today
 .watchtaro.com
 .watchthistop.net
@@ -50161,6 +50170,11 @@ inapps.appsflyersdk.com
 .zwfkxb.xyz
 .zxrcfw.com
 .zypzzv.xyz
+.ajcode.co
+.bace10.top
+.oyfnkle.cn
+.lgoewtd.icu
+.zbzbzb.xyz
 .zzisnvb.cn
 .01v62.xyz
 .0272aa.com
