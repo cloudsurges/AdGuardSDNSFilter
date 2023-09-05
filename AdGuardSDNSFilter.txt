@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-06 03:00:01·········数量:55123条·········增量:$[55123-$[55099-1]]条·········
+#·········更新时间:2023-09-06 04:00:01·········数量:55123条·········增量:$[55123-$[55125-1]]条·········
 .plungepilmy.com
 .qkodjvdsm.com
 .wauwitew.net
