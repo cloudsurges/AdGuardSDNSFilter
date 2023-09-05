@@ -1,5 +1,8 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-05 14:00:01·········数量:55084条·········增量:$[55084-$[55086-1]]条·········
+#·········更新时间:2023-09-05 15:00:01·········数量:55089条·········增量:$[55089-$[55086-1]]条·········
+.plungepilmy.com
+.qkodjvdsm.com
+.wauwitew.net
 .abmunnaa.com
 .optad360.net
 .dust-0001.delorazahnow.workers.dev
@@ -20280,7 +20283,6 @@ vkcdnservice.appspot.com
 .plunderhoaxed.digital
 .plunderthetics.digital
 .plungeideals.life
-.plungepilmy.com
 .pluralsoc.uno
 .plusclick.biz
 .plutonactg.com
@@ -30167,6 +30169,7 @@ vkcdnservice.appspot.com
 .headerbidding.ai
 .headerlift.com
 .healthtrader.com
+.heliumads.com
 .horse-racing-affiliate-program.co.uk
 .hot-mob.com
 .hotelscombined.com.au
@@ -47713,8 +47716,8 @@ inapps.appsflyersdk.com
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-09-03 06:31:12 CEST
-# entries:        1180
+# last updated:   2023-09-05 06:48:25 CEST
+# entries:        1181
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 .1terms.com
@@ -50175,6 +50178,7 @@ inapps.appsflyersdk.com
 .oyfnkle.cn
 .lgoewtd.icu
 .zbzbzb.xyz
+.ptfxh.com
 .zzisnvb.cn
 .01v62.xyz
 .0272aa.com
@@ -53425,6 +53429,7 @@ inapps.appsflyersdk.com
 .zzxedr.xyz
 .zzxmcp.com
 .zzzhuoxiaqu.online
+.d37d9zbli5ytch.cloudfront.net
 .06789.xyz
 .3p8801.co
 .6651tp.com
