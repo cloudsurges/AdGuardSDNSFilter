@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-06 08:00:01·········数量:55123条·········增量:$[55123-$[55125-1]]条·········
+#·········更新时间:2023-09-06 09:00:01·········数量:55133条·········增量:$[55133-$[55125-1]]条·········
 .plungepilmy.com
 .qkodjvdsm.com
 .wauwitew.net
@@ -5944,6 +5944,7 @@ vkcdnservice.appspot.com
 .bonesinoffensivebook.com
 .bonfiresaltymilk.com
 .bongacams7.com
+.bongauns.xyz
 .bonnetiere-infrangible-burthening.xyz
 .bonnettaking.com
 .bonnnesfoxily.com
@@ -6408,6 +6409,7 @@ vkcdnservice.appspot.com
 .bwbmyzvjnqlwv.top
 .bwjjrmmxgdax.xyz
 .bwmvzwkbqlmrz.top
+.bwnmwhblsf.com
 .bwpcsycysm.xyz
 .bwvqjqmlkezkl.top
 .bwzlmmqwrrarv.top
@@ -16333,6 +16335,7 @@ vkcdnservice.appspot.com
 .lxfsimoastsiite.xyz
 .lxheot.com
 .lxmwfqqvyvmsxlw.com
+.lxmynmdcsavsdl.com
 .lxstat.com
 .lxudshpck.com
 .lybunbacwf.com
@@ -16385,6 +16388,7 @@ vkcdnservice.appspot.com
 .ma2gs3wne3gfej70osium.com
 .ma3ryh8l6v.de
 .maboazolsamp.com
+.mabtcaraqdho.com
 .macan-native.com
 .macedonjesse.life
 .macemaninbond.com
@@ -19673,6 +19677,7 @@ vkcdnservice.appspot.com
 .pbcde.com
 .pbdjtlghawpiuoq.com
 .pbdo.net
+.pbhjohrx.xyz
 .pbkqidejmes.ru
 .pblcpush.com
 .pblinq.com
@@ -50213,6 +50218,11 @@ inapps.appsflyersdk.com
 .zwfkxb.xyz
 .zxrcfw.com
 .zypzzv.xyz
+.vswswlz.icu
+.zents10.top
+.qxakzox.cn
+.qxrvmu.com
+.zlbcxr.xyz
 .zzisnvb.cn
 .01v62.xyz
 .0272aa.com
