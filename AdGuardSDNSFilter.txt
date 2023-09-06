@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-07 03:00:01·········数量:55300条·········增量:$[55300-$[55293-1]]条·········
+#·········更新时间:2023-09-07 04:00:01·········数量:55300条·········增量:$[55300-$[55302-1]]条·········
 .qmaacxajsovk.com
 .limurol.com
 .plungepilmy.com
