@@ -1,5 +1,8 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-07 20:00:01·········数量:55322条·········增量:$[55322-$[55324-1]]条·········
+#·········更新时间:2023-09-07 21:00:01·········数量:55327条·········增量:$[55327-$[55324-1]]条·········
+.wawhairt.net
+.basintippets.com
+.kelliontemiak.com
 .olnjitvizo.com
 .qmaacxajsovk.com
 .limurol.com
@@ -41917,6 +41920,7 @@ inapps.appsflyersdk.com
 .t.enuygun.com
 .t.jobsyn.org
 .t.menepe.com
+.t.playwayfinder.com
 .t.pointandplace.com
 .t.pswec.com
 .t.raptorsmartadvisor.com
@@ -50412,6 +50416,7 @@ inapps.appsflyersdk.com
 .hwnod.xyz
 .solaron.top
 .ttienli.top
+.knliylh.cn
 .zzisnvb.cn
 .01v62.xyz
 .0272aa.com
