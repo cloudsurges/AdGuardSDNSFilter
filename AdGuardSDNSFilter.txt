@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-08 08:00:01·········数量:55327条·········增量:$[55327-$[55329-1]]条·········
+#·········更新时间:2023-09-08 09:00:01·········数量:55339条·········增量:$[55339-$[55329-1]]条·········
 .wawhairt.net
 .basintippets.com
 .kelliontemiak.com
@@ -7496,6 +7496,7 @@ vkcdnservice.appspot.com
 .cluttered-win.pro
 .clvacjv.com
 .clvceacvvwgk.xyz
+.clxlxmbtysabn.com
 .clxlydpqpnsvxso.xyz
 .clxtsxwjp.com
 .clydetugger.com
@@ -9421,6 +9422,7 @@ vkcdnservice.appspot.com
 .dpbxtrqyljhse.xyz
 .dpdnav.com
 .dpfchqsiksjuyjc.xyz
+.dphpycbr.com
 .dpipel.com
 .dpmsrv.com
 .dprograp.online
@@ -11150,6 +11152,7 @@ vkcdnservice.appspot.com
 .ffffffdcdcdc.name
 .ffortyimagist.com
 .ffrywcxaewmpp.com
+.fftagtden.com
 .ffuzila.com
 .ffyabcmahqiz.com
 .fgddrrr.com
@@ -20755,6 +20758,7 @@ vkcdnservice.appspot.com
 .ppixufsalgm.com
 .pplferio.com
 .ppoommhizazn.com
+.ppovysmcycmwvv.com
 .pppbr.com
 .pprq7.com
 .pqxbcydpv.xyz
@@ -22007,6 +22011,7 @@ vkcdnservice.appspot.com
 .recipeominouscrest.com
 .recipesunny.com
 .reciprocaldowntownabout.com
+.reciteassemble.com
 .reciteimplacablepotato.com
 .recklessliver.com
 .recklessmarine.com
@@ -26189,6 +26194,7 @@ vkcdnservice.appspot.com
 .tpn134.com
 .tpopularcldfa.co
 .tpopularcldfb.co
+.tposkglvqookv.xyz
 .tpycithabalj.com
 .tpyshaaxps.com
 .tpyxplkcap.top
@@ -50415,6 +50421,11 @@ inapps.appsflyersdk.com
 .zwfkxb.xyz
 .zxrcfw.com
 .zypzzv.xyz
+.nqoxurf.icu
+.inowe.xyz
+.htseca.top
+.dmvckj.icu
+.hsfbpp.xyz
 .zzisnvb.cn
 .01v62.xyz
 .0272aa.com
@@ -54825,6 +54836,7 @@ analytics-*.aasaam.com
 .adpulse.ir
 .adsima.net
 .adtrace.io
+.adtrace.ir
 # https://twitter.com/Nikolaona/status/1699167838697652322
 .adtrace.world
 .affili.ir
