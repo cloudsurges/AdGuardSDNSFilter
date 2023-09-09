@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-09 18:00:01·········数量:55481条·········增量:$[55481-$[55483-1]]条·········
+#·········更新时间:2023-09-09 19:00:01·········数量:55481条·········增量:$[55481-$[55483-1]]条·········
 .alocdn.co
 .wawhairt.net
 .basintippets.com
