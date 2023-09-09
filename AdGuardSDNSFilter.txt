@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-10 05:00:01·········数量:55502条·········增量:$[55502-$[55504-1]]条·········
+#·········更新时间:2023-09-10 06:00:01·········数量:55502条·········增量:$[55502-$[55504-1]]条·········
 .cotwcpcjcrjfj.xyz
 .xfhgstxcytiu.com
 .zdqgsoqsmppd.com
