@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-12 09:00:01·········数量:55729条·········增量:$[55729-$[55703-1]]条·········
+#·········更新时间:2023-09-12 10:00:01·········数量:55729条·········增量:$[55729-$[55731-1]]条·········
 .ads4media.online
 .wyeszcj.com
 .ecusemis.com
