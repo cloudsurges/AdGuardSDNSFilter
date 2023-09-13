@@ -1,5 +1,7 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-13 08:00:01·········数量:55838条·········增量:$[55838-$[55840-1]]条·········
+#·········更新时间:2023-09-13 09:00:01·········数量:55858条·········增量:$[55858-$[55840-1]]条·········
+.popsads.net
+.mfabxfb.com
 .lbxetynjwqyrw.com
 .mmczmfgpq.com
 .capableimpregnablehazy.com
@@ -6351,6 +6353,7 @@ vkcdnservice.appspot.com
 .budvawshes.ru
 .buench.com
 .buency.com
+.buezsud.com
 .buffaloexemptdropped.com
 .buffersling.com
 .buffersthyrold.com
@@ -13674,6 +13677,7 @@ vkcdnservice.appspot.com
 .hotterenvisage.com
 .hotvids.online
 .hotvids.space
+.hotwildadult.com
 .hotwords.com
 .hotzoneunspeed.com
 .houdodoo.net
@@ -18888,6 +18892,7 @@ vkcdnservice.appspot.com
 .occxhidubbh.com
 .ocdouoqjvmn.com
 .oceanfilmingexperience.com
+.oceanvids.online
 .ocexprhrknxrhe.com
 .ocfhdcmwekmjf.com
 .ochaugly.net
@@ -19748,6 +19753,7 @@ vkcdnservice.appspot.com
 .owrtwsrp.com
 .owtvhrydewc.com
 .owvghihicw.com
+.owwogmlidz.com
 .owwqacrfi.com
 .owxanjxlxtfbjw.com
 .oxado.com
@@ -22509,6 +22515,7 @@ vkcdnservice.appspot.com
 .reluraun.com
 .remainingshook.com
 .remainttalenty.site
+.remarkable-assistant.pro
 .remarkablehorizontallywaiter.com
 .remarkablyson.com
 .remaysky.com
@@ -23912,6 +23919,7 @@ vkcdnservice.appspot.com
 .shadyobscene.com
 .shaftheadstonetopmost.com
 .shaggyaleswede.com
+.shahebso.com
 .shaickox.com
 .shaidolt.com
 .shailreeb.com
@@ -28507,6 +28515,7 @@ vkcdnservice.appspot.com
 .wazbuvdcij.com
 .wazensee.net
 .wbdds.com
+.wbfhivtydh.com
 .wbidder.online
 .wbidder2.com
 .wbidder3.com
@@ -29473,6 +29482,7 @@ vkcdnservice.appspot.com
 .xvolakoahxafi.com
 .xvpqmcgf.com
 .xvuslink.com
+.xvvclhrrpgiln.com
 .xvwebllndr.com
 .xwagtyhujov.com
 .xwlketvkzf.com
@@ -32991,6 +33001,7 @@ vkcdnservice.appspot.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytics.gnetworks.xyz
 .mon.zijieapi.com
 .statgw.devtodev.com
 .dmpmetrics.rcsmetrics.it
@@ -50925,6 +50936,15 @@ inapps.appsflyersdk.com
 .zwfkxb.xyz
 .zxrcfw.com
 .zypzzv.xyz
+.xtjpdfr.cn
+.hwivedn.icu
+.boats8.top
+.pjy55d.com
+.yyefao.com
+.fqpxzr.xyz
+.uslsxe.com
+.nwera.xyz
+.xeikwh.icu
 .zzisnvb.cn
 .01v62.xyz
 .0272aa.com
