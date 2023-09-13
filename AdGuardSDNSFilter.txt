@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-13 13:00:01·········数量:55858条·········增量:$[55858-$[55860-1]]条·········
+#·········更新时间:2023-09-13 14:00:01·········数量:55858条·········增量:$[55858-$[55860-1]]条·········
 .popsads.net
 .mfabxfb.com
 .lbxetynjwqyrw.com
