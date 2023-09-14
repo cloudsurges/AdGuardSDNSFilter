@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-14 08:00:01·········数量:56061条·········增量:$[56061-$[56063-1]]条·········
+#·········更新时间:2023-09-14 09:00:01·········数量:56077条·········增量:$[56077-$[56063-1]]条·········
 .popsads.net
 .mfabxfb.com
 .lbxetynjwqyrw.com
@@ -3838,6 +3838,7 @@ vkcdnservice.appspot.com
 .amucksballone.com
 .amuletasslike.guru
 .amunfezanttor.com
+.amused-ground.com
 .amuseglide.com
 .amusingsnow.pro
 .amuyonpastour.top
@@ -8170,6 +8171,7 @@ vkcdnservice.appspot.com
 .creativesumo.com
 .creativetourlips.com
 .creatorcloakroomborrowed.com
+.crectipumlu.com
 .credentialsdispatchsuperstitious.com
 .credibilitystakehemisphere.com
 .credibilityyowl.com
@@ -12655,6 +12657,7 @@ vkcdnservice.appspot.com
 .godwitescrol.com
 .goelbotony.com
 .goelismidryl.com
+.goesdeedinsensitive.com
 .goethejauks.com
 .goevyqdlo.xyz
 .gofecuhxltcqj.xyz
@@ -14354,6 +14357,7 @@ vkcdnservice.appspot.com
 .induceresistbrotherinlaw.com
 .indulgeperformance.com
 .industrialforemanmovements.com
+.industriouswounded.com
 .inebartotandodw.lol
 .inediblepollingbuzz.com
 .inediblewiderchuckled.com
@@ -15138,6 +15142,7 @@ vkcdnservice.appspot.com
 .joogivestou.com
 .jookaureate.com
 .jookouky.net
+.joomgartiumnyih.com
 .joomxer.fun
 .joopaish.com
 .jooptibi.net
@@ -19145,6 +19150,7 @@ vkcdnservice.appspot.com
 .ohspmuo.com
 .ohtctjiuow.com
 .ohwhdspj.com
+.oiarske.com
 .oidaio.com
 .oigduusrva.com
 .oillesssris.guru
@@ -21262,6 +21268,7 @@ vkcdnservice.appspot.com
 .pretextunfinished.com
 .pretty-size.pro
 .prettypasttime.com
+.prettypermission.pro
 .prettytypicalimpatience.com
 .prevailinsolence.com
 .prevalentprincess.com
@@ -25598,6 +25605,7 @@ vkcdnservice.appspot.com
 .svarajwens.com
 .svbzpenplok.com
 .svelterterton.com
+.svfwyyxzbjrd.com
 .sviter2s1olenyami1.com
 .svkmxwssih.com
 .svntrk.com
@@ -29040,6 +29048,7 @@ vkcdnservice.appspot.com
 .wiglessoctaves.com
 .wiglurto.xyz
 .wigrirtu.com
+.wikeqa.uno
 .wilcooxcheek.com
 .wild-plant.pro
 .wildernessproven.com
@@ -29662,6 +29671,7 @@ vkcdnservice.appspot.com
 .xueserverhost.com
 .xufmuhavdpze.com
 .xuninrfwruoyqb.xyz
+.xuosvih.com
 .xuqatkswi.com
 .xuzeez.com
 .xvaeqgtbnunpkff.com
@@ -29803,6 +29813,7 @@ vkcdnservice.appspot.com
 .yestilokano.top
 .yeteso.uno
 .yetterslave.com
+.yevudi.uno
 .yfbduqlo.xyz
 .yfbnlrprmjj.com
 .yfddaetiu.xyz
@@ -31022,7 +31033,6 @@ vkcdnservice.appspot.com
 .headerbidding.ai
 .headerlift.com
 .healthtrader.com
-.heliumads.com
 .horse-racing-affiliate-program.co.uk
 .hot-mob.com
 .hotelscombined.com.au
@@ -32566,6 +32576,7 @@ vkcdnservice.appspot.com
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.marketing.mangacopy.com
 .gdfp.gifshow.com
 .p1-lm.adukwai.com
 .audiomob.com
@@ -51148,6 +51159,11 @@ inapps.appsflyersdk.com
 .zwfkxb.xyz
 .zxrcfw.com
 .zypzzv.xyz
+.tseda4.icu
+.riqmqrd.icu
+.boxwcr.icu
+.naryvz.xyz
+.hncadh.com
 .zzisnvb.cn
 .01v62.xyz
 .0272aa.com
