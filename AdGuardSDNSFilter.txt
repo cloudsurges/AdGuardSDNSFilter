@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-15 21:00:01·········数量:56232条·········增量:$[56232-$[56213-1]]条·········
+#·········更新时间:2023-09-15 22:00:01·········数量:56231条·········增量:$[56231-$[56234-1]]条·········
 .preciousdoctor.pro
 .academic-information.com
 .doweralrostra.com
@@ -45239,7 +45239,6 @@ inapps.appsflyersdk.com
 .barbys.ru
 .barpe.ru
 .basetts.com
-.bashirian.biz
 .bb.tidopro.biz
 .bbeeejafhacbigaeih.ru
 .bbeljxm2dvwnfib.ru
@@ -48476,7 +48475,6 @@ inapps.appsflyersdk.com
 .4adtf.com.
 .4adtf.com
 .4rm.de
-.4strokemedia.com
 .a.partner-versicherung.de
 .a3h.de
 .ablida-rotation.com
@@ -51317,6 +51315,7 @@ inapps.appsflyersdk.com
 .alemu4s.com
 .ynfxxbp.xyz
 .gcbflvx.cn
+.777zz777zz.com
 .zzisnvb.cn
 .01v62.xyz
 .0272aa.com
