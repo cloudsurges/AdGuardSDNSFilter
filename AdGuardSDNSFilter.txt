@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-15 14:00:01·········数量:56207条·········增量:$[56207-$[56209-1]]条·········
+#·········更新时间:2023-09-15 15:00:01·········数量:56211条·········增量:$[56211-$[56209-1]]条·········
+.doweralrostra.com
 .scwawseh.com
 .tipslyrev.com
 .popsads.net
@@ -31760,6 +31761,7 @@ vkcdnservice.appspot.com
 .alarmsportsnetwork.com
 .api.140proof.com
 .api.bitp.it
+.app.clickfunnels.com
 .apps.media-lab.ai
 .assets.sheetmusicplus.com
 .award.sitekeuring.net
@@ -42594,6 +42596,7 @@ inapps.appsflyersdk.com
 .platform.iteratehq.com
 .plausibleio.workers.dev
 .pm.boostintegrated.com
+.popup-static.unisender.com
 .porpoise.azettl.net
 .pr.blogflux.com
 .prf.vagnt.com
@@ -51292,6 +51295,7 @@ inapps.appsflyersdk.com
 .789peizi.com
 .vktztp.xyz
 .evb0gxo.icu
+.alemu4s.com
 .zzisnvb.cn
 .01v62.xyz
 .0272aa.com
