@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-15 08:00:01·········数量:56194条·········增量:$[56194-$[56196-1]]条·········
+#·········更新时间:2023-09-15 09:00:01·········数量:56207条·········增量:$[56207-$[56196-1]]条·········
 .scwawseh.com
 .tipslyrev.com
 .popsads.net
@@ -5980,6 +5980,7 @@ vkcdnservice.appspot.com
 .bodsoakr.xyz
 .bodyguardencouraged.com
 .boenedb.com
+.boeneds.com
 .boeojpmxvwbgn.com
 .boffinsoft.com
 .boffoadsfeeds.com
@@ -27620,6 +27621,7 @@ vkcdnservice.appspot.com
 .unhidemeets.com
 .unhorseaa.com
 .unhosepedalo.com
+.unhrjzn.com
 .unicast.com
 .unicorndirtiness.com
 .unicornpride123.com
@@ -51281,6 +51283,15 @@ inapps.appsflyersdk.com
 .54dbg.xyz
 .xybnfn.xyz
 .1jc5t.xyz
+.tuhzjrr.cn
+.lestv7.icu
+.fsmhub.icu
+.dektcvna.icu
+.jkzbjv.xyz
+.ceshi1.ink
+.789peizi.com
+.vktztp.xyz
+.evb0gxo.icu
 .zzisnvb.cn
 .01v62.xyz
 .0272aa.com
@@ -55701,6 +55712,8 @@ analytics-*.aasaam.com
 .affstat.digikala.com
 .affiliate.digikala.com
 # >> B <<
+.binoads.ir
+.bl9.ir
 .backlink.ir
 .behtarinseo.ir
 .boorantech.com
