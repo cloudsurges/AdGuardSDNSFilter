@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-16 14:00:01·········数量:56251条·········增量:$[56251-$[56253-1]]条·········
+#·········更新时间:2023-09-16 15:00:01·········数量:56256条·········增量:$[56256-$[56253-1]]条·········
 .preciousdoctor.pro
 .academic-information.com
 .doweralrostra.com
@@ -51336,6 +51336,10 @@ inapps.appsflyersdk.com
 .zypzzv.xyz
 .vmbzhfh.cn
 .jcwtml.icu
+.kfjpren.xyz
+.cheda8.icu
+.vuvxpf.xyz
+.btienlv.top
 .zzisnvb.cn
 .01v62.xyz
 .0272aa.com
@@ -54960,6 +54964,7 @@ inapps.appsflyersdk.com
 .zt2088.com
 .ztyumn.ifeng.com
 .27gh.cc
+.cc.8181zx.com
 .003store.com
 .0941.org
 .1.07swz.com
