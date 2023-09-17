@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-17 14:00:01·········数量:56288条·········增量:$[56288-$[56290-1]]条·········
+#·········更新时间:2023-09-17 15:00:01·········数量:56289条·········增量:$[56289-$[56290-1]]条·········
 .preciousdoctor.pro
 .academic-information.com
 .doweralrostra.com
@@ -31854,6 +31854,7 @@ vkcdnservice.appspot.com
 .get.thisisvegas.com
 .gfxa.sheetmusicplus.com
 .gg.caixin.com
+.hb.yahoo.net
 .hbid.ams3.cdn.digitaloceanspaces.com
 .hotwire-widget.dailywire.com
 .inrdeals.com
