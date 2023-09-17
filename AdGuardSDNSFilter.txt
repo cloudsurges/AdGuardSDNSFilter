@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-17 13:00:01·········数量:56288条·········增量:$[56288-$[56290-1]]条·········
+#·········更新时间:2023-09-17 14:00:01·········数量:56288条·········增量:$[56288-$[56290-1]]条·········
 .preciousdoctor.pro
 .academic-information.com
 .doweralrostra.com
