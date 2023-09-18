@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-19 00:00:01·········数量:56344条·········增量:$[56344-$[56346-1]]条·········
+#·········更新时间:2023-09-19 01:00:01·········数量:56344条·········增量:$[56344-$[56346-1]]条·········
 .osmatecosh.com
 .psounsoo.xyz
 .oltcneutwheoioo.xyz
