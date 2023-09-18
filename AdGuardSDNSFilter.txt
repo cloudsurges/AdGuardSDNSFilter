@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-18 18:00:01·········数量:56327条·········增量:$[56327-$[56329-1]]条·········
+#·········更新时间:2023-09-18 19:00:01·········数量:56327条·········增量:$[56327-$[56329-1]]条·········
 .psounsoo.xyz
 .oltcneutwheoioo.xyz
 .bybyjrnrqqqqr.top
