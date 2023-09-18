@@ -1,5 +1,8 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-18 14:00:01·········数量:56322条·········增量:$[56322-$[56324-1]]条·········
+#·········更新时间:2023-09-18 15:00:01·········数量:56327条·········增量:$[56327-$[56324-1]]条·········
+.psounsoo.xyz
+.oltcneutwheoioo.xyz
+.bybyjrnrqqqqr.top
 .preciousdoctor.pro
 .academic-information.com
 .doweralrostra.com
@@ -41200,6 +41203,7 @@ inapps.appsflyersdk.com
 .optoutadvertising.com
 .osdata.solutions
 .outbid.io
+.owltrack.com
 .ox-bio.com
 .pabidding.io
 .parametre.online
@@ -51407,6 +51411,7 @@ inapps.appsflyersdk.com
 .dozwjl.xyz
 .rwarwf.icu
 .dniwe.xyz
+.qu96.com
 .01v62.xyz
 .0272aa.com
 .0272bb.com
