@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-18 20:00:01·········数量:56327条·········增量:$[56327-$[56329-1]]条·········
+#·········更新时间:2023-09-18 21:00:01·········数量:56344条·········增量:$[56344-$[56329-1]]条·········
+.osmatecosh.com
 .psounsoo.xyz
 .oltcneutwheoioo.xyz
 .bybyjrnrqqqqr.top
@@ -5690,6 +5691,7 @@ vkcdnservice.appspot.com
 .biemedia.com
 .biforinslogs.life
 .bifsujtwmpojqpt.com
+.biftoast.com
 .bigappboi.com
 .bigbasketshop.com
 .bigbolz.com
@@ -6957,6 +6959,7 @@ vkcdnservice.appspot.com
 .cdtbox.rocks
 .cduamwclb.com
 .cdwehdnnprdntse.com
+.ce2c208e9f.com
 .ceamtaaprhha.xyz
 .ceawoment.info
 .ceawvx.com
@@ -7139,6 +7142,7 @@ vkcdnservice.appspot.com
 .cheatoppressive.com
 .chebecsunsack.com
 .checaigu.net
+.chechawia.com
 .check-now.online
 .check-out-this.site
 .checkcdn.net
@@ -8532,6 +8536,7 @@ vkcdnservice.appspot.com
 .da03ab7249.com
 .da1a0e7bb3.com
 .daailynews.com
+.dabbyfather.com
 .dabletoverdid.space
 .daccroi.com
 .dacmaiss.com
@@ -11187,6 +11192,7 @@ vkcdnservice.appspot.com
 .fatwalkinger.club
 .fatzuclmihih.com
 .faudouglaitu.com
+.faulterdeplume.com
 .faultlessmilleranthill.com
 .faultspiano.com
 .faustbootery.com
@@ -11806,6 +11812,7 @@ vkcdnservice.appspot.com
 .forsookjaeger.com
 .forsphealan.com
 .fortaillowon.com
+.fortaiwy.xyz
 .fortdaukthw.hair
 .fortlachanhecksof.com
 .fortorterrar.com
@@ -12654,6 +12661,7 @@ vkcdnservice.appspot.com
 .glumtitu.net
 .gluondockize.digital
 .glurdoat.com
+.gluteinavarch.com
 .gluttonybrand.com
 .gluwhoas.com
 .glvhvesvnp.com
@@ -13353,6 +13361,7 @@ vkcdnservice.appspot.com
 .haywarn.com
 .hayyad.com
 .hazairgo.net
+.hazansent.com
 .hazelbeseech.com
 .hazelhannahfruit.com
 .hazelmutenessorchard.com
@@ -20792,6 +20801,7 @@ vkcdnservice.appspot.com
 .pillowcomedyvarieties.com
 .pillsofecho.com
 .pilltransgress.com
+.piloteegazy.com
 .piloteraser.com
 .pilpulbagmen.com
 .pilsarde.net
@@ -21365,6 +21375,7 @@ vkcdnservice.appspot.com
 .premium4kflix.top
 .premium4kflix.website
 .premiumads.net
+.premiummangle.com
 .premiumredir.ru
 .premiumvertising.com
 .premonitioneuropeanstems.com
@@ -23778,6 +23789,7 @@ vkcdnservice.appspot.com
 .sarcodrix.com
 .sarcoma.space
 .sardaursaz.com
+.sargosvalgus.com
 .sarinfalun.com
 .sarinjowel.com
 .sarsaretint.com
@@ -37911,6 +37923,7 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.f459fdc403a6.78a5254f.ap-northeast-1.token.awswaf.com
 .o1000929.ingest.sentry.io
 .sta.tirexo.ink
 .pixel.aws.pfnetwork.net
@@ -51412,6 +51425,10 @@ inapps.appsflyersdk.com
 .rwarwf.icu
 .dniwe.xyz
 .qu96.com
+.whjding.cn
+.pgpufyzi.xyz
+.ypvtw.com
+.32ycta.xyz
 .01v62.xyz
 .0272aa.com
 .0272bb.com
