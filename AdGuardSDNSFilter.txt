@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-19 17:00:01·········数量:56381条·········增量:$[56381-$[56383-1]]条·········
+#·········更新时间:2023-09-19 18:00:01·········数量:56381条·········增量:$[56381-$[56383-1]]条·········
 .qhlegkjlnmg.com
 .haustoam.com
 .eqvudqracrhalsg.com
