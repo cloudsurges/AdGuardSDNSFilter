@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-20 04:00:01·········数量:56413条·········增量:$[56413-$[56415-1]]条·········
+#·········更新时间:2023-09-20 05:00:01·········数量:56413条·········增量:$[56413-$[56415-1]]条·········
 .urnigarted.com
 .bettermeter.com
 .slivmux.com
