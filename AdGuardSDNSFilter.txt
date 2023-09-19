@@ -1,5 +1,9 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-19 20:00:01·········数量:56381条·········增量:$[56381-$[56383-1]]条·········
+#·········更新时间:2023-09-19 21:00:01·········数量:56388条·········增量:$[56388-$[56383-1]]条·········
+.bettermeter.com
+.slivmux.com
+.ebooks.dental
+.magniffic-strean.com
 .qhlegkjlnmg.com
 .haustoam.com
 .eqvudqracrhalsg.com
@@ -40562,6 +40566,7 @@ inapps.appsflyersdk.com
 .apeagle.io
 .apenterprise.io
 .apxl.io
+.as3.io
 .awmonitor.com
 .ayc0zsm69431gfebd.info
 .bidgx.com
@@ -40776,6 +40781,7 @@ inapps.appsflyersdk.com
 .vkanalytics.net
 .vpdcp.com
 .vstats.me
+.walkerllaw.org
 .whale3.io
 .widgetbe.com
 .wknd.ai
@@ -40884,7 +40890,6 @@ inapps.appsflyersdk.com
 .beampulse.com
 .beemray.com
 .benchtag2.co
-.bettermeter.com
 .bettermetrics.co
 .bgpng.me
 .bidphysics.com
@@ -41088,6 +41093,7 @@ inapps.appsflyersdk.com
 .hospitality-optimizer.com
 .hscta.net
 .humanpresence.app
+.hyperdx.io
 .iaudienc.com
 .ifvox.com
 .impression.link
@@ -42559,7 +42565,6 @@ inapps.appsflyersdk.com
 .f-log-test.grammarly.io
 .fcmatch.google.com
 .fcmatch.youtube.com
-.fenix.walkerllaw.org
 .filament-stats.herokuapp.com
 .fingerprinter-production.herokuapp.com
 .fkrkkmxsqeb5bj9r.s3.amazonaws.com
@@ -42954,6 +42959,7 @@ inapps.appsflyersdk.com
 .tracking.rapidape.com
 .tracking.searchmarketing.com
 .tracking.sembox.it
+.tracking.server.bytecon.com
 .tracking.sezzle.com
 .tracking.sharplink.us
 .tracking.waterfrontmedia.com
@@ -47550,6 +47556,7 @@ inapps.appsflyersdk.com
 .hdvmyo.com
 .ads1-adselo.com
 .adsy.mail.bg
+.flarby.com
 .pigeoon.com
 .trkwinaff13.com
 .adsby.io
