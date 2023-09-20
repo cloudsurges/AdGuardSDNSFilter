@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-20 14:00:01·········数量:56434条·········增量:$[56434-$[56436-1]]条·········
+#·········更新时间:2023-09-20 15:00:01·········数量:56439条·········增量:$[56439-$[56436-1]]条·········
+.opkfijuifbuyynyny.com
 .chrothe.com
 .urnigarted.com
 .bettermeter.com
@@ -15337,6 +15338,7 @@ vkcdnservice.appspot.com
 .jrpkizae.com
 .jrrryblqkaejw.top
 .jrrryblqkarqv.top
+.js.j8jp.com
 .js.manga1000.top
 .js2json.com
 .js7k.com
@@ -41179,6 +41181,7 @@ inapps.appsflyersdk.com
 .km-sea.net
 .kmtx.io
 .knorex.com
+.knotch-cdn.com
 .koddi.com
 .koji-analytics.com
 .kokos.click
@@ -51519,6 +51522,10 @@ inapps.appsflyersdk.com
 .rsde1.top
 .ewzavfde.xyz
 .fnitw.xyz
+.clisatf.top
+.wzguosutang.com
+.gzdszb.cn
+.cirruscarnival.com
 .01v62.xyz
 .0272aa.com
 .0272bb.com
@@ -52874,7 +52881,6 @@ inapps.appsflyersdk.com
 .j04r.top
 .j1p6w.xyz
 .j721s.top
-.j8jp.com
 .jaowd.xyz
 .japsmna.cyou
 .javddngx.cyou
@@ -54861,7 +54867,6 @@ inapps.appsflyersdk.com
 .380.tw
 .52av.be
 .j8377.com
-.slipdashedundermine.com
 .1024mzs.pw
 .1024wanzhai.
 .5lu8.com
