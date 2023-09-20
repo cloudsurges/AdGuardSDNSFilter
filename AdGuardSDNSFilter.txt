@@ -1,5 +1,7 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-20 20:00:01·········数量:56439条·········增量:$[56439-$[56441-1]]条·········
+#·········更新时间:2023-09-20 21:00:01·········数量:56441条·········增量:$[56441-$[56441-1]]条·········
+.whoustoa.net
+.gijxsthpuqdwcn.com
 .opkfijuifbuyynyny.com
 .chrothe.com
 .urnigarted.com
@@ -51526,6 +51528,7 @@ inapps.appsflyersdk.com
 .wzguosutang.com
 .gzdszb.cn
 .cirruscarnival.com
+.pelageforgers.com
 .01v62.xyz
 .0272aa.com
 .0272bb.com
@@ -55384,7 +55387,6 @@ inapps.appsflyersdk.com
 .bd.watu.cn
 .bd1-china.6789.com
 .bd1.365qilu.com
-.bd1.99danji.com
 .bd1.click.com.cn
 .bd1.flfgw.cn
 .bd1.guancha.cn
