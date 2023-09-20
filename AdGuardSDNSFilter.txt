@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-20 12:00:01·········数量:56434条·········增量:$[56434-$[56436-1]]条·········
+#·········更新时间:2023-09-20 13:00:01·········数量:56434条·········增量:$[56434-$[56436-1]]条·········
 .chrothe.com
 .urnigarted.com
 .bettermeter.com
