@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-21 20:00:01·········数量:56485条·········增量:$[56485-$[56487-1]]条·········
+#·········更新时间:2023-09-21 21:00:01·········数量:56493条·········增量:$[56493-$[56487-1]]条·········
 .whoustoa.net
 .gijxsthpuqdwcn.com
 .opkfijuifbuyynyny.com
@@ -4242,6 +4242,7 @@ vkcdnservice.appspot.com
 .aralomomolachan.com
 .arangoyaffing.com
 .arautsod.com
+.arbersunroof.com
 .arbitrarypoppyblackmail.com
 .arbourrenewal.com
 .arbourtalessterile.com
@@ -7102,6 +7103,7 @@ vkcdnservice.appspot.com
 .chaintopdom.nl
 .chainwalladsery.com
 .chainwalladsy.com
+.chaiphuy.com
 .chaiptut.xyz
 .chairgaubsy.com
 .chairmansmile.com
@@ -9144,6 +9146,7 @@ vkcdnservice.appspot.com
 .dictatormiserablealec.com
 .dictionarycoefficientapparently.com
 .dictiontajik.com
+.dictumstortil.com
 .dictysoph.website
 .didiessyrt.com
 .didinejaspoid.com
@@ -13148,6 +13151,7 @@ vkcdnservice.appspot.com
 .gumlahlerot.com
 .gummierhedera.life
 .gungpurre.com
+.gunksjalapic.com
 .gunnersriser.guru
 .gunreset.com
 .gunsaidi.xyz
@@ -20931,6 +20935,7 @@ vkcdnservice.appspot.com
 .pittinekunai.com
 .piturisieged.com
 .pityneedsdads.com
+.pitypericu.com
 .pitysuffix.com
 .piupiucreed.life
 .pivotrunner.com
@@ -21782,6 +21787,7 @@ vkcdnservice.appspot.com
 .psognaih.xyz
 .psoogaix.net
 .psoolikoagy.com
+.psoompou.xyz
 .psoonuxo.net
 .psoorgou.com
 .psoorsen.com
@@ -51573,6 +51579,8 @@ inapps.appsflyersdk.com
 .gniew.xyz
 .sdjvbsjbvas.com
 .lrdyfz.xyz
+.gcgggct.cn
+.p1corn.com
 .01v62.xyz
 .0272aa.com
 .0272bb.com
