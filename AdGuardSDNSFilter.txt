@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-21 14:00:01·········数量:56482条·········增量:$[56482-$[56484-1]]条·········
+#·········更新时间:2023-09-21 15:00:02·········数量:56485条·········增量:$[56485-$[56484-1]]条·········
 .whoustoa.net
 .gijxsthpuqdwcn.com
 .opkfijuifbuyynyny.com
@@ -40646,6 +40646,7 @@ inapps.appsflyersdk.com
 .brontops.com
 .bx-cloud.com
 .bydst.com
+.byspotify.com
 .cadsuta.net
 .cdnhst.xyz
 .ciqtracking.com
@@ -40930,6 +40931,7 @@ inapps.appsflyersdk.com
 .apextag.com
 .api64.com
 .apolloprogram.io
+.appdynamics.com
 .appn.center
 .aprtn.com
 .apsis1.com
@@ -51570,6 +51572,7 @@ inapps.appsflyersdk.com
 .crvbnac.xyz
 .gniew.xyz
 .sdjvbsjbvas.com
+.lrdyfz.xyz
 .01v62.xyz
 .0272aa.com
 .0272bb.com
