@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-22 15:00:01·········数量:56552条·········增量:$[56552-$[56535-1]]条·········
+#·········更新时间:2023-09-22 16:00:01·········数量:56552条·········增量:$[56552-$[56554-1]]条·········
 .whoustoa.net
 .gijxsthpuqdwcn.com
 .opkfijuifbuyynyny.com
