@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-23 08:00:01·········数量:56586条·········增量:$[56586-$[56588-1]]条·········
+#·········更新时间:2023-09-23 09:00:01·········数量:56595条·········增量:$[56595-$[56588-1]]条·········
 .cczqyvuy812jdy.com
 .ioiubby73b1n.com
 .whoustoa.net
@@ -42688,6 +42688,7 @@ inapps.appsflyersdk.com
 .dotaudiences.com
 .doug1izaerwt3.cloudfront.net
 .dynamic.ziftsolutions.com
+.e.htplayground.com
 .ea.youmaker.com
 .ec.walkme.com
 .ecommstats.s3.amazonaws.com
@@ -44059,6 +44060,7 @@ inapps.appsflyersdk.com
 .ver-pelis.net
 .xclk-integracion.com
 .yestorrents.org
+.trackclicksplz.site
 .b.we-are-anon.com
 .fsm-files.ru
 .sofq.site
@@ -51674,6 +51676,13 @@ inapps.appsflyersdk.com
 .zxrcfw.com
 .zypzzv.xyz
 .zzisnvb.cn
+.cqmpigx.cn
+.winzid.icu
+.atdlbgx.xyz
+.bmjvrf.xyz
+.desac4.icu
+.cmbmtpjm.xyz
+.jczunp.xyz
 .01v62.xyz
 .0272aa.com
 .0272bb.com
