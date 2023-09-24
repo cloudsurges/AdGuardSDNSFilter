@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-24 14:00:01·········数量:56633条·········增量:$[56633-$[56635-1]]条·········
+#·········更新时间:2023-09-24 15:00:01·········数量:56635条·········增量:$[56635-$[56635-1]]条·········
 .mwbrnpmixxtu.com
 .ofdxfsho.com
 .zdxcuchr.com
@@ -51720,6 +51720,8 @@ inapps.appsflyersdk.com
 .voxirf.xyz
 .sbdvjsbjslkv.com
 .asclan.icu
+.rnfhsji.cn
+.7ohy3f.cn
 .01v62.xyz
 .0272aa.com
 .0272bb.com
