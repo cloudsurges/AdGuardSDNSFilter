@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-24 20:00:01·········数量:56635条·········增量:$[56635-$[56637-1]]条·········
+#·········更新时间:2023-09-24 21:00:01·········数量:56636条·········增量:$[56636-$[56637-1]]条·········
 .mwbrnpmixxtu.com
 .ofdxfsho.com
 .zdxcuchr.com
@@ -49055,8 +49055,8 @@ inapps.appsflyersdk.com
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-09-08 09:22:59 CEST
-# entries:        1182
+# last updated:   2023-09-24 12:49:41 CEST
+# entries:        1183
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 .1terms.com
@@ -49265,6 +49265,7 @@ inapps.appsflyersdk.com
 .greatstoryvideo.se
 .gtm.findroommate.dk
 .gtm.proff.se
+.gtm.stampenmedia.se
 .gwen.insertcoin.se
 .gymsharksverige.com.se
 .gym-shark-sverige.com.se
