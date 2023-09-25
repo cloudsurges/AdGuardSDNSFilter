@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-25 15:00:01·········数量:56651条·········增量:$[56651-$[56650-1]]条·········
+#·········更新时间:2023-09-25 16:00:01·········数量:56657条·········增量:$[56657-$[56653-1]]条·········
 .ebdokvydrvqvrak.xyz
 .koojaith.xyz
 .mwbrnpmixxtu.com
@@ -32987,6 +32987,13 @@ vkcdnservice.appspot.com
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.ads*-normal-lq.zijieapi.com
+.ad.zijieapi.com
+.pglstatp-toutiao.com
+.open.e.kuaishou.cn
+.open.e.kuaishou.com
+.open.kuaishouzt.com
+.open.kwaizt.com
 .ali-ad.a.yximgs.com
 .v*-ad.video.yximgs.com
 .tx-ad.a.yximgs.com
@@ -41279,7 +41286,6 @@ inapps.appsflyersdk.com
 .hospitality-optimizer.com
 .hscta.net
 .humanpresence.app
-.hyperdx.io
 .iaudienc.com
 .ifvox.com
 .impression.link
