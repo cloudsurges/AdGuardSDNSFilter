@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-25 14:00:01·········数量:56648条·········增量:$[56648-$[56650-1]]条·········
+#·········更新时间:2023-09-25 15:00:01·········数量:56651条·········增量:$[56651-$[56650-1]]条·········
 .ebdokvydrvqvrak.xyz
 .koojaith.xyz
 .mwbrnpmixxtu.com
@@ -2942,6 +2942,7 @@ vkcdnservice.appspot.com
 .adsalo.com
 .adsame.com
 .adsandcomputer.com
+.adsbar.online
 .adsbeard.com
 .adsblocker-ultra.com
 .adsblockersentinel.info
@@ -51735,6 +51736,8 @@ inapps.appsflyersdk.com
 .uslsjwnk.xyz
 .venum.top
 .ecmwsx.icu
+.havttn.xyz
+.7i4dka.cn
 .01v62.xyz
 .0272aa.com
 .0272bb.com
