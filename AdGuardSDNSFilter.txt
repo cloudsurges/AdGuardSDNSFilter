@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-25 21:00:01·········数量:56659条·········增量:$[56659-$[56659-1]]条·········
+#·········更新时间:2023-09-25 22:00:01·········数量:56659条·········增量:$[56659-$[56661-1]]条·········
 .highcpmrevenuegate.com
 .ebdokvydrvqvrak.xyz
 .koojaith.xyz
