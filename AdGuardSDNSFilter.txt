@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-26 18:00:01·········数量:56729条·········增量:$[56729-$[56731-1]]条·········
+#·········更新时间:2023-09-26 19:00:01·········数量:56727条·········增量:$[56727-$[56731-1]]条·········
 .amplayeranydwou.info
 .highcpmrevenuegate.com
 .ebdokvydrvqvrak.xyz
@@ -28314,7 +28314,6 @@ vkcdnservice.appspot.com
 .valemedia.net
 .valencevinyls.life
 .valerainingexplain.com
-.valeronevijao.com
 .valetedmasaris.website
 .valeuceplangka.com
 .valgoidaguglia.guru
@@ -37094,6 +37093,7 @@ vkcdnservice.appspot.com
 .visilabs.net
 .ay.delivery
 .functionalclam.com
+.roseincome.com
 .solarislabyrinth.com
 .engineertrick.com
 .aspiringapples.com
@@ -41809,7 +41809,6 @@ inapps.appsflyersdk.com
 .bosspush.com
 .browserpusher.com
 .cdn-sitegainer.com
-.cleverpush.com
 .copush.com
 .cracataum.com
 .danorenius.com
@@ -42370,7 +42369,6 @@ inapps.appsflyersdk.com
 .rigidrobin.com
 .ringplant.com
 .ritzyveil.com
-.roseincome.com
 .rottenray.com
 .sableloss.com
 .sablesong.com
@@ -48969,7 +48967,6 @@ inapps.appsflyersdk.com
 .gbucket.ch
 .geldcounter.de
 .gigapromo.de
-.goldbach.com
 .gonamic.de
 .goodads.de
 .green-ads.net
@@ -51813,6 +51810,7 @@ inapps.appsflyersdk.com
 .pvlnjwr.xyz
 .rdpsht.xyz
 .bzthxv.xyz
+.asfklgnbvx.com
 .01v62.xyz
 .0272aa.com
 .0272bb.com
