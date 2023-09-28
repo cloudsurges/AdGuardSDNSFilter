@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-09-29 03:00:01·········数量:56883条·········增量:$[56883-$[56828-1]]条·········
+#·········更新时间:2023-09-29 04:00:01·········数量:56883条·········增量:$[56883-$[56885-1]]条·········
 .sportzflix.xyz
 .mindlessslogan.com
 .bbrdbr.com
