@@ -1,5 +1,11 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-01 08:00:01·········数量:57010条·········增量:$[57010-$[57012-1]]条·········
+#·········更新时间:2023-10-01 09:00:01·········数量:57022条·········增量:$[57022-$[57012-1]]条·········
+.xxjcedclosxcaox.com
+.zmhwaiapbtfq.com
+.nuerprwm.xyz
+.irondai.com
+.brvuyvzdo.com
+.zantpvrsmninvx.com
 .hlyrecomemum.info
 .ainhiseewhat.com
 .sportzflix.xyz
@@ -52094,6 +52100,12 @@ inapps.appsflyersdk.com
 .zxrcfw.com
 .zypzzv.xyz
 .zzisnvb.cn
+.ryvexulg.xyz
+.wnnbvnj.cn
+.cheda2.icu
+.wbnlwyj.xyz
+.hesrod.icu
+.nzporf.xyz
 .01v62.xyz
 .0272aa.com
 .0272bb.com
