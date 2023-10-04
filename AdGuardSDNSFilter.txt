@@ -1,5 +1,7 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-05 00:00:01·········数量:56719条·········增量:$[56719-$[56721-1]]条·········
+#·········更新时间:2023-10-05 01:00:01·········数量:56724条·········增量:$[56724-$[56721-1]]条·········
+.abbotpredicateemma.com
+.bginrbancsr.com
 .lajouly.com
 .qxpwiqydg.com
 .hpaakmsumarzy.com
@@ -38558,6 +38560,8 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.m.1gr.cz
+.a.1gr.cz
 .pvnwap.zol.com.cn
 .analytics.ifanrusercontent.com
 .visit.oschina.net
@@ -48787,7 +48791,7 @@ inapps.appsflyersdk.com
 .scadnet.com
 .search.jword.jp
 .seoparts.com
-.trafficgate.net
+.srv2.trafficgate.net
 .trustclick.ne.jp
 .tumabeni.com
 .webantenna.info
@@ -51225,23 +51229,24 @@ inapps.appsflyersdk.com
 .vns86.oss-*.aliyuncs.com
 .zhizhizhizhi.oss-*.aliyuncs.com
 .121.204.246.*.gif
-.beste3.icu
-.pexavfro.xyz
-.bydcxdy.cn
-.ldvnehc.xyz
-.serda10.icu
-.ddvoht.xyz
-.tcgaqh.icu
-.dhgfhedxx.xyz
-.anhlnnm.cn
 .88lajs3.com
+.anhlnnm.cn
+.beste3.icu
+.bydcxdy.cn
+.ddvoht.xyz
+.dhgfhedxx.xyz
 .jofknbpe.xyz
+.ldvnehc.xyz
 .neeujqf.cn
+.pexavfro.xyz
 .psroyx.icu
 .roxewwq.cn
+.serda10.icu
+.tcgaqh.icu
 .ulrvkee.xyz
 .vttqld.xyz
 .xkfigjh.cn
+.xxkswdf.icu
 .01v62.xyz
 .023best.cn
 .0272aa.com
