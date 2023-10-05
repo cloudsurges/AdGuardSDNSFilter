@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-05 14:00:01·········数量:56754条·········增量:$[56754-$[56756-1]]条·········
+#·········更新时间:2023-10-05 15:00:01·········数量:56758条·········增量:$[56758-$[56756-1]]条·········
 .mismaum.com
 .qcvbtrtlmjdhvxe.xyz
 .abbotpredicateemma.com
@@ -32236,6 +32236,7 @@ vkcdnservice.appspot.com
 .starti.pl
 .statsperformdev.com
 .stocker.bonnint.net
+.stratos.blue
 .streamate.com
 .streamdefence.com
 .strikead.com
@@ -32481,7 +32482,6 @@ vkcdnservice.appspot.com
 .bidder.newspassid.com
 .bids.concert.io
 .bl.wavecdn.de
-.bsc-dataseed1.binance.org
 .btr.domywife.com
 .c.bannerflow.net
 .c2shb.pubgw.yahoo.com
@@ -51270,7 +51270,9 @@ inapps.appsflyersdk.com
 .vdggsd005.com
 .xvzfyra.xyz
 .lnxpdj.xyz
+.xmvmir.icu
 .roxewwq.cn
+.hwuogmusthxfpk.xyz
 .serda10.icu
 .tcgaqh.icu
 .ulrvkee.xyz
@@ -56403,6 +56405,7 @@ analytics-*.aasaam.com
 .yelloadwise.ir
 .yekbux.com
 # >> Z <<
+.zarad.net
 # >> A <<
 .analytics.asiatech.ir
 .dsp.aparat.com
@@ -56448,6 +56451,7 @@ analytics-*.aasaam.com
 .websocket.khanefootball.com
 # >> L <<
 # >> M <<
+.counter.musicsweb.ir
 .counter.mahanmusic.net
 .analytic.magland.ir
 .affiliate.malltina.com
