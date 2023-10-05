@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-05 20:00:01·········数量:56758条·········增量:$[56758-$[56760-1]]条·········
+#·········更新时间:2023-10-05 21:00:01·········数量:56763条·········增量:$[56763-$[56760-1]]条·········
+.install-check.com
 .mismaum.com
 .qcvbtrtlmjdhvxe.xyz
 .abbotpredicateemma.com
@@ -34066,6 +34067,7 @@ vkcdnservice.appspot.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytics.myshoptago.com
 .wfthumty.pm
 .hubtydum.me
 .mobadme.jp
@@ -38583,6 +38585,7 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.analytics.streamfab.
 .m.1gr.cz
 .a.1gr.cz
 .pvnwap.zol.com.cn
@@ -48047,6 +48050,7 @@ inapps.appsflyersdk.com
 .xifg6h.ru
 .zfvklk.ru
 .market-backend.api.2gis.ru
+.sharemefiles.ru
 .userdata.ati.su
 .r.z3.fm
 .adv.topvideo.tj
@@ -51271,6 +51275,7 @@ inapps.appsflyersdk.com
 .xvzfyra.xyz
 .lnxpdj.xyz
 .xmvmir.icu
+.273knt.xyz
 .roxewwq.cn
 .hwuogmusthxfpk.xyz
 .serda10.icu
