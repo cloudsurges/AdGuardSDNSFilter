@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-05 07:00:01·········数量:56744条·········增量:$[56744-$[56746-1]]条·········
+#·········更新时间:2023-10-05 08:00:01·········数量:56744条·········增量:$[56744-$[56746-1]]条·········
 .abbotpredicateemma.com
 .bginrbancsr.com
 .lajouly.com
