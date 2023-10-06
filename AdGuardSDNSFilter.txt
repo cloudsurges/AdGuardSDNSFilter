@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-06 14:00:01·········数量:56781条·········增量:$[56781-$[56783-1]]条·········
+#·········更新时间:2023-10-06 15:00:01·········数量:56783条·········增量:$[56783-$[56783-1]]条·········
 .owqrtaodb.com
 .install-check.com
 .mismaum.com
@@ -49538,8 +49538,8 @@ inapps.appsflyersdk.com
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-09-26 06:30:58 CEST
-# entries:        1185
+# last updated:   2023-10-06 07:50:11 CEST
+# entries:        1186
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 .1terms.com
@@ -51301,6 +51301,8 @@ inapps.appsflyersdk.com
 .gmx28.top
 .lxznbz.xyz
 .jndxsuy.xyz
+.lwwlkj1.cn
+.mmvjuti.cn
 .yhtpsy8888.cc
 .01v62.xyz
 .023best.cn
