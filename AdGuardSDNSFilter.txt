@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-06 20:00:01·········数量:56783条·········增量:$[56783-$[56785-1]]条·········
+#·········更新时间:2023-10-06 21:00:01·········数量:56788条·········增量:$[56788-$[56785-1]]条·········
 .owqrtaodb.com
 .install-check.com
 .mismaum.com
@@ -34074,6 +34074,7 @@ vkcdnservice.appspot.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.tracking.utlservice.com
 .analytics.myshoptago.com
 .wfthumty.pm
 .hubtydum.me
@@ -48889,6 +48890,8 @@ inapps.appsflyersdk.com
 .azol.de
 .twiago.com
 .bauernative.com
+.lqxbkqdtvtdhw.xyz
+.noafoaji.xyz
 .bilec.xyz
 .vkjsnvk.com
 .3337126.com
@@ -51303,6 +51306,7 @@ inapps.appsflyersdk.com
 .jndxsuy.xyz
 .lwwlkj1.cn
 .mmvjuti.cn
+.liuyi22.cn
 .yhtpsy8888.cc
 .01v62.xyz
 .023best.cn
@@ -55110,6 +55114,7 @@ inapps.appsflyersdk.com
 .zzxedr.xyz
 .zzxmcp.com
 .zzzhuoxiaqu.online
+.94lm.com
 .06789.xyz
 .3p8801.co
 .6651tp.com
