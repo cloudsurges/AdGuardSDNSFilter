@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-07 06:00:01·········数量:56796条·········增量:$[56796-$[56798-1]]条·········
+#·········更新时间:2023-10-07 07:00:01·········数量:56796条·········增量:$[56796-$[56798-1]]条·········
 .owqrtaodb.com
 .install-check.com
 .mismaum.com
