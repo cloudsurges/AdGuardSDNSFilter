@@ -1,5 +1,7 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-07 08:00:01·········数量:56796条·········增量:$[56796-$[56798-1]]条·········
+#·········更新时间:2023-10-07 09:00:01·········数量:56808条·········增量:$[56808-$[56798-1]]条·········
+.rtdqhjiqf.com
+.ojuhjcmhemvs.com
 .owqrtaodb.com
 .install-check.com
 .mismaum.com
@@ -42800,6 +42802,7 @@ inapps.appsflyersdk.com
 .scarcesurprise.com
 .scarecrowslope.com
 .scaredfarm.com
+.scaredsong.com
 .scaredswing.com
 .scarfthought.com
 .scrapesleep.com
@@ -51315,6 +51318,15 @@ inapps.appsflyersdk.com
 .xvzfyra.xyz
 .xxkswdf.icu
 .yepgdita.xyz
+.quzmtpxw.xyz
+.rkds10.icu
+.vdggsd007.com
+.vxdpmxw.xyz
+.cuvtnzv.cn
+.qauksl.icu
+.gmx29.top
+.thboxp.xyz
+.vivienjumpe.com
 .yhtpsy8888.cc
 .01v62.xyz
 .023best.cn
