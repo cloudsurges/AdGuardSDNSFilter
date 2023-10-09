@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-09 20:00:01·········数量:56857条·········增量:$[56857-$[56859-1]]条·········
+#·········更新时间:2023-10-09 21:00:01·········数量:56868条·········增量:$[56868-$[56859-1]]条·········
 .rtdqhjiqf.com
 .ojuhjcmhemvs.com
 .owqrtaodb.com
@@ -6754,6 +6754,7 @@ vkcdnservice.appspot.com
 .caesaw.com
 .caeso-nmr.com
 .caffleklismos.website
+.cagerssoohong.com
 .cagesscan.com
 .caglaikr.net
 .cagothie.net
@@ -6977,6 +6978,7 @@ vkcdnservice.appspot.com
 .cavecredentialdeer.com
 .caveestate.com
 .cavernousshift.pro
+.cavilerestops.com
 .cawbarthe.com
 .cawnielammy.com
 .caxist.com
@@ -7381,7 +7383,6 @@ vkcdnservice.appspot.com
 .chounsee.xyz
 .choupaig.xyz
 .choupsee.com
-.chpadblock.com
 .chpjnxbxvzmqpx.com
 .chpok.pw
 .chrantary-vocking.com
@@ -11958,6 +11959,7 @@ vkcdnservice.appspot.com
 .for-joiyvidspics.online
 .for-joiyvidspics.site
 .forads.pro
+.foramendowve.com
 .foramoongussor.com
 .foraxewan.com
 .forbidcrenels.com
@@ -13990,6 +13992,7 @@ vkcdnservice.appspot.com
 .hogqmd.com
 .hogtiesnosh.guru
 .hohese.com
+.hoickpinyons.com
 .hoiiodacdsmro.com
 .hoisquit.buzz
 .hoistchart.com
@@ -18983,6 +18986,7 @@ vkcdnservice.appspot.com
 .niftpyobkap.com
 .nifty-drive.pro
 .nigerm.com
+.niggedpacaya.com
 .nighter.club
 .nightfallforestallbookkeeper.com
 .nightfallroad.com
@@ -24185,6 +24189,7 @@ vkcdnservice.appspot.com
 .safetytds.com
 .safewarns.com
 .saffianxenian.com
+.sagbutsbhotia.com
 .sagedeportflorist.com
 .saggarmammon.com
 .saggrowledetc.com
@@ -25524,6 +25529,7 @@ vkcdnservice.appspot.com
 .sosettoourmarke.info
 .soshoord.com
 .sosigninggrudge.com
+.sotchart.net
 .sotchoum.com
 .sotetahe.pro
 .sottagejalur.uno
@@ -29834,6 +29840,7 @@ vkcdnservice.appspot.com
 .whychymithy.com
 .whyocafenet.space
 .wibtntmvox.com
+.wichauru.xyz
 .wichtstoppit.space
 .wickedhumankindbarrel.com
 .wickiupcopalms.com
@@ -29939,6 +29946,7 @@ vkcdnservice.appspot.com
 .wishesobtrusivefastest.com
 .wishfulauthorities.com
 .wishfulthingtreble.com
+.wishjolty.com
 .wishjus.com
 .wishmayvaganti.website
 .wisingpianeta.uno
@@ -30962,7 +30970,6 @@ vkcdnservice.appspot.com
 .zenoviaexchange.com
 .zenoviagroup.com
 .zeofnuvzsh.com
-.zeotap.com
 .zepazupi.com
 .zepihoju.xyz
 .zer1ads.com
@@ -34106,6 +34113,7 @@ vkcdnservice.appspot.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.1cpbac.ru
 .tracking.utlservice.com
 .analytics.myshoptago.com
 .wfthumty.pm
@@ -35172,6 +35180,7 @@ vkcdnservice.appspot.com
 .audsp.com
 .mparticle.com
 .stat.analytiall.com
+.zeotap.com
 .engagetosell.com
 .edw.edmunds.com
 .z.opmnstr.com
@@ -38625,6 +38634,7 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.a.mts.ru
 .ana*.inews24.com
 .analytics.streamfab.
 .m.1gr.cz
@@ -51377,6 +51387,7 @@ inapps.appsflyersdk.com
 .vdggsd009.com
 .yhlzadr.xyz
 .ibsea.cn
+.rvreuxi.cn
 .01v62.xyz
 .023best.cn
 .0272aa.com
