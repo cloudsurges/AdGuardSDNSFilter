@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-10 18:00:01·········数量:56897条·········增量:$[56897-$[56899-1]]条·········
+#·········更新时间:2023-10-10 19:00:01·········数量:56900条·········增量:$[56900-$[56899-1]]条·········
 .rtdqhjiqf.com
 .ojuhjcmhemvs.com
 .owqrtaodb.com
@@ -49530,6 +49530,7 @@ inapps.appsflyersdk.com
 .rapidads.de
 .revresrennab.de
 .rgadvert.com
+.ringier-advertising.ch
 .securecnd.com
 .seitenaufruf.com
 .server4ads.com
@@ -51417,6 +51418,8 @@ inapps.appsflyersdk.com
 .xcqbbcqpl.xyz
 .gmx24.top
 .actrqdr.cn
+.dkvakldvnsv.com
+.lkoqtvvajktpjsk.xyz
 .01v62.xyz
 .023best.cn
 .0272aa.com
