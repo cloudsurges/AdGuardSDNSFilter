@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-10 08:00:01·········数量:56871条·········增量:$[56871-$[56873-1]]条·········
+#·········更新时间:2023-10-10 09:00:01·········数量:56894条·········增量:$[56894-$[56873-1]]条·········
 .rtdqhjiqf.com
 .ojuhjcmhemvs.com
 .owqrtaodb.com
@@ -4372,6 +4372,7 @@ vkcdnservice.appspot.com
 .armarilltor.com
 .armashair.site
 .armedgroin.com
+.armedtidying.com
 .armetsremoved.guru
 .armiesinvolve.com
 .arminius.io
@@ -4746,6 +4747,7 @@ vkcdnservice.appspot.com
 .audiencefuel.com
 .audienceline.com
 .audienceprofiler.com
+.audienceravagephotocopy.com
 .audioexaminationearl.com
 .audionews.fm
 .audiosech.xyz
@@ -8697,9 +8699,11 @@ vkcdnservice.appspot.com
 .daikeethoo.com
 .daikersscrim.website
 .daikonmomist.com
+.daikorm.com
 .dailyc24.com
 .dailychronicles2.xyz
 .dailyenoplan.website
+.dailyvids.space
 .daimioswhimper.com
 .daincautela.com
 .daineely.net
@@ -13382,6 +13386,7 @@ vkcdnservice.appspot.com
 .guwfusqa.com
 .guwgkuaxbvuw.com
 .guxsxexlkdk.xyz
+.guyabe.xyz
 .gvhmoascwa.xyz
 .gvkmifcvr.com
 .gvmojhugkiud.com
@@ -14590,6 +14595,7 @@ vkcdnservice.appspot.com
 .imkjultwip.xyz
 .immaculaterepair.pro
 .immaculatewars.com
+.immediatebedroom.pro
 .immediateknowledge.com
 .immediatesignal.pro
 .immedlinkum.info
@@ -19767,6 +19773,7 @@ vkcdnservice.appspot.com
 .olivefamine.com
 .oljjiplpyo.com
 .ollrzaontww.com
+.ollsukztoo.com
 .olmsoneenh.info
 .olnjitvizo.com
 .olomonautcatho.info
@@ -19981,6 +19988,7 @@ vkcdnservice.appspot.com
 .ootchaig.xyz
 .ootchoft.com
 .ootibsay.xyz
+.ootsoobs.net
 .oourmarketingefifor.info
 .oovaufty.com
 .ooxookrekaun.com
@@ -20165,6 +20173,7 @@ vkcdnservice.appspot.com
 .osdoshcwyaev.xyz
 .oseculretabout.com
 .osfjiqj.com
+.osgqretnpoqsubt.com
 .oshaista.xyz
 .oshatratkvc.com
 .oshdarvitop.com
@@ -21726,6 +21735,7 @@ vkcdnservice.appspot.com
 .powerain.biz
 .powerpsychopathcounsel.com
 .powerswinkshoplifting.com
+.poweyus.com
 .powferads.com
 .powjoui.com
 .powrpvuruejv.com
@@ -22653,6 +22663,7 @@ vkcdnservice.appspot.com
 .qobarmbghaiv.xyz
 .qofowyki.xyz
 .qogilljcxwvrhj.com
+.qomate.xyz
 .qomuchorindownlo.xyz
 .qooanabj.com
 .qootvuedh.com
@@ -27591,6 +27602,7 @@ vkcdnservice.appspot.com
 .transformignorant.com
 .transitionfrenchdowny.com
 .translationbuddy.com
+.transmitterincarnatebastard.com
 .transmittermerchant.com
 .transportationgelatinecontingent.com
 .traord.com
@@ -28901,6 +28913,7 @@ vkcdnservice.appspot.com
 .vheahvgaqwux.com
 .vheoggjiqaz.com
 .vhihvqsuarpp.com
+.vhkbvpbuhwon.com
 .vhmjevcgc.xyz
 .vhneajupavrb.com
 .vhrtgvzcmrfoo.com
@@ -30041,6 +30054,7 @@ vkcdnservice.appspot.com
 .wolfedcedule.com
 .wolffiareecho.com
 .wolqundera.com
+.wolsretet.net
 .wolve.pro
 .womanedlithite.guru
 .wombalayah.com
@@ -32455,6 +32469,7 @@ vkcdnservice.appspot.com
 .1133256755.rsc.cdn77.org
 .1164507919.rsc.cdn77.org
 .1187531871.rsc.cdn77.org
+.1207639218.rsc.cdn77.org
 .1235113489.rsc.cdn77.org
 .1254021819.rsc.cdn77.org
 .1272341218.rsc.cdn77.org
@@ -51391,6 +51406,14 @@ inapps.appsflyersdk.com
 .yhtpsy8888.cc
 .yutiqf.icu
 .zchvyet.cn
+.gmx23.top
+.uqeuxpl.cn
+.kzprugp.xyz
+.bnets9.icu
+.jlhlnd.xyz
+.vdggsd010.com
+.oapyrzde.xyz
+.ceiuip.icu
 .01v62.xyz
 .023best.cn
 .0272aa.com
