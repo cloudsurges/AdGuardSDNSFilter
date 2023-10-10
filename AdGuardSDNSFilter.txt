@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-10 14:00:01·········数量:56894条·········增量:$[56894-$[56896-1]]条·········
+#·········更新时间:2023-10-10 15:00:01·········数量:56897条·········增量:$[56897-$[56896-1]]条·········
 .rtdqhjiqf.com
 .ojuhjcmhemvs.com
 .owqrtaodb.com
@@ -51414,6 +51414,9 @@ inapps.appsflyersdk.com
 .vdggsd010.com
 .oapyrzde.xyz
 .ceiuip.icu
+.xcqbbcqpl.xyz
+.gmx24.top
+.actrqdr.cn
 .01v62.xyz
 .023best.cn
 .0272aa.com
