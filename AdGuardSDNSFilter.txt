@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-11 14:00:01·········数量:56922条·········增量:$[56922-$[56924-1]]条·········
+#·········更新时间:2023-10-11 15:00:01·········数量:56927条·········增量:$[56927-$[56924-1]]条·········
 .lkjjhrwrcmvtl.com
 .ondajqfaqolmq.xyz
 .chaursug.xyz
@@ -42644,6 +42644,7 @@ inapps.appsflyersdk.com
 .debonairtree.com
 .decisivebase.com
 .deerbeginner.com
+.delicatecascade.com
 .delicateducks.com
 .desirebucket.com
 .differentcoat.com
@@ -42996,6 +42997,7 @@ inapps.appsflyersdk.com
 .wellgroomedapparel.com
 .wellgroomedhydrant.com
 .whineattempt.com
+.whisperingsummit.com
 .whispermeeting.com
 .wildcommittee.com
 .wtaccesscontrol.com
@@ -51441,6 +51443,9 @@ inapps.appsflyersdk.com
 .cadizer.com
 .ebmlsvw.cn
 .jvjmjt.xyz
+.gmx22.top
+.gixgav.icu
+.1bctkn.xyz
 .01v62.xyz
 .023best.cn
 .0272aa.com
