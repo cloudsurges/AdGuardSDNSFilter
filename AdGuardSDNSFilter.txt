@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-12 20:00:01·········数量:56968条·········增量:$[56968-$[56970-1]]条·········
+#·········更新时间:2023-10-12 21:00:01·········数量:56972条·········增量:$[56972-$[56970-1]]条·········
 .xaqmijey.com
 .lkjjhrwrcmvtl.com
 .ondajqfaqolmq.xyz
@@ -48582,6 +48582,7 @@ inapps.appsflyersdk.com
 .youtubesave.org
 .youtubex.top
 .zafrc.5780.site
+.d2pspvbdjxwkpo.cloudfront.net
 .r.yabancidizi.in
 .ads.dygdigital.com
 .ads.igfhaber.com
@@ -51482,6 +51483,9 @@ inapps.appsflyersdk.com
 .y341i.xyz
 .rslkhj.xyz
 .a4bj6.xyz
+.lwmzoaf.cn
+.bollenhurkle.com
+.exemptambientcream.com
 .yhlzadr.xyz
 .newpgqnfapkamg.xyz
 .yhtpsy8888.cc
