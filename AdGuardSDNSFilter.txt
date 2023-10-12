@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-12 14:00:01·········数量:56966条·········增量:$[56966-$[56968-1]]条·········
+#·········更新时间:2023-10-12 15:00:01·········数量:56968条·········增量:$[56968-$[56968-1]]条·········
 .xaqmijey.com
 .lkjjhrwrcmvtl.com
 .ondajqfaqolmq.xyz
@@ -51481,7 +51481,9 @@ inapps.appsflyersdk.com
 .kshrsf.icu
 .y341i.xyz
 .rslkhj.xyz
+.a4bj6.xyz
 .yhlzadr.xyz
+.newpgqnfapkamg.xyz
 .yhtpsy8888.cc
 .yutiqf.icu
 .zchvyet.cn
