@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-13 10:00:01·········数量:57024条·········增量:$[57024-$[57026-1]]条·········
+#·········更新时间:2023-10-13 11:00:01·········数量:57024条·········增量:$[57024-$[57026-1]]条·········
 .cuyynol.com
 .cbshanld.com
 .pvtypsgueyqey.com
