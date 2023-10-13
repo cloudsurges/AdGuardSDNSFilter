@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-13 20:00:01·········数量:57024条·········增量:$[57024-$[57026-1]]条·········
+#·········更新时间:2023-10-13 21:00:01·········数量:57028条·········增量:$[57028-$[57026-1]]条·········
+.smatr.icu
 .cuyynol.com
 .cbshanld.com
 .pvtypsgueyqey.com
@@ -34197,6 +34198,7 @@ vkcdnservice.appspot.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.smelel.icu
 .ea.epochbase.com
 .1cpbac.ru
 .tracking.utlservice.com
@@ -51539,6 +51541,8 @@ inapps.appsflyersdk.com
 .qwjtdcl.cn
 .rcnldz.xyz
 .vdggsd013.com
+.nerydw.xyz
+.aueajkn.cn
 .yhlzadr.xyz
 .yhtpsy8888.cc
 .yutiqf.icu
