@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-14 08:00:01·········数量:57034条·········增量:$[57034-$[57036-1]]条·········
+#·········更新时间:2023-10-14 09:00:01·········数量:57045条·········增量:$[57045-$[57036-1]]条·········
 .smatr.icu
 .cuyynol.com
 .cbshanld.com
@@ -41549,6 +41549,7 @@ inapps.appsflyersdk.com
 .speedyrhino.co
 .spinnaker-js.com
 .stat.ovh
+.statisticsplatform.com
 .statsbox.info
 .superpointlesshamsters.com
 .t13.io
@@ -42693,6 +42694,7 @@ inapps.appsflyersdk.com
 .cowscrayon.com
 .creditcreature.com
 .crookedcreature.com
+.crystalboulevard.com
 .cuddlycake.com
 .culturedcamera.com
 .curiouschalk.com
@@ -44403,7 +44405,9 @@ inapps.appsflyersdk.com
 .track.ra.icast.cn
 .track.tomwx.net
 .tracking.cat898.com
+.trail.71baomu.com
 .web-trace.ksapisrv.com
+.wlog.kuaishou.com
 .tracking.vid4u.org
 .a.centrum.cz
 .bisko.mall.tv
@@ -50276,6 +50280,7 @@ inapps.appsflyersdk.com
 .epeex.io
 .rtbuzz.net
 .shoppydoo.com
+.tjekscores.dk
 .yobee.it
 .24network.it
 .ad4mat.it
@@ -50352,7 +50357,6 @@ inapps.appsflyersdk.com
 .panea.it
 .partypartners.it
 .paypublicity.it
-.pc-on-internet.com
 .pirchio.com
 .plavid.com
 .preludeadv.it
@@ -50385,7 +50389,6 @@ inapps.appsflyersdk.com
 .tgadv.it
 .tgadvcdn.it
 .tipster.space
-.tjekscores.dk
 .upstory.it
 .viralbeat.com
 .wailay.com
@@ -51550,6 +51553,14 @@ inapps.appsflyersdk.com
 .yepgdita.xyz
 .yhlzadr.xyz
 .yhtpsy8888.cc
+.rzflhxn.cn
+.gmx16.top
+.haise5.top
+.vdggsd014.com
+.vgjaxnuw.xyz
+.llblwzg.xyz
+.oprece.xyz
+.smlpcz.icu
 .yutiqf.icu
 .zbxtcwi.xyz
 .zchvyet.cn
