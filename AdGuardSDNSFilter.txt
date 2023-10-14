@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-14 14:00:01·········数量:57045条·········增量:$[57045-$[57047-1]]条·········
+#·········更新时间:2023-10-14 15:00:01·········数量:57050条·········增量:$[57050-$[57047-1]]条·········
 .smatr.icu
 .cuyynol.com
 .cbshanld.com
@@ -44505,6 +44505,7 @@ inapps.appsflyersdk.com
 .stats.asp24.pl
 .stats.ulixes.pl
 .statystyki.panelek.com
+.tp.convertiser.com
 .ad-tracker-api.luizalabs.com
 .analytics-stamp.confi.com.vc
 .analytics.spun.com.br
@@ -51561,6 +51562,9 @@ inapps.appsflyersdk.com
 .llblwzg.xyz
 .oprece.xyz
 .smlpcz.icu
+.z91f4.top
+.mryqtym.cn
+.24w0p.com
 .yutiqf.icu
 .zbxtcwi.xyz
 .zchvyet.cn
@@ -55744,6 +55748,7 @@ inapps.appsflyersdk.com
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
+.ds1.kaijia.com
 .27gh.cc
 .003store.com
 .0941.org
