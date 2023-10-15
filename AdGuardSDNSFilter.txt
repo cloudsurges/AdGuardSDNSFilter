@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-15 08:00:01·········数量:57078条·········增量:$[57078-$[57080-1]]条·········
+#·········更新时间:2023-10-15 09:00:01·········数量:57086条·········增量:$[57086-$[57080-1]]条·········
 .smatr.icu
 .cuyynol.com
 .cbshanld.com
@@ -15927,6 +15927,7 @@ vkcdnservice.appspot.com
 .keuktyouexpe.info
 .kevelandean.com
 .kewhulawi.com
+.kexojito.com
 .keydawnawe.com
 .keypush.net
 .keyrolan.com
@@ -41476,6 +41477,7 @@ inapps.appsflyersdk.com
 .glimr.io
 .glookup.info
 .googleoptimize.com
+.gw-dv.vip
 .hdmtools.com
 .hsadspixel.net
 .hsleadflows.net
@@ -43642,6 +43644,7 @@ inapps.appsflyersdk.com
 .stats-messages.gifs.com
 .stats.big-boards.com
 .stats.bitgravity.com
+.stats.bradmax.com
 .stats.callnowbutton.com
 .stats.cmcigroup.com
 .stats.curds.io
@@ -44226,6 +44229,7 @@ inapps.appsflyersdk.com
 .24smi.net
 .adblockmetrics.ru
 .admile.ru
+.adsmediator.com
 .airlogs.ru
 .avsplow.com
 .bidderrtb.com
@@ -51593,6 +51597,10 @@ inapps.appsflyersdk.com
 .yhlzadr.xyz
 .yhtpsy8888.cc
 .yutiqf.icu
+.athecsz.cn
+.xqgduov.cn
+.bgbqfqwi.xyz
+.vdggsd015.com
 .z91f4.top
 .zbxtcwi.xyz
 .zchvyet.cn
