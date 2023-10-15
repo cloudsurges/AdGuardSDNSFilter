@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-16 01:00:01·········数量:57099条·········增量:$[57099-$[57101-1]]条·········
+#·········更新时间:2023-10-16 02:00:01·········数量:57099条·········增量:$[57099-$[57101-1]]条·········
 .tiesmmflv.com
 .hyelgehg.xyz
 .stoobsut.com
