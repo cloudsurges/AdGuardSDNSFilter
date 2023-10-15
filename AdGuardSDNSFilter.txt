@@ -1,5 +1,13 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-15 20:00:01·········数量:57090条·········增量:$[57090-$[57092-1]]条·········
+#·········更新时间:2023-10-15 21:00:01·········数量:57099条·········增量:$[57099-$[57092-1]]条·········
+.tiesmmflv.com
+.hyelgehg.xyz
+.stoobsut.com
+.maaphdiwuoetl.com
+.hoseitfromtheot.com
+.ionismscoldn.info
+.szlipubod.com
+.oscism.com
 .smatr.icu
 .cuyynol.com
 .cbshanld.com
@@ -51605,6 +51613,7 @@ inapps.appsflyersdk.com
 .xdfdqce.xyz
 .phwrju.xyz
 .xrcembm.cn
+.wqvbuj.icu
 .z91f4.top
 .zbxtcwi.xyz
 .zchvyet.cn
