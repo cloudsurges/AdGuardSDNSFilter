@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-16 14:00:01·········数量:57133条·········增量:$[57133-$[57135-1]]条·········
+#·········更新时间:2023-10-16 15:00:01·········数量:57136条·········增量:$[57136-$[57135-1]]条·········
 .tiesmmflv.com
 .hyelgehg.xyz
 .stoobsut.com
@@ -37674,6 +37674,7 @@ vkcdnservice.appspot.com
 .visilabs.net
 .ay.delivery
 .functionalclam.com
+.dreamycanyon.com
 .whimsicalgrove.com
 .cozyhillside.com
 .crimsonmeadow.com
@@ -51648,6 +51649,8 @@ inapps.appsflyersdk.com
 .ovfvkfc.xyz
 .aniede.xyz
 .vdggsd016.com
+.gmx17.top
+.gmx13.top
 .z91f4.top
 .zbxtcwi.xyz
 .zchvyet.cn
