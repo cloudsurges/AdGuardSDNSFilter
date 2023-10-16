@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-16 20:00:01·········数量:57136条·········增量:$[57136-$[57138-1]]条·········
+#·········更新时间:2023-10-16 21:00:01·········数量:57141条·········增量:$[57141-$[57138-1]]条·········
 .tiesmmflv.com
 .hyelgehg.xyz
 .stoobsut.com
@@ -44781,6 +44781,7 @@ inapps.appsflyersdk.com
 .ver-pelis.net
 .xclk-integracion.com
 .yestorrents.org
+.rbfive.bid
 .nwhoxwpuj6.com
 .trackclicksplz.site
 .b.we-are-anon.com
@@ -49441,6 +49442,7 @@ inapps.appsflyersdk.com
 .two.fsylr.com
 .ad.juksy.com
 .ads.tvb.com
+.cryptosplash.care
 .cryptobeneluxbanner.care
 .pexi.nl
 .adconfigproxy.azurewebsites.net
@@ -51651,6 +51653,8 @@ inapps.appsflyersdk.com
 .vdggsd016.com
 .gmx17.top
 .gmx13.top
+.knuaxfv.cn
+.z1wfe.top
 .z91f4.top
 .zbxtcwi.xyz
 .zchvyet.cn
@@ -55836,6 +55840,7 @@ inapps.appsflyersdk.com
 .zt2088.com
 .ztyumn.ifeng.com
 .27gh.cc
+.y1.junshitt.com
 .003store.com
 .0941.org
 .1.07swz.com
