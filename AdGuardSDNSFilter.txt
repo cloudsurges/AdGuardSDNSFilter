@@ -1,5 +1,7 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-17 02:00:01·········数量:57141条·········增量:$[57141-$[57143-1]]条·········
+#·········更新时间:2023-10-17 03:00:01·········数量:57154条·········增量:$[57154-$[57143-1]]条·········
+.gold-line.click
+.adtago.s3.amazonaws.com
 .tiesmmflv.com
 .hyelgehg.xyz
 .stoobsut.com
@@ -5332,6 +5334,7 @@ vkcdnservice.appspot.com
 .bassdyemanipulate.com
 .bassengravefascinated.com
 .bassistscrap.com
+.bassoonavatara.com
 .bastardminims.com
 .baste-znl.com
 .bastesgaltrap.com
@@ -8362,6 +8365,7 @@ vkcdnservice.appspot.com
 .creamssicsite.com
 .creaperu.com
 .create2fear.com
+.createsgummous.com
 .creationaleprose.com
 .creative-bars1.com
 .creative-serving.com
@@ -11387,6 +11391,7 @@ vkcdnservice.appspot.com
 .fatchilli.media
 .fatebbc.pro
 .fathuntsgall.com
+.fatimacapos.com
 .fatlossremedies.com
 .fatowzsis.com
 .fatsosjogs.com
@@ -13614,6 +13619,7 @@ vkcdnservice.appspot.com
 .haustoam.com
 .hauthoun.xyz
 .hauufhgezl.com
+.havagedhyana.com
 .havamedia.net
 .havan3eab9row2n.com
 .havanese.top
@@ -18341,6 +18347,7 @@ vkcdnservice.appspot.com
 .mothdiscussioncrest.com
 .motherehoom.pro
 .motherhoodlimiteddetest.com
+.mothifta.xyz
 .motille.com
 .motionsaucermentioned.com
 .motionspots.com
@@ -21207,6 +21214,7 @@ vkcdnservice.appspot.com
 .phulaque.com
 .phulrauftoa.com
 .phultems.net
+.phultids.com
 .phumpauk.com
 .phuteheglu.com
 .physical-flow-i-255.site
@@ -21829,6 +21837,7 @@ vkcdnservice.appspot.com
 .prdredir.com
 .pre4sentre8dhf.com
 .preachribbonsummoned.com
+.preampribbony.com
 .prearmscachet.uno
 .precedechampion.com
 .precedenowadaysbarbecue.com
@@ -25366,6 +25375,7 @@ vkcdnservice.appspot.com
 .smg8oo4njst45oene.com
 .smigro.info
 .smileoffennec.com
+.smiletkandol.com
 .smilewanted.com
 .smirkscapos.com
 .smisit.com
@@ -26236,6 +26246,7 @@ vkcdnservice.appspot.com
 .suctionspelts.com
 .sudden-great.pro
 .sudorwauve.com
+.sudsguidon.com
 .suescollum.com
 .sufeismmitered.digital
 .suffertreasureapproval.com
@@ -28352,6 +28363,7 @@ vkcdnservice.appspot.com
 .unflamewandoo.com
 .unfolded-economics.com
 .unforgivablegrowl.com
+.unglazeclassic.com
 .ungloomnisnas.com
 .ungolbator.com
 .ungoutylensmen.website
@@ -33652,6 +33664,7 @@ vkcdnservice.appspot.com
 .ad.simpledesign.ltd
 .ads-sdk.mattel163.com
 .bdapi-ads.realmemobile.com
+.ads.oppomobile.com
 .adsfs.oppomobile.com
 .offerwall.yandex.net
 .adsmrapi.imbc.com
@@ -51497,10 +51510,12 @@ inapps.appsflyersdk.com
 .273knt.xyz
 .88lajs3.com
 .a4bj6.xyz
+.aaknmt.icu
 .actrqdr.cn
 .agossuoeach.com
 .aknkvallbfml.com
 .anhlnnm.cn
+.aniede.xyz
 .athecsz.cn
 .aueajkn.cn
 .bbfnrn.xyz
@@ -51529,8 +51544,10 @@ inapps.appsflyersdk.com
 .fzgetdy.cn
 .gixgav.icu
 .gizlnr.com
+.gmx13.top
 .gmx15.top
 .gmx16.top
+.gmx17.top
 .gmx20.top
 .gmx21.top
 .gmx22.top
@@ -51556,8 +51573,10 @@ inapps.appsflyersdk.com
 .jndxsuy.xyz
 .jofknbpe.xyz
 .jvjmjt.xyz
+.knuaxfv.cn
 .kshrsf.icu
 .kvskknklssv.com
+.kwtgntyu.xyz
 .kyikdee.cn
 .kzprugp.xyz
 .ldvnehc.xyz
@@ -51587,6 +51606,7 @@ inapps.appsflyersdk.com
 .ocwdkp.icu
 .oprece.xyz
 .orssengseen.com
+.ovfvkfc.xyz
 .pexavfro.xyz
 .phwrju.xyz
 .pqjeoqa.cn
@@ -51596,6 +51616,7 @@ inapps.appsflyersdk.com
 .qwjtdcl.cn
 .rcnldz.xyz
 .rkds10.icu
+.rkds5.icu
 .roxewwq.cn
 .rslkhj.xyz
 .rvreuxi.cn
@@ -51622,6 +51643,7 @@ inapps.appsflyersdk.com
 .vdggsd013.com
 .vdggsd014.com
 .vdggsd015.com
+.vdggsd016.com
 .vgjaxnuw.xyz
 .vivienjumpe.com
 .vttqld.xyz
@@ -51645,15 +51667,6 @@ inapps.appsflyersdk.com
 .yhlzadr.xyz
 .yhtpsy8888.cc
 .yutiqf.icu
-.aaknmt.icu
-.rkds5.icu
-.kwtgntyu.xyz
-.ovfvkfc.xyz
-.aniede.xyz
-.vdggsd016.com
-.gmx17.top
-.gmx13.top
-.knuaxfv.cn
 .z1wfe.top
 .z91f4.top
 .zbxtcwi.xyz
@@ -55840,7 +55853,6 @@ inapps.appsflyersdk.com
 .zt2088.com
 .ztyumn.ifeng.com
 .27gh.cc
-.y1.junshitt.com
 .003store.com
 .0941.org
 .1.07swz.com
@@ -56557,6 +56569,7 @@ inapps.appsflyersdk.com
 .xue.zbyw.cn
 .xuexi.hydcd.com
 .y.photoint.net
+.y1.junshitt.com
 .y1.spreton.com
 .y66xvgo5i.chuimg.com
 .yi.ximizi.com
