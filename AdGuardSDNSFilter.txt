@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-17 20:00:01·········数量:57168条·········增量:$[57168-$[57170-1]]条·········
+#·········更新时间:2023-10-17 21:00:01·········数量:57173条·········增量:$[57173-$[57170-1]]条·········
+.provingavidity.com
 .gold-line.click
 .adtago.s3.amazonaws.com
 .tiesmmflv.com
@@ -1093,6 +1094,8 @@
 .d71e6dd31a026d45.com
 .adrunnr.com
 .samsungtvads.com
+.d1cglulyxpv8sj.cloudfront.net
+.c.down.tube
 .d3pnod4lg28ix4.cloudfront.net
 .d388cbecyo4yoc.cloudfront.net
 .s.4cola.com
@@ -51682,6 +51685,7 @@ inapps.appsflyersdk.com
 .6gcstb.xyz
 .gmx12.top
 .whdwydt.cn
+.dumeia.cn
 .z91f4.top
 .zbxtcwi.xyz
 .zchvyet.cn
@@ -55867,6 +55871,7 @@ inapps.appsflyersdk.com
 .zt2088.com
 .ztyumn.ifeng.com
 .27gh.cc
+.1.jiangzheba.com
 .003store.com
 .0941.org
 .1.07swz.com
