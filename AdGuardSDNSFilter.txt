@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-17 08:00:01·········数量:57154条·········增量:$[57154-$[57156-1]]条·········
+#·········更新时间:2023-10-17 09:00:01·········数量:57162条·········增量:$[57162-$[57156-1]]条·········
 .gold-line.click
 .adtago.s3.amazonaws.com
 .tiesmmflv.com
@@ -51668,6 +51668,14 @@ inapps.appsflyersdk.com
 .yhtpsy8888.cc
 .yutiqf.icu
 .z1wfe.top
+.rkds1.icu
+.gmx14.top
+.ekzzed.icu
+.gmx18.top
+.tmlwvxae.xyz
+.vdggsd017.com
+.anjneia.xyz
+.qmwx4.xyz
 .z91f4.top
 .zbxtcwi.xyz
 .zchvyet.cn
