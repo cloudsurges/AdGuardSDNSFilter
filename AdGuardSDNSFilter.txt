@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-18 06:00:01·········数量:57179条·········增量:$[57179-$[57181-1]]条·········
+#·········更新时间:2023-10-18 07:00:01·········数量:57179条·········增量:$[57179-$[57181-1]]条·········
 .provingavidity.com
 .gold-line.click
 .adtago.s3.amazonaws.com
