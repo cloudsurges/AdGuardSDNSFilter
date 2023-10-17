@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-18 02:00:01·········数量:57173条·········增量:$[57173-$[57175-1]]条·········
+#·········更新时间:2023-10-18 03:00:01·········数量:57179条·········增量:$[57179-$[57175-1]]条·········
 .provingavidity.com
 .gold-line.click
 .adtago.s3.amazonaws.com
@@ -6852,6 +6852,7 @@ vkcdnservice.appspot.com
 .canastagruff.com
 .candiruarf.com
 .candypeaches.com
+.candyprotected.com
 .canelastram.com
 .cangatu.xyz
 .canhamrolltop.uno
@@ -9309,6 +9310,7 @@ vkcdnservice.appspot.com
 .dilliskunhome.com
 .dillsloppy.com
 .dilruwha.net
+.diluterwearers.com
 .dilutionavailstoker.com
 .dimcarnie.com
 .dimedoncywydd.com
@@ -11214,6 +11216,7 @@ vkcdnservice.appspot.com
 .f4235693e4.com
 .f48d1c06e4.com
 .f4906b7c15ba.com
+.f4961f1b2e.com
 .f5080f5cee5a00.com
 .f52a1ac6d9.com
 .f55f5b7e4b.com
@@ -17256,6 +17259,7 @@ vkcdnservice.appspot.com
 .lvnmzhhod.com
 .lvntekpejrmtb.com
 .lvodomo.info
+.lvomenbxbyl.com
 .lvpcxqcoohcviks.com
 .lvskhjsloiqviv.xyz
 .lvwdrsrerso.com
@@ -24614,6 +24618,7 @@ vkcdnservice.appspot.com
 .securesmrt-dt.com
 .securesurf.biz
 .sedatecompulsiveout.com
+.sedatenerves.com
 .sedatingnews.com
 .sednerenforbo.com
 .sedodna.com
@@ -28798,6 +28803,7 @@ vkcdnservice.appspot.com
 .valvalnumbest.com
 .valvedreknow.top
 .valvyre.com
+.vamjfssdvjit.com
 .vampedcortine.com
 .vampersmutuary.com
 .vampersogmic.com
@@ -29393,6 +29399,7 @@ vkcdnservice.appspot.com
 .vvwbjuaerbgmrjm.com
 .vvyqxxgxlnptc.com
 .vwedfijcm.xyz
+.vwegihahkos.com
 .vwgtbnamrvg.com
 .vwhnfwdbf.com
 .vwiftixryzfo.com
@@ -32557,7 +32564,6 @@ vkcdnservice.appspot.com
 .158.247.208.
 .23.109.82.
 .23.109.87.
-.atresadvertising.com
 .1048284882.rsc.cdn77.org
 .1063072263.rsc.cdn77.org
 .1064075587.rsc.cdn77.org
@@ -51511,6 +51517,7 @@ inapps.appsflyersdk.com
 .20szp.com
 .24w0p.com
 .273knt.xyz
+.6gcstb.xyz
 .88lajs3.com
 .a4bj6.xyz
 .aaknmt.icu
@@ -51519,11 +51526,13 @@ inapps.appsflyersdk.com
 .aknkvallbfml.com
 .anhlnnm.cn
 .aniede.xyz
+.anjneia.xyz
 .athecsz.cn
 .aueajkn.cn
 .bbfnrn.xyz
 .beste3.icu
 .bgbqfqwi.xyz
+.bjtgds.xyz
 .bnets9.icu
 .boats4.top
 .bollenhurkle.com
@@ -51539,18 +51548,24 @@ inapps.appsflyersdk.com
 .dhgfhedxx.xyz
 .djiuss.cn
 .dkvakldvnsv.com
+.dpj0uvy.icu
 .dqzehgha.xyz
+.dumeia.cn
 .ebmlsvw.cn
+.ekzzed.icu
 .exemptambientcream.com
 .fastjs.org
 .fkjsjwbs.xyz
 .fzgetdy.cn
 .gixgav.icu
 .gizlnr.com
+.gmx12.top
 .gmx13.top
+.gmx14.top
 .gmx15.top
 .gmx16.top
 .gmx17.top
+.gmx18.top
 .gmx20.top
 .gmx21.top
 .gmx22.top
@@ -51615,9 +51630,11 @@ inapps.appsflyersdk.com
 .pqjeoqa.cn
 .psroyx.icu
 .qauksl.icu
+.qmwx4.xyz
 .quzmtpxw.xyz
 .qwjtdcl.cn
 .rcnldz.xyz
+.rkds1.icu
 .rkds10.icu
 .rkds5.icu
 .roxewwq.cn
@@ -51629,6 +51646,7 @@ inapps.appsflyersdk.com
 .smlpcz.icu
 .tcgaqh.icu
 .thboxp.xyz
+.tmlwvxae.xyz
 .trdmtx.xyz
 .uahozcfq.xyz
 .ukjwyv.icu
@@ -51647,16 +51665,19 @@ inapps.appsflyersdk.com
 .vdggsd014.com
 .vdggsd015.com
 .vdggsd016.com
+.vdggsd017.com
 .vgjaxnuw.xyz
 .vivienjumpe.com
 .vttqld.xyz
 .vxdpmxw.xyz
+.whdwydt.cn
 .wjoxqd.com
 .wkrcbszi.xyz
 .wqvbuj.icu
 .wrtjojn.xyz
 .xcqbbcqpl.xyz
 .xdfdqce.xyz
+.xg6hb.xyz
 .xkfigjh.cn
 .xmvmir.icu
 .xqgduov.cn
@@ -51671,21 +51692,6 @@ inapps.appsflyersdk.com
 .yhtpsy8888.cc
 .yutiqf.icu
 .z1wfe.top
-.rkds1.icu
-.gmx14.top
-.ekzzed.icu
-.gmx18.top
-.tmlwvxae.xyz
-.vdggsd017.com
-.anjneia.xyz
-.qmwx4.xyz
-.bjtgds.xyz
-.dpj0uvy.icu
-.xg6hb.xyz
-.6gcstb.xyz
-.gmx12.top
-.whdwydt.cn
-.dumeia.cn
 .z91f4.top
 .zbxtcwi.xyz
 .zchvyet.cn
@@ -55871,7 +55877,6 @@ inapps.appsflyersdk.com
 .zt2088.com
 .ztyumn.ifeng.com
 .27gh.cc
-.1.jiangzheba.com
 .003store.com
 .0941.org
 .1.07swz.com
@@ -55900,6 +55905,7 @@ inapps.appsflyersdk.com
 .1.hnyouneng.com
 .1.isanxia.com
 .1.jeasyui.net
+.1.jiangzheba.com
 .1.jiqie.cn
 .1.jushtong.com
 .1.kuaidiwo.cn
