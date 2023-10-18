@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-18 20:00:01·········数量:57194条·········增量:$[57194-$[57196-1]]条·········
+#·········更新时间:2023-10-18 21:00:01·········数量:57200条·········增量:$[57200-$[57196-1]]条·········
 .provingavidity.com
 .gold-line.click
 .adtago.s3.amazonaws.com
@@ -49784,8 +49784,8 @@ inapps.appsflyersdk.com
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-10-13 18:47:46 CEST
-# entries:        1188
+# last updated:   2023-10-18 08:32:50 CEST
+# entries:        1190
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 .1terms.com
@@ -49934,6 +49934,8 @@ inapps.appsflyersdk.com
 .cision.com
 .classic.avantlink.com
 .cmp.network-n.com
+.cncpt.dk
+.cncptx.com
 .collect.breakit.se
 .collector.cint.com
 .collector-pxrf8vapwa.pxchk.net
@@ -51707,6 +51709,10 @@ inapps.appsflyersdk.com
 .eht116.com
 .wuyaw.cn
 .qmoxxhc.cn
+.gmx46.top
+.cdsa2.icu
+.mhnzhlase.xyz
+.qwesaz.com
 .z91f4.top
 .zbxtcwi.xyz
 .zchvyet.cn
