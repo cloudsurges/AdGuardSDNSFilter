@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-18 08:00:01·········数量:57179条·········增量:$[57179-$[57181-1]]条·········
+#·········更新时间:2023-10-18 09:00:01·········数量:57192条·········增量:$[57192-$[57181-1]]条·········
 .provingavidity.com
 .gold-line.click
 .adtago.s3.amazonaws.com
@@ -5185,6 +5185,7 @@ vkcdnservice.appspot.com
 .bagelinterest.com
 .bagfulcoughwallow.com
 .baggageconservationcaught.com
+.baggalaresaid.com
 .baggy-fail.pro
 .baglikeurging.com
 .bagnuterosive.com
@@ -5242,6 +5243,7 @@ vkcdnservice.appspot.com
 .ballotsevicts.space
 .ballroomexhibitionmid.com
 .balneasoucars.website
+.baloneyunraked.com
 .balspaulite.com
 .baltchd.net
 .balvalur.com
@@ -17398,6 +17400,7 @@ vkcdnservice.appspot.com
 .mahaplinths.com
 .maharbandi.tech
 .mahdicrofter.com
+.mahonetranvia.com
 .mahourup.xyz
 .mahsirlaurite.guru
 .mahuangperosis.cfd
@@ -22405,6 +22408,7 @@ vkcdnservice.appspot.com
 .puhtml.com
 .puitaexb.com
 .pujuco.uno
+.pulayanyet.com
 .pulfrnaewqrkuqg.com
 .pullcattishwidth.com
 .pulpix.com
@@ -23479,6 +23483,7 @@ vkcdnservice.appspot.com
 .requotehocker.com
 .rerackbirma.com
 .rereddit.com
+.rergeema.com
 .reroplittrewheck.pro
 .reryn2ce.com
 .resailsgyse.com
@@ -29956,6 +29961,7 @@ vkcdnservice.appspot.com
 .wichauru.xyz
 .wichtstoppit.space
 .wickedhumankindbarrel.com
+.wicketfumage.com
 .wickiupcopalms.com
 .widaimty.com
 .wideeyed-painting.com
@@ -51692,6 +51698,13 @@ inapps.appsflyersdk.com
 .yhtpsy8888.cc
 .yutiqf.icu
 .z1wfe.top
+.mcds7.icu
+.cmdcdacq.xyz
+.iujlwn.icu
+.gmx11.top
+.chrtds.xyz
+.mfnfylx.xyz
+.eht116.com
 .z91f4.top
 .zbxtcwi.xyz
 .zchvyet.cn
