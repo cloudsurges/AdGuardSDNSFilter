@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-19 14:00:01·········数量:57236条·········增量:$[57236-$[57238-1]]条·········
+#·········更新时间:2023-10-19 15:00:01·········数量:57242条·········增量:$[57242-$[57238-1]]条·········
 .provingavidity.com
 .gold-line.click
 .adtago.s3.amazonaws.com
@@ -2025,6 +2025,7 @@ vkcdnservice.appspot.com
 .5f450dbe81.com
 .5f6dmzflgqso.com
 .5fet4fni.de
+.5h3oyhv838.com
 .5icim50.de
 .5jdhbfjdfg4.monster
 .5jhsbdjfsdf5.monster
@@ -13568,6 +13569,7 @@ vkcdnservice.appspot.com
 .hardilyshook.com
 .hardwaretakeoutintimidate.com
 .hardynarrow.com
+.haresmodus.com
 .harfuzawmk.com
 .harhtwb.com
 .haribdathesea.com
@@ -26703,6 +26705,7 @@ vkcdnservice.appspot.com
 .tasttuolxw.com
 .tasty-election.com
 .tasvagaggox.com
+.tat3ayogh6.com
 .tatdrdpuyi.com
 .tatdunsit.com
 .tatersbilobed.com
@@ -41683,6 +41686,7 @@ inapps.appsflyersdk.com
 .turbolion.io
 .tvpixel.com
 .uidapi.com
+.venture-365-inspired.com
 .venusrevival.com
 .vfgte.com
 .videoplayerhub.com
@@ -43994,7 +43998,6 @@ inapps.appsflyersdk.com
 .dl1d2m8ri9v3j.cloudfront.net
 .dn34cbtcv9mef.cloudfront.net
 .dnxlgencstz4.cloudfront.net
-.dp64mxip2za0c.cloudfront.net
 .dr3fr5q4g2ul9.cloudfront.net
 .drlimmode9ddd.cloudfront.net
 .dsbahmgppc0j4.cloudfront.net
@@ -44600,6 +44603,7 @@ inapps.appsflyersdk.com
 .track.thebase.in
 .tracker.520call.me
 .userdive.com
+.event.hackle.io
 .log.mofa.go.kr
 .logs-partners.coupang.com
 .megadata.co.kr
@@ -44944,7 +44948,6 @@ inapps.appsflyersdk.com
 .svitnews.com
 .ferdarius.com
 .gbf77po03m.com
-.tat3ayogh6.com
 .cau1aighae.com
 .bc-click.net
 .bc-news.net
@@ -45096,7 +45099,6 @@ inapps.appsflyersdk.com
 .realpush.digital
 .catsnetwork.ru
 .zzfoms.com
-.5h3oyhv838.com
 .lwmoaf.com
 .beginstory.biz
 .exolkkl6i2puvf.ru
@@ -51749,6 +51751,10 @@ inapps.appsflyersdk.com
 .wvtem.com
 .ugvbsrbht.xyz
 .dvnqhdmze.xyz
+.fmvbyji.cn
+.gmx45.top
+.gth112.com
+.dwerzv.xyz
 .zbxtcwi.xyz
 .zchvyet.cn
 .zcpsc.top
