@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-19 08:00:01·········数量:57224条·········增量:$[57224-$[57226-1]]条·········
+#·········更新时间:2023-10-19 09:00:01·········数量:57236条·········增量:$[57236-$[57226-1]]条·········
 .provingavidity.com
 .gold-line.click
 .adtago.s3.amazonaws.com
@@ -29339,6 +29339,7 @@ vkcdnservice.appspot.com
 .voynto.com
 .vpbceulnfbx.com
 .vpico.com
+.vpipi.com
 .vpixrlkggv.com
 .vpn-defend.com
 .vpn-offers.com
@@ -41564,6 +41565,7 @@ inapps.appsflyersdk.com
 .ia-dmp.com
 .iconmediapixel.com
 .iconnode.com
+.id-ward.com
 .idx.lat
 .impactcdn.com
 .impactradius-event.com
@@ -43587,6 +43589,7 @@ inapps.appsflyersdk.com
 .metrics.kmsmep.com
 .metrics.onshape.com
 .metrics.scribblelive.com
+.metrika.cdn112.com
 .metrix.emagister.com
 .mj-snowplow-static-js.s3.amazonaws.com
 .mlweb.dmlab.hu
@@ -51737,6 +51740,15 @@ inapps.appsflyersdk.com
 .yutiqf.icu
 .z1wfe.top
 .z91f4.top
+.rkds2.icu
+.gmx47.top
+.myyxox.icu
+.icvsleec.xyz
+.lianglili2.cn
+.yxrxsov.xyz
+.wvtem.com
+.ugvbsrbht.xyz
+.dvnqhdmze.xyz
 .zbxtcwi.xyz
 .zchvyet.cn
 .zcpsc.top
