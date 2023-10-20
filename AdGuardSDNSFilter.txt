@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-20 20:00:01·········数量:57267条·········增量:$[57267-$[57269-1]]条·········
+#·········更新时间:2023-10-20 21:00:01·········数量:57273条·········增量:$[57273-$[57269-1]]条·········
 .flashb.id
 .provingavidity.com
 .gold-line.click
@@ -7045,6 +7045,7 @@ vkcdnservice.appspot.com
 .ccaahdancza.com
 .ccdneniusruhebl.com
 .ccgkudwutf.com
+.ccgzcavzbmztk.com
 .ccieoqej.xyz
 .ccjzuavqrh.com
 .ccmdcinut.com
@@ -10230,6 +10231,7 @@ vkcdnservice.appspot.com
 .ecipientconcertain.info
 .ecityalittl.buzz
 .eclatedpewy.com
+.eclebgjz.com
 .eclkmpbn.com
 .eclogicmeows.com
 .ecodemitter.website
@@ -37735,6 +37737,8 @@ vkcdnservice.appspot.com
 .visilabs.net
 .ay.delivery
 .functionalclam.com
+.fewkittens.com
+.inquisitiveice.com
 .delicatecascade.com
 .dreamycanyon.com
 .whimsicalgrove.com
@@ -42925,7 +42929,6 @@ inapps.appsflyersdk.com
 .inconclusiveaction.com
 .infamousstream.com
 .inputicicle.com
-.inquisitiveice.com
 .instrumentinsect.com
 .interestingpot.com
 .jailbulb.com
@@ -51780,6 +51783,9 @@ inapps.appsflyersdk.com
 .hcgbhq.com
 .nbxymdy.cn
 .zzyy19.top
+.gelbjvl.cn
+.omzxutfm.com
+.pdweoyw.cn
 .zbxtcwi.xyz
 .zchvyet.cn
 .zcpsc.top
