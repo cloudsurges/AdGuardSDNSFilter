@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-21 22:00:01·········数量:57302条·········增量:$[57302-$[57304-1]]条·········
+#·········更新时间:2023-10-21 23:00:01·········数量:57302条·········增量:$[57302-$[57304-1]]条·········
 .fykjhzjyjvx.com
 .flashb.id
 .provingavidity.com
