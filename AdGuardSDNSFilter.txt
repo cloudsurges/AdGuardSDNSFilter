@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-21 14:00:01·········数量:57289条·········增量:$[57289-$[57291-1]]条·········
+#·········更新时间:2023-10-21 15:00:01·········数量:57297条·········增量:$[57297-$[57291-1]]条·········
 .fykjhzjyjvx.com
 .flashb.id
 .provingavidity.com
@@ -44369,6 +44369,7 @@ inapps.appsflyersdk.com
 .lentainform.com
 .mediatoday.ru
 .mobtop.ru
+.netlog.ru
 .otclick-adv.ru
 .retag.xyz
 .rnet.plus
@@ -44538,6 +44539,7 @@ inapps.appsflyersdk.com
 .imp.optaim.com
 .log.hiiir.com
 .log.tagtic.cn
+.mcs.zijieapi.com
 .p.tencentmind.com
 .r.sax.sina.com.cn
 .report.meituan.com
@@ -44553,6 +44555,7 @@ inapps.appsflyersdk.com
 .tracking.cat898.com
 .trail.71baomu.com
 .web-trace.ksapisrv.com
+.webstat.qiumibao.com
 .wlog.kuaishou.com
 .tracking.vid4u.org
 .a.centrum.cz
@@ -44741,6 +44744,7 @@ inapps.appsflyersdk.com
 .countervov.emitech.vn
 .f-emc.ngsp.gov.vn
 .tracking.aita.gov.vn
+.za.zalo.me
 .adclient-uol.lp.uol.com.br
 .adv.r7.com
 .s.mangalivre.net
@@ -50985,7 +50989,6 @@ inapps.appsflyersdk.com
 .pushdy.com
 .pushdy.vn
 .pushtimize.com
-.px.za.zalo.me
 .qc-static.coccoc.com
 .qc.coccoc.com
 .qc.coccoc.vn
@@ -51802,6 +51805,11 @@ inapps.appsflyersdk.com
 .zzyy20.top
 .asfybkiy.xyz
 .usxuyr.icu
+.zzyy17.top
+.bzvhgbr.xyz
+.foizico.cn
+.fptdxkm.com
+.faxffjo.com
 .zchvyet.cn
 .zcpsc.top
 .zents2.top
