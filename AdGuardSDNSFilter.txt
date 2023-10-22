@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-22 20:00:01·········数量:57360条·········增量:$[57360-$[57362-1]]条·········
+#·········更新时间:2023-10-22 21:00:01·········数量:57364条·········增量:$[57364-$[57362-1]]条·········
 .xmverqdrjodohf.com
 .eqrjuxvhvclqxw.xyz
 .nesfspublicate.info
@@ -4777,6 +4777,7 @@ vkcdnservice.appspot.com
 .auberginecorny.com
 .auboaksa.com
 .aubpfvvsiyf.xyz
+.aubsehog.net
 .auburn9819.com
 .auchoocm.com
 .auchoons.net
@@ -32743,6 +32744,7 @@ vkcdnservice.appspot.com
 .affiliatepluginintegration.cj.com
 .ah.pricegrabber.com
 .alarmsportsnetwork.com
+.allsportsflix.
 .api.140proof.com
 .api.bitp.it
 .apps.media-lab.ai
@@ -51876,6 +51878,8 @@ inapps.appsflyersdk.com
 .zents2.top
 .zzyy17.top
 .zzyy19.top
+.crazyit8.com
+.yuanxiab.cn
 .zzyy20.top
 .01v62.xyz
 .023best.cn
