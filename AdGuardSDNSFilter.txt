@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-23 20:00:01·········数量:57403条·········增量:$[57403-$[57405-1]]条·········
+#·········更新时间:2023-10-23 21:00:01·········数量:57407条·········增量:$[57407-$[57405-1]]条·········
 .othiijwtgcmjmj.com
 .xlarixmmdvr.xyz
 .ifntizihsffqi.com
@@ -33756,6 +33756,7 @@ vkcdnservice.appspot.com
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.adfork.co.kr
 .92by17snes4.cc
 .ads*-normal-lq.zijieapi.com
 .ad.zijieapi.com
@@ -51919,6 +51920,7 @@ inapps.appsflyersdk.com
 .pidurrmu.xyz
 .liuyuhuaa.cn
 .scqaaf.cn
+.shx11.xyz
 .zzyy20.top
 .01v62.xyz
 .023best.cn
@@ -56101,6 +56103,8 @@ inapps.appsflyersdk.com
 .zt2088.com
 .ztyumn.ifeng.com
 .27gh.cc
+.huohuo.huamuwo.com
+.ichc1.xinglinpukang.com
 .003store.com
 .0941.org
 .1.07swz.com
