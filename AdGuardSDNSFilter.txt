@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-23 09:00:01·········数量:57400条·········增量:$[57400-$[57387-1]]条·········
+#·········更新时间:2023-10-23 10:00:01·········数量:57400条·········增量:$[57400-$[57402-1]]条·········
 .othiijwtgcmjmj.com
 .xlarixmmdvr.xyz
 .ifntizihsffqi.com
