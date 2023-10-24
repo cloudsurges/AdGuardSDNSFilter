@@ -1,5 +1,7 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-24 20:00:01·········数量:57447条·········增量:$[57447-$[57449-1]]条·········
+#·········更新时间:2023-10-24 21:00:01·········数量:57456条·········增量:$[57456-$[57449-1]]条·········
+.lugajxy.com
+.loivpdbzx.com
 .pubgalaxy.com
 .othiijwtgcmjmj.com
 .xlarixmmdvr.xyz
@@ -1886,6 +1888,7 @@ vkcdnservice.appspot.com
 .4030b44c32.com
 .4073284684.com
 .407433bfc441.com
+.4087aa0dc1.com
 .40ceexln7929.com
 .40e82f6c27.com
 .40f380afa3.com
@@ -6484,6 +6487,7 @@ vkcdnservice.appspot.com
 .brokeloy.com
 .brokerspock.com
 .brominewf.guru
+.bromisescapose.com
 .bromoilnapalms.com
 .bromusic.site
 .broochambitioncopies.com
@@ -15356,6 +15360,7 @@ vkcdnservice.appspot.com
 .jacobsyrma.live
 .jacragatztit.com
 .jacsmuvkymw.com
+.jactantsplodgy.com
 .jadcenter.com
 .jadedhide.pro
 .jadqoc.xyz
@@ -17939,6 +17944,7 @@ vkcdnservice.appspot.com
 .mergaksi.net
 .mergedlava.com
 .mergerpep.com
+.mergessidi.com
 .meritedgasser.com
 .merligopotlid.com
 .mermaidcontemplateadjoining.com
@@ -51961,6 +51967,9 @@ inapps.appsflyersdk.com
 .vizhtd.xyz
 .jmhngn.com
 .gqleov.icu
+.gejhhh.cn
+.berrynicolo.com
+.gmx42.top
 .zzyy20.top
 .01v62.xyz
 .023best.cn
