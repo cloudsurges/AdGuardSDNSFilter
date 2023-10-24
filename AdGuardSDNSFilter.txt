@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-25 01:00:01·········数量:57456条·········增量:$[57456-$[57458-1]]条·········
+#·········更新时间:2023-10-25 02:00:01·········数量:57456条·········增量:$[57456-$[57458-1]]条·········
 .lugajxy.com
 .loivpdbzx.com
 .pubgalaxy.com
