@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-25 14:00:01·········数量:57467条·········增量:$[57467-$[57469-1]]条·········
+#·········更新时间:2023-10-25 15:00:01·········数量:57467条·········增量:$[57467-$[57469-1]]条·········
 .promo.pixelsee.app
 .lugajxy.com
 .loivpdbzx.com
@@ -50910,10 +50910,6 @@ inapps.appsflyersdk.com
 .trackingclick.net
 .traffic-monetizer.com
 .trk.cpaoptimizer.com
-.ads.jogloitcenter.com
-.c303.pw
-.welcome.indihome.co.id
-.darts-ads.telkom.co.id
 .24h-ad.24hstatic.com
 .24h-ipad-ad.24hstatic.com
 .ad-us.24hstatic.com
@@ -51981,6 +51977,10 @@ inapps.appsflyersdk.com
 .dsbfpt.xyz
 .cthbini.xyz
 .kaaqgf.icu
+.gnuoipb.cn
+.dunrnd.com
+.juljrd.xyz
+.sregfle.cn
 .zzyy20.top
 .01v62.xyz
 .023best.cn
