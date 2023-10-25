@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-25 16:00:01·········数量:57467条·········增量:$[57467-$[57469-1]]条·········
+#·········更新时间:2023-10-25 17:00:01·········数量:57467条·········增量:$[57467-$[57469-1]]条·········
 .promo.pixelsee.app
 .lugajxy.com
 .loivpdbzx.com
