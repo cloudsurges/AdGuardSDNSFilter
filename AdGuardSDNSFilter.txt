@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-26 08:00:01·········数量:57484条·········增量:$[57484-$[57486-1]]条·········
+#·········更新时间:2023-10-26 09:00:01·········数量:57493条·········增量:$[57493-$[57486-1]]条·········
 .arvigorothan.com
 .fringesdurocs.com
 .promo.pixelsee.app
@@ -43043,6 +43043,7 @@ inapps.appsflyersdk.com
 .handyfireman.com
 .harborcaption.com
 .hauntlist.com
+.headydegree.com
 .hearinglizards.com
 .heartbreakingmind.com
 .helpcollar.com
@@ -51998,6 +51999,14 @@ inapps.appsflyersdk.com
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
+.fcgmoas.cn
+.gwdobvs.cn
+.olltcqg.xyz
+.okpcyp.icu
+.nyfgpbsc.xyz
+.beezwol.com
+.ksrgsc.xyz
+.dcdglb.xyz
 .zzyy20.top
 .01v62.xyz
 .023best.cn
