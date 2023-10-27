@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-27 14:00:01·········数量:57540条·········增量:$[57540-$[57542-1]]条·········
+#·········更新时间:2023-10-27 15:00:01·········数量:57543条·········增量:$[57543-$[57542-1]]条·········
 .arvigorothan.com
 .fringesdurocs.com
 .promo.pixelsee.app
@@ -52054,6 +52054,9 @@ inapps.appsflyersdk.com
 .lmfehr.xyz
 .df-long.cn
 .lryqef.xyz
+.gmx38.top
+.cjohpsc.cn
+.tongjiniao.com
 .zzyy20.top
 .01v62.xyz
 .023best.cn
