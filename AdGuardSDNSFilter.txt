@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-28 03:00:01·········数量:57377条·········增量:$[57377-$[57365-1]]条·········
+#·········更新时间:2023-10-28 04:00:01·········数量:57377条·········增量:$[57377-$[57379-1]]条·········
 .mobileoffers-ep-download.com
 .arvigorothan.com
 .fringesdurocs.com
