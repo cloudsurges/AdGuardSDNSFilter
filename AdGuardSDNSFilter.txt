@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-28 08:00:01·········数量:57377条·········增量:$[57377-$[57379-1]]条·········
+#·········更新时间:2023-10-28 09:00:01·········数量:57391条·········增量:$[57391-$[57379-1]]条·········
+.planetvids.space
 .mobileoffers-ep-download.com
 .arvigorothan.com
 .fringesdurocs.com
@@ -5354,6 +5355,7 @@ vkcdnservice.appspot.com
 .beastsclassbiscuit.com
 .beastsmalefic.uno
 .beatifulapplabland.com
+.beatifulllhistory.com
 .beautifulasaweath.info
 .beaverculbert.uno
 .beavertron.com
@@ -42005,6 +42007,7 @@ inapps.appsflyersdk.com
 .haloscan.com
 .havasedge.com
 .hbwrapper.com
+.heatmap.com
 .heatmap.services
 .heylink.com
 .hif.to
@@ -51891,6 +51894,17 @@ inapps.appsflyersdk.com
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
+.lwhffh.xyz
+.fepmpify.xyz
+.rntdqwc.xyz
+.wyoaij.icu
+.naweslt.cn
+.jupeicha.cn
+.unqrroh.cn
+.mrthav.xyz
+.gmx40.top
+.vrivslffndepxqd.xyz
+.clcmdie.com
 .zzyy20.top
 .01v62.xyz
 .023best.cn
