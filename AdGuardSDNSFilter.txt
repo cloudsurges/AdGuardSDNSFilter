@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-29 14:00:01·········数量:57402条·········增量:$[57402-$[57404-1]]条·········
+#·········更新时间:2023-10-29 15:00:01·········数量:57407条·········增量:$[57407-$[57404-1]]条·········
 .planetvids.space
 .mobileoffers-ep-download.com
 .arvigorothan.com
@@ -44733,6 +44733,7 @@ inapps.appsflyersdk.com
 .tag.shopping-feed.com
 .tracking.smartmeapp.com
 .webpixel.smartmeapp.com
+.evt-api.ntm.eu
 .pixel.smartmedia.tj
 .sal.isanook.com
 .stat.matichon.co.th
@@ -51916,6 +51917,10 @@ inapps.appsflyersdk.com
 .aidmat.icu
 .gmx39.top
 .tgjdbx.xyz
+.huxifena.cn
+.ikmhndd.com
+.17123.net
+.waxin0gjue.cn
 .zzyy20.top
 .01v62.xyz
 .023best.cn
