@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-29 09:00:01·········数量:57402条·········增量:$[57402-$[57399-1]]条·········
+#·········更新时间:2023-10-29 10:00:01·········数量:57402条·········增量:$[57402-$[57404-1]]条·········
 .planetvids.space
 .mobileoffers-ep-download.com
 .arvigorothan.com
