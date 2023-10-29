@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-29 20:00:01·········数量:57407条·········增量:$[57407-$[57409-1]]条·········
+#·········更新时间:2023-10-29 21:00:01·········数量:57418条·········增量:$[57418-$[57409-1]]条·········
 .planetvids.space
 .mobileoffers-ep-download.com
 .arvigorothan.com
@@ -5938,6 +5938,7 @@ vkcdnservice.appspot.com
 .blunksdaler.uno
 .blurbigdoable.com
 .blurlorum.uno
+.blurmesses.com
 .blushbuiltonboard.com
 .blushmossy.com
 .blzjhbvams.com
@@ -12645,6 +12646,7 @@ vkcdnservice.appspot.com
 .girliewinding.com
 .giroxxha.com
 .girsescrawk.website
+.gishejuy.com
 .gistblemishparking.com
 .gitoku.com
 .giufjcfjdv.com
@@ -19444,6 +19446,7 @@ vkcdnservice.appspot.com
 .oatchelt.com
 .oatmealaspectpulp.com
 .oatmeallump.com
+.oatsouje.net
 .oaujswgofu.com
 .oaxoulro.com
 .oaxpcohp.com
@@ -20581,6 +20584,7 @@ vkcdnservice.appspot.com
 .paliglaiks.life
 .pallaliven.com
 .palpablefungussome.com
+.palroudi.xyz
 .paltryheadline.com
 .palycaid.life
 .palzscurou.com
@@ -22223,6 +22227,7 @@ vkcdnservice.appspot.com
 .psvgnczo.com
 .psychalwamble.com
 .psychicbowel.com
+.psycholjicaque.com
 .psychologyairport.com
 .psychologycircumvent.com
 .psychologydistinguishnest.com
@@ -23532,6 +23537,7 @@ vkcdnservice.appspot.com
 .rethowilmari.com
 .reticencecarefully.com
 .retinaebiaxal.guru
+.retinaspealer.com
 .retinuedisposablerecuperate.com
 .retinuegigoh.com
 .retionattings.xyz
@@ -23803,6 +23809,7 @@ vkcdnservice.appspot.com
 .roadmappenal.com
 .roakicat.net
 .roambedroom.com
+.roastoup.com
 .roataisa.net
 .robberyinscription.com
 .robberysordid.com
@@ -24311,6 +24318,7 @@ vkcdnservice.appspot.com
 .sandhiswiggish.top
 .sandyconference.com
 .sanfordcessor.space
+.sangeiunzen.com
 .sanggilregard.com
 .sangogne.com
 .sanhitaamerce.uno
@@ -24449,6 +24457,7 @@ vkcdnservice.appspot.com
 .schavsorpines.guru
 .schemeabsolutejanuary.com
 .schinuskolobia.com
+.schizypdq.com
 .schjmp.com
 .schochesaynay.website
 .scholarovertakealimony.com
@@ -51922,6 +51931,8 @@ inapps.appsflyersdk.com
 .17123.net
 .waxin0gjue.cn
 .zzyy20.top
+.tqrznqs.cn
+.3dh9y.com
 .01v62.xyz
 .023best.cn
 .0272aa.com
