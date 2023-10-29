@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-29 08:00:01·········数量:57397条·········增量:$[57397-$[57399-1]]条·········
+#·········更新时间:2023-10-29 09:00:01·········数量:57402条·········增量:$[57402-$[57399-1]]条·········
 .planetvids.space
 .mobileoffers-ep-download.com
 .arvigorothan.com
@@ -51911,6 +51911,11 @@ inapps.appsflyersdk.com
 .g2ak5.com
 .dskjhs.com
 .sqevnrb.com
+.oehcxmhk.xyz
+.dfxvkgz.xyz
+.aidmat.icu
+.gmx39.top
+.tgjdbx.xyz
 .zzyy20.top
 .01v62.xyz
 .023best.cn
