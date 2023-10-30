@@ -1,5 +1,7 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-30 14:00:01·········数量:57444条·········增量:$[57444-$[57446-1]]条·········
+#·········更新时间:2023-10-30 15:00:01·········数量:57454条·········增量:$[57454-$[57446-1]]条·········
+.tlvkywwnuvgtq.com
+.qrwkkcyih.xyz
 .gltjtkqoxhbgvlx.com
 .nqvlkmmti.com
 .rerpartmentm.info
@@ -41628,6 +41630,7 @@ inapps.appsflyersdk.com
 .loopcybersec.com
 .lsdm.co
 .maggieeatstheangel.com
+.maxepv.com
 .maxtrafixx.tech
 .mb-tracking.com
 .mcangelus.com
@@ -42010,7 +42013,6 @@ inapps.appsflyersdk.com
 .getaawp.com
 .getambassador.com
 .getblueshift.com
-.getelevar.com
 .getpublica.com
 .getrockerbox.com
 .getviously.com
@@ -43414,6 +43416,7 @@ inapps.appsflyersdk.com
 .collect-ap2.attraqt.io
 .collect-eu.attraqt.io
 .collect.alphastream.io
+.collect.bannercrowd.net
 .collect.cloudsponge.com
 .collect.iteam-dress.com
 .collect.rebelmouse.io
@@ -43573,6 +43576,7 @@ inapps.appsflyersdk.com
 .hb.vhsrv.com
 .hello.staticstuff.net
 .hit.mybestpro.com
+.hits.getelevar.com
 .hits.informer.com
 .hpr.outbrain.com
 .hspbotdetection.azurewebsites.net
@@ -43642,6 +43646,7 @@ inapps.appsflyersdk.com
 .mj-snowplow-static-js.s3.amazonaws.com
 .mlweb.dmlab.hu
 .mmi.bemobile.ua
+.monitor-api.blackcrow.ai
 .monitor-frontend-collector.a.bybit-aws.com
 .monitoring.iraiser.eu
 .ms-trackingapi.phenompeople.com
@@ -43882,6 +43887,7 @@ inapps.appsflyersdk.com
 .track.strife.com
 .track.td3x.com
 .track.untd.com
+.track.uppromote.com
 .track.venatusmedia.com
 .track.vscash.com
 .track.yfret.com
@@ -43906,6 +43912,7 @@ inapps.appsflyersdk.com
 .trackerapi.truste.com
 .trackicollect.ibase.fr
 .tracking-api.mangopulse.net
+.tracking-na.hawksearch.com
 .tracking.ads.global-fashion-group.com
 .tracking.aegpresents.com
 .tracking.americaneagle.com
@@ -43980,6 +43987,7 @@ inapps.appsflyersdk.com
 .wt.viagogo.net
 .x.disq.us
 .x.weather.com
+.xp2023-pix.s3.amazonaws.com
 .adsdk.yandex.ru
 .analytics.samsungknox.com
 .app.chat.xiaomi.net
@@ -44608,6 +44616,7 @@ inapps.appsflyersdk.com
 .dnt-userreport.com
 .tags.op-palvelut.fi
 .links.boom.ge
+.analytics.skroutz.gr
 .heartbeat.pmd.444.hu
 .rum.marquardmedia.hu
 .videostat-new.index.hu
@@ -51955,6 +51964,7 @@ inapps.appsflyersdk.com
 .gmx36.top
 .n019q.com
 .bdlexn.xyz
+.brorzpj.cn
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
