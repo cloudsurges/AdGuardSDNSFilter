@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-31 05:00:01·········数量:57506条·········增量:$[57506-$[57508-1]]条·········
+#·········更新时间:2023-10-31 06:00:01·········数量:57506条·········增量:$[57506-$[57508-1]]条·········
 .adtclickwhite.com
 .moneytatorone.com
 .tlvkywwnuvgtq.com
