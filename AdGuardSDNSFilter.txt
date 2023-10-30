@@ -1,5 +1,20 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-30 08:00:01·········数量:57420条·········增量:$[57420-$[57422-1]]条·········
+#·········更新时间:2023-10-30 09:00:01·········数量:57444条·········增量:$[57444-$[57422-1]]条·········
+.gltjtkqoxhbgvlx.com
+.nqvlkmmti.com
+.rerpartmentm.info
+.twrencesprin.info
+.ivedmanyyea.org
+.ngxpprnv.com
+.sheemaus.net
+.iornsfyhueev.com
+.zhyivocrjeplby.com
+.ewikajs.com
+.tabbingtremors.life
+.thepeom.com
+.ubadzufyfjcd.com
+.townrusisedprivat.info
+.mlnybwnbwzhiy.com
 .planetvids.space
 .mobileoffers-ep-download.com
 .arvigorothan.com
@@ -1123,6 +1138,7 @@
 .d71e6dd31a026d45.com
 .adrunnr.com
 .samsungtvads.com
+.d1f7vr2umogk27.cloudfront.net
 .dfjlgfb4lxka5.cloudfront.net
 .dupcczkfziyd3.cloudfront.net
 .d1cglulyxpv8sj.cloudfront.net
@@ -23450,7 +23466,6 @@ vkcdnservice.appspot.com
 .rereddit.com
 .rergeema.com
 .reroplittrewheck.pro
-.rerpartmentm.info
 .reryn2ce.com
 .resailsgyse.com
 .resalag.com
@@ -28044,7 +28059,6 @@ vkcdnservice.appspot.com
 .twomughakmpi.com
 .twovqti.com
 .twpasol.com
-.twrencesprin.info
 .twtad.com
 .twvybupqup.xyz
 .twwp3.top
@@ -32888,7 +32902,6 @@ vkcdnservice.appspot.com
 .d1ezlc9vy4yc7g.cloudfront.net
 .d1f05vr3sjsuy7.cloudfront.net
 .d1f52ha44xvggk.cloudfront.net
-.d1f7vr2umogk27.cloudfront.net
 .d1f9tkqiyb5a97.cloudfront.net
 .d1fs2ef81chg3.cloudfront.net
 .d1g2nud28z4vph.cloudfront.net
@@ -34319,6 +34332,7 @@ vkcdnservice.appspot.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.starszoom.re
 .lr-intake.com
 .collector-api.frspecifics.com
 .smelel.icu
@@ -51931,6 +51945,16 @@ inapps.appsflyersdk.com
 .zcpsc.top
 .zents2.top
 .zjdruhn.xyz
+.esnysd.icu
+.pxxnejx.xyz
+.gmx34.top
+.hunklm.com
+.jiangjinmoa.cn
+.uuzsfpju.xyz
+.bmxvxl.xyz
+.gmx36.top
+.n019q.com
+.bdlexn.xyz
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
