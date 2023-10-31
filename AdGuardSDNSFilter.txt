@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-31 20:00:01·········数量:57516条·········增量:$[57516-$[57518-1]]条·········
+#·········更新时间:2023-10-31 21:00:01·········数量:57519条·········增量:$[57519-$[57518-1]]条·········
 .adtclickwhite.com
 .moneytatorone.com
 .tlvkywwnuvgtq.com
@@ -33726,6 +33726,7 @@ vkcdnservice.appspot.com
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.ads-sdk.nianticlabs.com
 .ad.mediamixer.co.kr
 .adx.promo
 .adfork.co.kr
@@ -52027,6 +52028,8 @@ inapps.appsflyersdk.com
 .bpbfymv.xyz
 .iccjkn.icu
 .estixfl.cn
+.unidict.cn
+.njrnwan.cn
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
