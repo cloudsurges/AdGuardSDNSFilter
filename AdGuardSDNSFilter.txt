@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-10-31 08:00:01·········数量:57506条·········增量:$[57506-$[57508-1]]条·········
+#·········更新时间:2023-10-31 09:00:01·········数量:57515条·········增量:$[57515-$[57508-1]]条·········
 .adtclickwhite.com
 .moneytatorone.com
 .tlvkywwnuvgtq.com
@@ -32364,6 +32364,7 @@ vkcdnservice.appspot.com
 .realhumandeals.com
 .realssp.co.kr
 .rediads.com
+.redintelligence.net
 .republer.com
 .revenueflex.com
 .revive-adserver.net
@@ -52017,6 +52018,14 @@ inapps.appsflyersdk.com
 .zcpsc.top
 .zents2.top
 .zjdruhn.xyz
+.gmx37.top
+.gmx31.top
+.durynslg.xyz
+.bnnfvd.xyz
+.nyvgbt.xyz
+.hnkhgw.com
+.bpbfymv.xyz
+.iccjkn.icu
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
