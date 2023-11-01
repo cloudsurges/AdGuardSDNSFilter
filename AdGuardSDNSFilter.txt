@@ -1,5 +1,8 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-02 02:00:01·········数量:57579条·········增量:$[57579-$[57581-1]]条·········
+#·········更新时间:2023-11-02 03:00:01·········数量:57591条·········增量:$[57591-$[57581-1]]条·········
+.edeybivah.com
+.wowhaujy.com
+.go.mnaspm.com
 .rnqjfeuwrvd.com
 .foojimie.net
 .xuffojr.com
@@ -5374,6 +5377,7 @@ vkcdnservice.appspot.com
 .bcuiaw.com
 .bcwxcwvwmcsplf.xyz
 .bdced8843e.com
+.bddc935c97.com
 .bdettywfxbcb.xyz
 .bdfagcumunjzx.com
 .bdfe35942f.com
@@ -10452,6 +10456,7 @@ vkcdnservice.appspot.com
 .ellaysad.live
 .ellcurvth.com
 .ellicecaesura.com
+.elltheprecise.org
 .elmiestkanuri.top
 .elmkrljayamrb.top
 .elogiumtagmeme.com
@@ -18432,6 +18437,7 @@ vkcdnservice.appspot.com
 .mpsuadv.ru
 .mptentry.com
 .mptgate.com
+.mpzwsvueph.com
 .mqabjtgli.xyz
 .mqaqtwkbwcqty.xyz
 .mqarrenothanca.xyz
@@ -19658,6 +19664,7 @@ vkcdnservice.appspot.com
 .odeerofhisk.xyz
 .odipjwipwwyus.xyz
 .odnaknopka.ru
+.odnaturedfe.org
 .odoursguard.website
 .odrmaztzeaj.com
 .odylespiacle.com
@@ -22839,6 +22846,7 @@ vkcdnservice.appspot.com
 .qualitysquashwin.com
 .quallyrimers.com
 .quanta-wave.com
+.quantoz.xyz
 .quarrelaimless.com
 .quarrelconfidentmane.com
 .quasiblamelesshazy.com
@@ -31050,6 +31058,7 @@ vkcdnservice.appspot.com
 .yrkycfjq.com
 .yrufmaimbhxxe.com
 .yrvzqabfxe.com
+.yscntxil.com
 .ysemblyjusting.info
 .ysnakestanothia.xyz
 .ysuchtjhwasp.info
@@ -31288,6 +31297,7 @@ vkcdnservice.appspot.com
 .zjo0tjqpm1.com
 .zjrnyrranjjay.top
 .zjybqqaleeva.top
+.zjybqqalenve.top
 .zkapibwampca.com
 .zkczzltlhp6y.com
 .zlacraft.com
@@ -51796,6 +51806,7 @@ inapps.appsflyersdk.com
 .dvnqhdmze.xyz
 .dwerzv.xyz
 .ebmlsvw.cn
+.eejwvwoo.xyz
 .eht116.com
 .ekzzed.icu
 .esnysd.icu
@@ -51808,6 +51819,7 @@ inapps.appsflyersdk.com
 .fcgxidqwcx.xyz
 .fepmpify.xyz
 .fkjsjwbs.xyz
+.fluhmmr.cn
 .fmvbyji.cn
 .foizico.cn
 .fptdxkm.com
@@ -51897,6 +51909,7 @@ inapps.appsflyersdk.com
 .jupeicha.cn
 .jvjmjt.xyz
 .kaaqgf.icu
+.kjdbcjkmc.com
 .klfbnklddfbkn.com
 .knhmgn.com
 .knuaxfv.cn
@@ -51941,6 +51954,7 @@ inapps.appsflyersdk.com
 .nangongmall.com
 .naweslt.cn
 .nbxymdy.cn
+.nbycjpo.cn
 .ndvfwlv.cn
 .neeujqf.cn
 .negnixa.cn
@@ -51971,6 +51985,7 @@ inapps.appsflyersdk.com
 .ppvpmrt.xyz
 .pqjeoqa.cn
 .psroyx.icu
+.ptdofj.xyz
 .pxxnejx.xyz
 .qauksl.icu
 .qbhjokk.xyz
@@ -52001,6 +52016,7 @@ inapps.appsflyersdk.com
 .smlpcz.icu
 .sqevnrb.com
 .sregfle.cn
+.srlhgo.cn
 .suzoqz.icu
 .syjkscy.cn
 .tcgaqh.icu
@@ -52022,6 +52038,7 @@ inapps.appsflyersdk.com
 .usxuyr.icu
 .uuzsfpju.xyz
 .uwfxvvm.cn
+.vdggsd001.com
 .vdggsd005.com
 .vdggsd006.com
 .vdggsd007.com
@@ -52039,6 +52056,7 @@ inapps.appsflyersdk.com
 .vivienjumpe.com
 .vizhtd.xyz
 .vrivslffndepxqd.xyz
+.vrnrpzy.xyz
 .vttqld.xyz
 .vxdpmxw.xyz
 .waxin0gjue.cn
@@ -52064,6 +52082,7 @@ inapps.appsflyersdk.com
 .xxfphsg.cn
 .xxkswdf.icu
 .y341i.xyz
+.ycgkol.icu
 .ycmgeb.icu
 .yepgdita.xyz
 .yhlzadr.xyz
@@ -52081,15 +52100,7 @@ inapps.appsflyersdk.com
 .zcpsc.top
 .zents2.top
 .zjdruhn.xyz
-.ycgkol.icu
-.ptdofj.xyz
-.vdggsd001.com
-.eejwvwoo.xyz
-.vrnrpzy.xyz
 .zlncvn.xyz
-.nbycjpo.cn
-.srlhgo.cn
-.kjdbcjkmc.com
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
@@ -57234,6 +57245,7 @@ analytics-*.aasaam.com
 .ads.akaup.com
 .ads.alaatv.com
 # >> B <<
+.sentry.bale.sh
 .posthog.basalam.com
 .sentry.basalam.com
 .metrix.behtarino.com
