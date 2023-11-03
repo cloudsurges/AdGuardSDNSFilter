@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-03 14:00:01·········数量:57649条·········增量:$[57649-$[57651-1]]条·········
+#·········更新时间:2023-11-03 15:00:01·········数量:57659条·········增量:$[57659-$[57651-1]]条·········
 .zogrepsili.com
 .vidsfull.online
 .edeybivah.com
@@ -13716,7 +13716,9 @@ vkcdnservice.appspot.com
 .heebauch.com
 .heedsbedeaf.guru
 .heelseparateddistinguished.com
+.heerosha.com
 .heeteefu.com
+.heezylaura.com
 .hefeltlonely.one
 .heftymynah.com
 .hegazedatthewo.com
@@ -14065,6 +14067,7 @@ vkcdnservice.appspot.com
 .hoonaptecun.com
 .hoood.info
 .hoopbeingsmigraine.com
+.hoopersnonpoet.com
 .hoophaub.com
 .hooplejubus.uno
 .hooptaik.net
@@ -17028,6 +17031,7 @@ vkcdnservice.appspot.com
 .lolsefti.com
 .lonelinessapp.com
 .lonfilliongin.com
+.longeargloving.com
 .longerbuttonamendment.com
 .longestwaileddeadlock.com
 .longingarsonistexemplify.com
@@ -32817,6 +32821,7 @@ vkcdnservice.appspot.com
 .ad.reklamport.com
 .ad.video-mech.ru
 .ad.wsod.com
+.adinplay-venatus.workers.dev
 .adncdnend.azureedge.net
 .adrackpush.azurewebsites.net
 .ads-yallo-production.imgix.net
@@ -32849,6 +32854,7 @@ vkcdnservice.appspot.com
 .bids.concert.io
 .bl.wavecdn.de
 .br.coe777.com
+.bs-adserver.b-cdn.net
 .btr.domywife.com
 .c.bannerflow.net
 .c2shb.pubgw.yahoo.com
@@ -52158,6 +52164,10 @@ inapps.appsflyersdk.com
 .wutsldsk.xyz
 .ybrbdft.xyz
 .vdggsd003.com
+.fenem.top
+.qboywc.xyz
+.xlca666.site
+.eglizqf.cn
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
