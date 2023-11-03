@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-03 07:00:01·········数量:57625条·········增量:$[57625-$[57627-1]]条·········
+#·········更新时间:2023-11-03 08:00:01·········数量:57625条·········增量:$[57625-$[57627-1]]条·········
 .zogrepsili.com
 .vidsfull.online
 .edeybivah.com
