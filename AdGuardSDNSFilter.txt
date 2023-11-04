@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-04 14:00:01·········数量:57701条·········增量:$[57701-$[57703-1]]条·········
+#·········更新时间:2023-11-04 15:00:01·········数量:57702条·········增量:$[57702-$[57703-1]]条·········
 .zogrepsili.com
 .vidsfull.online
 .edeybivah.com
@@ -6522,6 +6522,7 @@ vkcdnservice.appspot.com
 .bullnunname.com
 .bullymust.com
 .bulrev.com
+.bulserv.com
 .bultaika.net
 .bultenanogra.cfd
 .bulyiel.com
@@ -15847,7 +15848,6 @@ vkcdnservice.appspot.com
 .kamalafooner.space
 .kamamwvzmmzmy.top
 .kamassirangers.tech
-.kaminari.systems
 .kamnebo.info
 .kamost.com
 .kanatventose.com
@@ -52210,6 +52210,7 @@ inapps.appsflyersdk.com
 .egadfe.xyz
 .vdggsd004.com
 .pptclb.xyz
+.hfjhr.cn
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
