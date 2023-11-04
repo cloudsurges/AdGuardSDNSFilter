@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-04 20:00:01·········数量:57702条·········增量:$[57702-$[57704-1]]条·········
+#·········更新时间:2023-11-04 21:00:01·········数量:57705条·········增量:$[57705-$[57704-1]]条·········
 .zogrepsili.com
 .vidsfull.online
 .edeybivah.com
@@ -39056,6 +39056,8 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.cnt.promodj.com
+.at.prod.jimdo.systems
 .log.getadblock.com
 .ping.getadblock.com
 .hlogger.heraldcorp.com
@@ -52211,6 +52213,7 @@ inapps.appsflyersdk.com
 .vdggsd004.com
 .pptclb.xyz
 .hfjhr.cn
+.tewsdnka35.xyz
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
