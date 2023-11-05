@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-05 08:00:01·········数量:57721条·········增量:$[57721-$[57723-1]]条·········
+#·········更新时间:2023-11-05 09:00:01·········数量:57729条·········增量:$[57729-$[57723-1]]条·········
 .zogrepsili.com
 .vidsfull.online
 .edeybivah.com
@@ -42398,6 +42398,7 @@ inapps.appsflyersdk.com
 .ninjacat.io
 .nmrodam.com
 .northstartravelmedia.com
+.nullitics.com
 .nuloox.com
 .nyltx.com
 .o-s.io
@@ -52230,6 +52231,13 @@ inapps.appsflyersdk.com
 .zjdruhn.xyz
 .zlncvn.xyz
 .zys13.top
+.zys15.top
+.omkxes.xyz
+.wlzlrlp.xyz
+.lkdybkwi.xyz
+.fehrda.xyz
+.xzvahr.xyz
+.tcvmtp.xyz
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
