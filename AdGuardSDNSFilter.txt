@@ -1,5 +1,11 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-06 08:00:01·········数量:57795条·········增量:$[57795-$[57797-1]]条·········
+#·········更新时间:2023-11-06 09:00:01·········数量:57804条·········增量:$[57804-$[57797-1]]条·········
+.icxcrnciutiltaf.com
+.kaqpnobbjzdwi.com
+.xhwwcif.com
+.srasylzu.com
+.dweatherbe.org
+.nandweandthe.org
 .zogrepsili.com
 .vidsfull.online
 .edeybivah.com
@@ -52303,6 +52309,9 @@ inapps.appsflyersdk.com
 .zlncvn.xyz
 .zys13.top
 .zys15.top
+.idddlon.xyz
+.zys16.top
+.uavejnys.xyz
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
