@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-08 05:00:01·········数量:57476条·········增量:$[57476-$[57478-1]]条·········
+#·········更新时间:2023-11-08 06:00:01·········数量:57476条·········增量:$[57476-$[57478-1]]条·········
 .thompoot.com
 .altcoin.care
 .recholta.net
