@@ -1,5 +1,7 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-07 20:00:01·········数量:57459条·········增量:$[57459-$[57461-1]]条·········
+#·········更新时间:2023-11-07 21:00:01·········数量:57473条·········增量:$[57473-$[57461-1]]条·········
+.recholta.net
+.rydpsqdsaja.com
 .jjwmlaynwwbll.top
 .icxcrnciutiltaf.com
 .kaqpnobbjzdwi.com
@@ -13271,6 +13273,7 @@ vkcdnservice.appspot.com
 .guasarestant.com
 .gubopedruph.com
 .guchihyfa.pro
+.guddledarride.com
 .gudouzov.com
 .guemalgist.com
 .guerrilla-links.com
@@ -15972,6 +15975,7 @@ vkcdnservice.appspot.com
 .kistfulmafiosi.space
 .kistfulmapach.life
 .kistutch.net
+.kistversets.com
 .kitantiterhalac.xyz
 .kitchencafeso.com
 .kithudru.xyz
@@ -17111,6 +17115,7 @@ vkcdnservice.appspot.com
 .lubbreton.com
 .lubowitz.biz
 .lubrazati.com
+.lucentfreer.com
 .lucentposition.com
 .luciditycuddle.com
 .luciditymadeupfarfetched.com
@@ -17882,6 +17887,7 @@ vkcdnservice.appspot.com
 .miaeglaring.uno
 .miamiahokums.com
 .miamribud.com
+.miaouedcrevass.com
 .miayarus.com
 .miboundwhiffet.com
 .micastskangli.com
@@ -19654,6 +19660,7 @@ vkcdnservice.appspot.com
 .ofhgkuopngw.com
 .ofhypnoer.com
 .ofleafeona.com
+.ofoockoo.com
 .ofpiplupon.com
 .ofqopmnpia.com
 .ofqvwaosjq.com
@@ -23804,6 +23811,7 @@ vkcdnservice.appspot.com
 .roabmyrevngqqk.com
 .roachoavi.com
 .roadmappenal.com
+.roadoati.xyz
 .roakicat.net
 .roambedroom.com
 .roastoup.com
@@ -38782,6 +38790,8 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.analytics.keepstreams.com
+.analytics.gamesdrive.net
 .cnt.promodj.com
 .at.prod.jimdo.systems
 .log.getadblock.com
@@ -40158,6 +40168,7 @@ vkcdnservice.appspot.com
 .r.bbci.co.uk
 .r.kleertjes.com
 .r.miamano.com
+.alt-r.my.com
 .r.my.com
 .r.razer.com
 .r.rbc.ru
@@ -41441,6 +41452,7 @@ inapps.appsflyersdk.com
 .cdnhst.xyz
 .ciqtracking.com
 .cityrobotflower.com
+.ck123.io
 .ckies.net
 .clearbitscripts.com
 .click360.io
@@ -51967,6 +51979,8 @@ inapps.appsflyersdk.com
 .znwzcmd.cn
 .2c0a5.xyz
 .azdiqsb.cn
+.wyiegt.icu
+.eyjvq.xyz
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
