@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-08 14:00:01·········数量:57485条·········增量:$[57485-$[57487-1]]条·········
+#·········更新时间:2023-11-08 15:00:01·········数量:57493条·········增量:$[57493-$[57487-1]]条·········
 .thompoot.com
 .altcoin.care
 .recholta.net
@@ -41903,6 +41903,7 @@ inapps.appsflyersdk.com
 .engagio.com
 .ensighten.com
 .entravision.com
+.envoke.com
 .eolcdn.com
 .ep4p.com
 .escalated.io
@@ -42846,6 +42847,7 @@ inapps.appsflyersdk.com
 .fewjuice.com
 .fifthborder.com
 .financefear.com
+.firsttexture.com
 .flowersornament.com
 .flowerycreature.com
 .foamypain.com
@@ -42967,6 +42969,7 @@ inapps.appsflyersdk.com
 .pinpointpotato.com
 .piquantprice.com
 .placeframe.com
+.planebasin.com
 .planesorder.com
 .plantrelation.com
 .plausiblecable.com
@@ -43088,6 +43091,7 @@ inapps.appsflyersdk.com
 .spottedsmile.com
 .springsister.com
 .spurioussquirrel.com
+.stakingbasket.com
 .stampknot.com
 .stat.pet
 .stayaction.com
@@ -43119,6 +43123,7 @@ inapps.appsflyersdk.com
 .tastelesstoes.com
 .tastesnake.com
 .tdzvm.pw
+.tearfulglass.com
 .tediousticket.com
 .teenytinycellar.com
 .telephoneapparatus.com
@@ -43414,6 +43419,7 @@ inapps.appsflyersdk.com
 .d.shareaholic.com
 .d1tbj6eaenapdy.cloudfront.net
 .d2wa5sea6guof0.cloudfront.net
+.d3vebqdofhigrn.cloudfront.net
 .dash.getsitecontrol.com
 .data.circulate.com
 .data.eetech.com
@@ -51993,6 +51999,8 @@ inapps.appsflyersdk.com
 .lfhnzbj.xyz
 .bzbopfh.cn
 .ndbaxn.xyz
+.aispyd.icu
+.whols.cn
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
