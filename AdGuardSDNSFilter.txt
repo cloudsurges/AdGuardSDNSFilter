@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-08 08:00:01·········数量:57476条·········增量:$[57476-$[57478-1]]条·········
+#·········更新时间:2023-11-08 09:00:01·········数量:57485条·········增量:$[57485-$[57478-1]]条·········
 .thompoot.com
 .altcoin.care
 .recholta.net
@@ -8229,6 +8229,7 @@ vkcdnservice.appspot.com
 .cpahmeokparn.com
 .cpalabtracking.com
 .cpaoffers.network
+.cpaokhfmaccu.com
 .cpaspeed.online
 .cpaway.com
 .cpays.com
@@ -12431,6 +12432,7 @@ vkcdnservice.appspot.com
 .gbfgvzfcjfs.com
 .gbfwqsakvaysygn.xyz
 .gblcdn.com
+.gbpkmltxpcsj.xyz
 .gckkxvpbhhlx.com
 .gcqaxqowifrf.com
 .gcruperparverew.xyz
@@ -15234,6 +15236,7 @@ vkcdnservice.appspot.com
 .jaggiertridii.com
 .jagice.uno
 .jagqrhvcvoqjw.com
+.jaigaivi.xyz
 .jailabridge.com
 .jainbagong.com
 .jaireehu.net
@@ -27052,6 +27055,7 @@ vkcdnservice.appspot.com
 .thewowfeed.com
 .thewscozier.uno
 .theyenglory.guru
+.theyunm.com
 .thgebtibfyry.com
 .thick-ruin.pro
 .thickbabysittinghandled.com
@@ -30944,6 +30948,7 @@ vkcdnservice.appspot.com
 .yummy-gap.pro
 .yumomis.com
 .yunded.com
+.yunmaue.com
 .yunshipei.com
 .yupfiles.net
 .yuppads.com
@@ -50410,6 +50415,7 @@ inapps.appsflyersdk.com
 .delosnetwork.it
 .eadv.it
 .epeex.io
+.hbagency.it
 .rtbuzz.net
 .shoppydoo.com
 .tjekscores.dk
@@ -50464,7 +50470,6 @@ inapps.appsflyersdk.com
 .evolutionadv.it
 .firebanner.com
 .guarda4k.online
-.hbagency.it
 .hubaffiliations.net
 .inaffiliago.it
 .ioladv.it
@@ -51984,6 +51989,10 @@ inapps.appsflyersdk.com
 .zys13.top
 .zys15.top
 .zys16.top
+.jqtkzuco.xyz
+.lfhnzbj.xyz
+.bzbopfh.cn
+.ndbaxn.xyz
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
