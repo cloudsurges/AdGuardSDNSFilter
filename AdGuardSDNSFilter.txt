@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-09 20:00:01·········数量:57516条·········增量:$[57516-$[57518-1]]条·········
+#·········更新时间:2023-11-09 21:00:01·········数量:57520条·········增量:$[57520-$[57518-1]]条·········
 .mwazhey.com
 .eghnybyvn.com
 .yhlvgpqsr.com
@@ -9090,6 +9090,7 @@ vkcdnservice.appspot.com
 .dessly.ru
 .destinationoralairliner.com
 .destinedsponsornominate.com
+.desugeng.xyz
 .desxpbub.xyz
 .detachedbates.com
 .detachmentoccasionedarena.com
@@ -22286,6 +22287,7 @@ vkcdnservice.appspot.com
 .ptechait.com
 .ptecmooz.net
 .ptecmuny.com
+.ptedreer.com
 .ptedroab.xyz
 .pteeksou.xyz
 .pteevaih.xyz
@@ -52021,6 +52023,7 @@ inapps.appsflyersdk.com
 .eshbqn.icu
 .muyxmmz.cn
 .xlam.cn
+.toyhyhv.icu
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
@@ -57188,6 +57191,7 @@ analytics-*.aasaam.com
 .actionlog.divar.ir
 # >> E <<
 # >> F <<
+.sentry.fidibo.net
 .vast.filmnet.ir
 # https://github.com/MasterKia/PersianBlocker/issues/107
 .analytics.football360.ir
