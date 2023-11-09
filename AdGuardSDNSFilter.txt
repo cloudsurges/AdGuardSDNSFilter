@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-09 14:00:01·········数量:57511条·········增量:$[57511-$[57513-1]]条·········
+#·········更新时间:2023-11-09 15:00:01·········数量:57516条·········增量:$[57516-$[57513-1]]条·········
 .mwazhey.com
 .eghnybyvn.com
 .yhlvgpqsr.com
@@ -52019,6 +52019,8 @@ inapps.appsflyersdk.com
 .sglahyea.xyz
 .nndytv.xyz
 .eshbqn.icu
+.muyxmmz.cn
+.xlam.cn
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
@@ -57158,6 +57160,8 @@ analytics-*.aasaam.com
 # >> Z <<
 .zarad.net
 # >> A <<
+# https://github.com/MasterKia/PersianBlocker/issues/210
+.ads.aftab.cc
 .analytics.asiatech.ir
 .dsp.aparat.com
 .ads.akairan.com
@@ -57200,6 +57204,7 @@ analytics-*.aasaam.com
 .websocket.ilna.ir
 # >> J <<
 # >> K <<
+.kar-sentry.karnameh.com
 # https://github.com/MasterKia/PersianBlocker/issues/101
 .websocket.khanefootball.com
 # >> L <<
