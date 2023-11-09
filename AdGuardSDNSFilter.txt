@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-09 08:00:01·········数量:57501条·········增量:$[57501-$[57503-1]]条·········
+#·········更新时间:2023-11-09 09:00:01·········数量:57511条·········增量:$[57511-$[57503-1]]条·········
 .mwazhey.com
 .eghnybyvn.com
 .yhlvgpqsr.com
@@ -7046,6 +7046,7 @@ vkcdnservice.appspot.com
 .cdnvideo3.com
 .cdnware.com
 .cdnware.io
+.cdpommmy.com
 .cdrvrs.com
 .cdsbnrs.com
 .cdtbox.rocks
@@ -15260,6 +15261,7 @@ vkcdnservice.appspot.com
 .jamchew.com
 .jamdomn.pro
 .jame3s67jo9yc4e.com
+.jamminds.com
 .jamokeuntress.com
 .jamsoulsfriday.com
 .jamstech.store
@@ -22983,6 +22985,7 @@ vkcdnservice.appspot.com
 .raphanysteers.com
 .raphidewakener.com
 .rapidhits.net
+.rapidlybeaver.com
 .rapolok.com
 .raptapee.com
 .raptingy.net
@@ -27494,6 +27497,7 @@ vkcdnservice.appspot.com
 .topprofitablecpm.com
 .topprofitablegate.com
 .toprevenuecpmnetwork.com
+.toprevenuegate.com
 .toprevenuenetwork.com
 .topsummerapps.net
 .topswp.com
@@ -52009,6 +52013,12 @@ inapps.appsflyersdk.com
 .zys13.top
 .zys15.top
 .zys16.top
+.mlumlio.cn
+.xxlfteg.xyz
+.arbbj6.com
+.sglahyea.xyz
+.nndytv.xyz
+.eshbqn.icu
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
