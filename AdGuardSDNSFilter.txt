@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-10 22:00:01·········数量:57526条·········增量:$[57526-$[57528-1]]条·········
+#·········更新时间:2023-11-10 23:00:01·········数量:57530条·········增量:$[57530-$[57528-1]]条·········
 .mwazhey.com
 .eghnybyvn.com
 .yhlvgpqsr.com
@@ -5336,6 +5336,7 @@ vkcdnservice.appspot.com
 .baubogla.com
 .bauchleredries.com
 .baunaurou.com
+.bauptost.net
 .baustraightu.com
 .bauvaikul.com
 .bauweethie.com
@@ -6144,6 +6145,7 @@ vkcdnservice.appspot.com
 .bonyspecialist.pro
 .bonzai.ad
 .bonzesantra.life
+.boodaisi.xyz
 .boogopee.com
 .bookadil.com
 .bookbannershop.com
@@ -18563,6 +18565,7 @@ vkcdnservice.appspot.com
 .mycasinoaccounts.com
 .mycdn.co
 .mycdn2.co
+.mycelesterno.com
 .myckdom.com
 .myclickpush.com
 .mycoolfeed.com
@@ -22321,6 +22324,7 @@ vkcdnservice.appspot.com
 .ptoahaistais.com
 .ptoajait.net
 .ptoangir.com
+.ptoapouk.com
 .ptobsagn.com
 .ptoftheca.xyz
 .ptonauls.net
