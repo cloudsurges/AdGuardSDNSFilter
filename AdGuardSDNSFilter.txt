@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-11 01:00:01·········数量:57530条·········增量:$[57530-$[57532-1]]条·········
+#·········更新时间:2023-11-11 02:00:01·········数量:57530条·········增量:$[57530-$[57532-1]]条·········
 .mwazhey.com
 .eghnybyvn.com
 .yhlvgpqsr.com
