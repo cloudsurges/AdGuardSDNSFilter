@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-10 08:00:01·········数量:57531条·········增量:$[57531-$[57533-1]]条·········
+#·········更新时间:2023-11-10 09:00:01·········数量:57537条·········增量:$[57537-$[57533-1]]条·········
 .mwazhey.com
 .eghnybyvn.com
 .yhlvgpqsr.com
@@ -43080,6 +43080,7 @@ inapps.appsflyersdk.com
 .torpidtongue.com
 .torpidtoothpaste.com
 .toweringrun.com
+.tradetooth.com
 .tranquilside.com
 .translateoatmeal.com
 .trappush.com
@@ -52036,6 +52037,11 @@ inapps.appsflyersdk.com
 .zys13.top
 .zys15.top
 .zys16.top
+.erutxdk.cn
+.bgdgpbpm.xyz
+.jppxnhe.xyz
+.whqgyo.xyz
+.icwnix.icu
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
