@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-11 19:00:01·········数量:57579条·········增量:$[57579-$[57581-1]]条·········
+#·········更新时间:2023-11-11 20:00:01·········数量:57579条·········增量:$[57579-$[57581-1]]条·········
 .urqxesau.com
 .fetinhapinhedt.com
 .herdintwillelitt.com
