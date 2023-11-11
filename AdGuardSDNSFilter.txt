@@ -1,5 +1,13 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-11 08:00:01·········数量:57547条·········增量:$[57547-$[57549-1]]条·········
+#·········更新时间:2023-11-11 09:00:01·········数量:57562条·········增量:$[57562-$[57549-1]]条·········
+.irkilgw.com
+.kjuftmdofmsrhq.com
+.cvrkjnaoazazh.com
+.xojepxhvvan.com
+.maihikuh.com
+.abbtrupp.com
+.uglimontana.digital
+.waeiftfylzo.com
 .mwazhey.com
 .eghnybyvn.com
 .yhlvgpqsr.com
@@ -28063,6 +28071,7 @@ vkcdnservice.appspot.com
 .twinrdsyte.com
 .twinrtb.com
 .twinsoflave.com
+.twinsrv.com
 .twinstanglebroken.com
 .twirlsengaud.life
 .twistads.com
@@ -52050,6 +52059,12 @@ inapps.appsflyersdk.com
 .zys15.top
 .zys16.top
 .zyzo.cn
+.uncs7.top
+.vhhxnb.xyz
+.quqtone.cn
+.hwvwxerw.xyz
+.mggzah.icu
+.vjzjpt.xyz
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
