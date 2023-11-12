@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-12 20:00:01·········数量:57612条·········增量:$[57612-$[57614-1]]条·········
+#·········更新时间:2023-11-12 21:00:01·········数量:57617条·········增量:$[57617-$[57614-1]]条·········
 .sgunqfpjtxfndtt.com
 .bvudraqxpl.com
 .kusidcfbb.com
@@ -7340,6 +7340,7 @@ vkcdnservice.appspot.com
 .chilionturcism.website
 .chimamanndgaocozmi.com
 .chimarssensory.com
+.chimbsbuckle.com
 .chimlaresider.com
 .chimneylurdane.com
 .china-netwave.com
@@ -23654,6 +23655,7 @@ vkcdnservice.appspot.com
 .revenuenetworkcpm.com
 .revenuestripe.com
 .revenuevids.com
+.reverbstuffing.com
 .reversehunchet.com
 .reversionhubbypole.com
 .revertterm.com
@@ -52115,6 +52117,9 @@ inapps.appsflyersdk.com
 .hibj.online
 .bthypgm.cn
 .whranc.cn
+.nnfalf.xyz
+.kkmsa.top
+.itwzlyq.com
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
