@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-12 14:00:01·········数量:57601条·········增量:$[57601-$[57603-1]]条·········
+#·········更新时间:2023-11-12 15:00:01·········数量:57612条·········增量:$[57612-$[57603-1]]条·········
 .sgunqfpjtxfndtt.com
 .bvudraqxpl.com
 .kusidcfbb.com
@@ -24524,6 +24524,7 @@ vkcdnservice.appspot.com
 .scarletcashwi5.com
 .scarofnght.com
 .scarwan.com
+.scashwl.com
 .scatterdisagreeabledealer.com
 .scavelbuntine.life
 .scbvydod.xyz
@@ -31736,6 +31737,7 @@ vkcdnservice.appspot.com
 .aralego.com
 .arcadebannerexchange.org
 .arcadechain.com
+.armanet.co
 .artsai.com
 .assemblyexchange.com
 .assoc-amazon.ca
@@ -32036,6 +32038,7 @@ vkcdnservice.appspot.com
 .foremedia.net
 .forex-affiliate.com
 .free3dgame.xyz
+.freedomadnetwork.com
 .freerotator.com
 .friendlyduck.com
 .fruitkings.com
@@ -40509,6 +40512,7 @@ inapps.appsflyersdk.com
 .briskeagle.io
 .briskpelican.io
 .brontops.com
+.btdmp.com
 .bx-cloud.com
 .bydst.com
 .cadsuta.net
@@ -41345,6 +41349,7 @@ inapps.appsflyersdk.com
 .soko.ai
 .sol-data.com
 .solosegment.com
+.sooqr.com
 .sophi.io
 .spamanalyst.com
 .speedhq.net
@@ -52104,6 +52109,12 @@ inapps.appsflyersdk.com
 .gscsahv012.com
 .x2y22.fun
 .drjyjr.xyz
+.hixutb.xyz
+.qqvlsr.icu
+.913mj.xyz
+.hibj.online
+.bthypgm.cn
+.whranc.cn
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
