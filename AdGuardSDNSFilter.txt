@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-13 20:00:01·········数量:57640条·········增量:$[57640-$[57642-1]]条·········
+#·········更新时间:2023-11-13 21:00:01·········数量:57646条·········增量:$[57646-$[57642-1]]条·········
+.longlakeweb.com
 .sgunqfpjtxfndtt.com
 .bvudraqxpl.com
 .kusidcfbb.com
@@ -2701,6 +2702,7 @@ vkcdnservice.appspot.com
 .acdcdn.com
 .acdn01.vidox.net
 .acediscover.com
+.acedtousles.com
 .acelacien.com
 .acendantoftheq.xyz
 .aceporntube.com
@@ -21166,6 +21168,7 @@ vkcdnservice.appspot.com
 .phaithoo.xyz
 .phaivais.net
 .phalingy.net
+.phamsacm.net
 .phantomattestationzillion.com
 .phantomtheft.com
 .phardain.xyz
@@ -24062,6 +24065,7 @@ vkcdnservice.appspot.com
 .roxot-panel.com
 .roxyaffiliates.com
 .royalcactus.com
+.royallycuprene.com
 .rozamimo9za10.com
 .rpmsophiashoe.com
 .rprinc6etodn9kunjiv.com
@@ -29691,6 +29695,7 @@ vkcdnservice.appspot.com
 .waxingequant.space
 .waxpigbaa.com
 .waxtamnit.com
+.waybillbulged.com
 .wayfarerspoutpraise.com
 .waygatecrowbar.com
 .waymarkgentiin.com
@@ -52143,6 +52148,7 @@ inapps.appsflyersdk.com
 .tuvixr.xyz
 .rrfccx.com
 .jcbjcb9.cn
+.tfczk.xyz
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
