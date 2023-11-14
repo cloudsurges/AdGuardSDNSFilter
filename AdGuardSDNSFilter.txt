@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-14 14:00:01·········数量:57630条·········增量:$[57630-$[57632-1]]条·········
+#·········更新时间:2023-11-14 15:00:01·········数量:57636条·········增量:$[57636-$[57632-1]]条·········
 .ykmvnhue.com
 .vauthaud.net
 .nabicbh.com
@@ -52133,6 +52133,12 @@ inapps.appsflyersdk.com
 .trrmkzesvyqrary.com
 .gscsahv014.com
 .fgttbz.xyz
+.aqiemc.xyz
+.ykujch.icu
+.hfresgtyytjncvvh.com
+.cy5kr.fun
+.cry2h.cn
+.kbbrptv.xyz
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
