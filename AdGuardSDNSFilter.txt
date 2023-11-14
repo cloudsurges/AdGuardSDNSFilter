@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-14 10:00:01·········数量:57630条·········增量:$[57630-$[57632-1]]条·········
+#·········更新时间:2023-11-14 11:00:01·········数量:57630条·········增量:$[57630-$[57632-1]]条·········
 .ykmvnhue.com
 .vauthaud.net
 .nabicbh.com
