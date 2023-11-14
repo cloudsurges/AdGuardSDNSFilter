@@ -1,5 +1,18 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-14 08:00:01·········数量:57606条·········增量:$[57606-$[57608-1]]条·········
+#·········更新时间:2023-11-14 09:00:01·········数量:57630条·········增量:$[57630-$[57608-1]]条·········
+.ykmvnhue.com
+.vauthaud.net
+.nabicbh.com
+.ioxffew.com
+.fodsoack.com
+.mllatydz.com
+.bohowhepsked.com
+.cideparenhem.com
+.tuddicijloxb.com
+.diidgtmupyls.com
+.absjcirtbhm.com
+.advymjwwsuhs.com
+.yaiehgpawwu.com
 .longlakeweb.com
 .sgunqfpjtxfndtt.com
 .bvudraqxpl.com
@@ -1204,6 +1217,7 @@
 .adrunnr.com
 .samsungtvads.com
 .adconsent.samsungrs.com
+.dad1mq193mgtr.cloudfront.net
 .d3vw74hiy9xqtm.cloudfront.net
 .d36utvtykl56bp.cloudfront.net
 .d34gjfm75zhp78.cloudfront.net
@@ -42737,6 +42751,7 @@ inapps.appsflyersdk.com
 .quizzicalzephyr.com
 .rabbitbreath.com
 .rabbitrifle.com
+.radiateprose.com
 .railwayrainstorm.com
 .railwayreason.com
 .raintwig.com
@@ -44949,6 +44964,8 @@ inapps.appsflyersdk.com
 .ver-pelis.net
 .xclk-integracion.com
 .yestorrents.org
+.givemelink.cc
+.mediabrama.com
 .ehqaobjhna.com
 .istmvh.com
 .talktomeplease.biz
@@ -52109,6 +52126,13 @@ inapps.appsflyersdk.com
 .zys15.top
 .zys16.top
 .zyzo.cn
+.gaopinoa.cn
+.ppenid.xyz
+.imxsvpxe.xyz
+.llnxdx.xyz
+.trrmkzesvyqrary.com
+.gscsahv014.com
+.fgttbz.xyz
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
