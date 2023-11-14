@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-14 20:00:01·········数量:57636条·········增量:$[57636-$[57638-1]]条·········
+#·········更新时间:2023-11-14 21:00:01·········数量:57640条·········增量:$[57640-$[57638-1]]条·········
 .ykmvnhue.com
 .vauthaud.net
 .nabicbh.com
@@ -40010,6 +40010,7 @@ inapps.appsflyersdk.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.mon.byteoversea.com
 .fraud.adjoe.zone
 .sdk-monitoring.ogury.co
 .tracker.srta.spectrum.com
@@ -52139,6 +52140,9 @@ inapps.appsflyersdk.com
 .cy5kr.fun
 .cry2h.cn
 .kbbrptv.xyz
+.kaezakkjt.com
+.3uvz5.xyz
+.gfbdb1.com
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
