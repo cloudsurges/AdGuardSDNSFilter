@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-16 14:00:01·········数量:57779条·········增量:$[57779-$[57781-1]]条·········
+#·········更新时间:2023-11-16 15:00:01·········数量:57791条·········增量:$[57791-$[57781-1]]条·········
 .lhiswrkt.com
 .vemtecko.net
 .nfwivxk.com
@@ -8874,6 +8874,7 @@ vkcdnservice.appspot.com
 .datingcentral.top
 .datingkoen.site
 .datingpush.space
+.datingsphere.top
 .datingstyle.top
 .datingtoday.top
 .datingtopgirls.com
@@ -9626,6 +9627,7 @@ vkcdnservice.appspot.com
 .dmvporebntt.com
 .dmwiguazwm.com
 .dmzjmp.com
+.dn9.biz
 .dnavexch.com
 .dnavtbt.com
 .dnemkhkbsdbl.com
@@ -12240,6 +12242,7 @@ vkcdnservice.appspot.com
 .freutz.com
 .freychang.fun
 .freyrclogs.com
+.frfetchme.com
 .frfhhcxeqkubk.xyz
 .frhbrkjgerikm2f8mjek09.com
 .fri4esianewheywr90itrage.com
@@ -18535,6 +18538,7 @@ vkcdnservice.appspot.com
 .mp3bars.com
 .mp3dance.today
 .mp3pro.xyz
+.mp3vizor.com
 .mpafnyfiexpe.net
 .mpanythathav.info
 .mpay69.com
@@ -24778,6 +24782,7 @@ vkcdnservice.appspot.com
 .secondcommander.com
 .secondlytorch.com
 .secondquaver.com
+.secondtrick.com
 .secondunderminecalm.com
 .secprf.com
 .secrecysatisfy.com
@@ -25661,6 +25666,7 @@ vkcdnservice.appspot.com
 .sobakapi2sa8la09.com
 .sobakenchmaphk.com
 .sobbingservingcolony.com
+.sobesed.com
 .socalledattestation.com
 .socalledscanty.com
 .soccercadencefridge.com
@@ -26333,6 +26339,7 @@ vkcdnservice.appspot.com
 .streenoutrove.life
 .streetcoddiffident.com
 .streetmilligram.com
+.streetuptowind.com
 .streetupwind.com
 .streitmackled.com
 .stremanp.com
@@ -26469,6 +26476,7 @@ vkcdnservice.appspot.com
 .suitesdyed.space
 .suiteshowedlottery.com
 .suitetattoo.com
+.sukcheatppwa.com
 .sukultingecauy.info
 .sulelysr.com
 .sulkvulnerableexpecting.com
@@ -31090,6 +31098,7 @@ vkcdnservice.appspot.com
 .youradexchange.com
 .yourbestappever.top
 .yourbestlandever.com
+.yourbestperfectdates.life
 .yourcommonfeed.com
 .yourcoolfeed.com
 .yourfreshposts.com
@@ -40835,6 +40844,7 @@ inapps.appsflyersdk.com
 .rfpx1.com
 .robotflowermobile.com
 .rtactivate.com
+.rumt-sg.com
 .salsify-ecdn.com
 .sbgsodufuosmmvsdf.info
 .script.ac
@@ -41699,7 +41709,6 @@ inapps.appsflyersdk.com
 .master-push.net
 .misrepush.com
 .moengage.com
-.mp3vizor.com
 .mypush.online
 .najva.com
 .nativesubscribe.pro
@@ -42836,6 +42845,7 @@ inapps.appsflyersdk.com
 .pricklyjourney.com
 .pricklypies.com
 .pricklyplastic.com
+.pricklypollution.com
 .printerplasma.com
 .producecopy.com
 .producepickle.com
@@ -45103,7 +45113,6 @@ inapps.appsflyersdk.com
 .iceprogs.ru
 .voidnetwork.cloud
 .tds.bid
-.streetuptowind.com
 .sarafan.fun
 .newrotatormarch23.bid
 .rbfour.bid
@@ -52282,6 +52291,9 @@ inapps.appsflyersdk.com
 .bhiagi.xyz
 .tfrwxv.xyz
 .nlfbdgr.xyz
+.ybedus.xyz
+.xcholvbc.xyz
+.hfwld.cn
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
