@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-16 22:00:01·········数量:57798条·········增量:$[57798-$[57800-1]]条·········
+#·········更新时间:2023-11-16 23:00:01·········数量:57798条·········增量:$[57798-$[57800-1]]条·········
 .lhiswrkt.com
 .vemtecko.net
 .nfwivxk.com
