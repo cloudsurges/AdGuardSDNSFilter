@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-17 20:00:01·········数量:57842条·········增量:$[57842-$[57844-1]]条·········
+#·········更新时间:2023-11-17 21:00:01·········数量:57848条·········增量:$[57848-$[57844-1]]条·········
+.adeditiontowri.org
 .grfvngaqbcsw.com
 .pbfnyvl.com
 .lrqknpk.com
@@ -1309,6 +1310,7 @@
 .adrunnr.com
 .samsungtvads.com
 .adconsent.samsungrs.com
+.d108nnfn2eigw4.cloudfront.net
 .d2osk0po1oybwz.cloudfront.net
 .d1t38ngzzazukx.cloudfront.net
 .d1u4z2la3g1n0x.cloudfront.net
@@ -45010,6 +45012,7 @@ inapps.appsflyersdk.com
 .adclient-uol.lp.uol.com.br
 .adv.r7.com
 .s.mangalivre.net
+.bcgame.top
 .ads.impulsosocial.online
 .adsocy.com
 .fuegodevida.com
@@ -52345,6 +52348,9 @@ inapps.appsflyersdk.com
 .caonme.xyz
 .sllo.top
 .teamjwar.com
+.hw0.com.cn
+.c78zf.xyz
+.hihlj.online
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
