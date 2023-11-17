@@ -1,5 +1,20 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-17 08:00:01·········数量:57817条·········增量:$[57817-$[57819-1]]条·········
+#·········更新时间:2023-11-17 09:00:01·········数量:57840条·········增量:$[57840-$[57819-1]]条·········
+.grfvngaqbcsw.com
+.pbfnyvl.com
+.lrqknpk.com
+.ubiirddtnmja.com
+.onameketathar.com
+.caltertangintin.com
+.pdbqyzi.com
+.rliwkyil.com
+.utzwgittihhvn.com
+.nnxijkdigwywla.com
+.cwlvmsvmqqgzb.com
+.xmktites.com
+.skjwebmr.com
+.vaehxkhbhguaq.xyz
+.ourgumpu.xyz
 .lhiswrkt.com
 .vemtecko.net
 .nfwivxk.com
@@ -1294,6 +1309,7 @@
 .adrunnr.com
 .samsungtvads.com
 .adconsent.samsungrs.com
+.d2osk0po1oybwz.cloudfront.net
 .d1t38ngzzazukx.cloudfront.net
 .d1u4z2la3g1n0x.cloudfront.net
 .dad1mq193mgtr.cloudfront.net
@@ -21008,7 +21024,6 @@ vkcdnservice.appspot.com
 .pbcohtm.com
 .pbdjtlghawpiuoq.com
 .pbdo.net
-.pbfnyvl.com
 .pbhjohrx.xyz
 .pbhrwhehnyibit.com
 .pbkqidejmes.ru
@@ -42697,6 +42712,7 @@ inapps.appsflyersdk.com
 .materialmoon.com
 .materialparcel.com
 .materialplayground.com
+.meadowlullaby.com
 .measlymiddle.com
 .measurecaption.com
 .meatydime.com
@@ -52320,6 +52336,13 @@ inapps.appsflyersdk.com
 .zys15.top
 .zys16.top
 .zyzo.cn
+.pdngnx.xyz
+.tae0t.site
+.zdjtxjp.xyz
+.gszetzdm.xyz
+.bctxtl.xyz
+.kncrya.xyz
+.caonme.xyz
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
