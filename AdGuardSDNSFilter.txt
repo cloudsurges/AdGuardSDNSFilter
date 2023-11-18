@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-18 08:00:01·········数量:57875条·········增量:$[57875-$[57877-1]]条·········
+#·········更新时间:2023-11-18 09:00:01·········数量:57892条·········增量:$[57892-$[57877-1]]条·········
 .uueuxygn.com
 .jaaqbbqbst.com
 .evenghiougher.com
@@ -13680,6 +13680,7 @@ vkcdnservice.appspot.com
 .harmfulresolution.com
 .harmlessepic.com
 .harmlesstacticalhonorable.com
+.harmoniousfamiliar.pro
 .harmonypix.com
 .harn8.info
 .harrenmedianetwork.com
@@ -14595,6 +14596,7 @@ vkcdnservice.appspot.com
 .ieiukkwfqhwuvwy.com
 .iendoo.com
 .ietyofedinj89yewtburgh.com
+.ievclqmo.com
 .iewhonhdvryu.com
 .iezptsoc.com
 .iezxmddndn.com
@@ -18441,6 +18443,7 @@ vkcdnservice.appspot.com
 .monkyank.com
 .monotonoustuneunderestimate.com
 .monsterofnews.com
+.monstrous-boyfriend.pro
 .monstrousrowandays.com
 .montafp.top
 .montangop.top
@@ -19914,6 +19917,7 @@ vkcdnservice.appspot.com
 .ognimyjm.com
 .ograuwih.com
 .ogrltiahldr.com
+.ogrrmasukq.com
 .ogskle.com
 .ogtgurmzeoj.com
 .ohdrgrpfyvughty.xyz
@@ -29321,6 +29325,7 @@ vkcdnservice.appspot.com
 .vidschannel.space
 .vidsforyou.mom
 .vidsforyou.online
+.vidsfull.space
 .vidsfun.info
 .vidsfun.online
 .vidsfun.space
@@ -52378,6 +52383,18 @@ inapps.appsflyersdk.com
 .zys15.top
 .zys16.top
 .zyzo.cn
+.kemas.top
+.pirubcfy.xyz
+.ezacci.xyz
+.c1d8i3p6.com
+.bplrpf.xyz
+.r9ffi.fun
+.jmvvpb.xyz
+.1cjzfyb.com
+.lvnlrmn.xyz
+.titv.top
+.deanth.xyz
+.dwq661.biz
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
