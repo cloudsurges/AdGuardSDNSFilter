@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-18 20:00:01·········数量:57894条·········增量:$[57894-$[57896-1]]条·········
+#·········更新时间:2023-11-18 21:00:01·········数量:57897条·········增量:$[57897-$[57896-1]]条·········
 .uueuxygn.com
 .jaaqbbqbst.com
 .evenghiougher.com
@@ -42813,6 +42813,7 @@ inapps.appsflyersdk.com
 .oafishobservation.com
 .obscenesidewalk.com
 .observantice.com
+.oldfashionedoffer.com
 .omniscientfeeling.com
 .omniscientspark.com
 .operationchicken.com
@@ -52397,6 +52398,8 @@ inapps.appsflyersdk.com
 .dwq661.biz
 .7dusx.xyz
 .jeqxuvv.icu
+.888cool.cn
+.1mxabnt.com
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
