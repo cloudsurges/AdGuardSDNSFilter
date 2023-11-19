@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-19 14:00:01·········数量:57918条·········增量:$[57918-$[57920-1]]条·········
+#·········更新时间:2023-11-19 15:00:01·········数量:57915条·········增量:$[57915-$[57920-1]]条·········
 .uueuxygn.com
 .jaaqbbqbst.com
 .evenghiougher.com
@@ -41046,6 +41046,7 @@ inapps.appsflyersdk.com
 .ampush.io
 .analitycs.net
 .analytically.net
+.analytics-debugger.com
 .analytics-helper.com
 .analyticschecker.com
 .analyticson.com
@@ -41160,6 +41161,7 @@ inapps.appsflyersdk.com
 .content-square.net
 .conversionfly.com
 .convertcart.com
+.crashlytics.com
 .crazyclickstats.com
 .crtx.info
 .cuberoot.co
@@ -41906,9 +41908,6 @@ inapps.appsflyersdk.com
 .deepc.cc
 .devphp.org.ua
 .directprimal.com
-.dnsseed.bitcoin.dashjr.org
-.dnsseed.bluematt.me
-.dnsseed.emzy.de
 .dontbeevils.de
 .easyhash.de
 .easyhash.io
@@ -41971,11 +41970,6 @@ inapps.appsflyersdk.com
 .reauthenticator.com
 .rtb-seller.com
 .s7ven.com
-.seed.bitcoin.sipa.be
-.seed.bitcoin.sprovoost.nl
-.seed.bitcoin.wiz.biz
-.seed.bitcoinstats.com
-.seed.btc.petertodd.org
 .serv1swork.com
 .sourcecode.pro
 .spacepools.org
@@ -44130,6 +44124,7 @@ inapps.appsflyersdk.com
 .tags.fullcontact.com
 .tags.master-perf-tools.com
 .tagtracking.vibescm.com
+.telemetry.goodlifefitness.com
 .telemetry.phenixrts.com
 .telemetry.reembed.com
 .telemetry.tableausoftware.com
@@ -52422,6 +52417,8 @@ inapps.appsflyersdk.com
 .vixajghi.xyz
 .cnrdlpk.xyz
 .jwxwnr.xyz
+.elemea.xyz
+.8d07a.xyz
 .zzyy18.top
 .zzyy19.top
 .zzyy20.top
