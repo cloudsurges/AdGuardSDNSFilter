@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-19 11:00:01·········数量:57918条·········增量:$[57918-$[57920-1]]条·········
+#·········更新时间:2023-11-19 12:00:01·········数量:57918条·········增量:$[57918-$[57920-1]]条·········
 .uueuxygn.com
 .jaaqbbqbst.com
 .evenghiougher.com
