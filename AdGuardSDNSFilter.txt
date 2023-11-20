@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-20 14:00:01·········数量:57931条·········增量:$[57931-$[57933-1]]条·········
+#·········更新时间:2023-11-20 15:00:01·········数量:57935条·········增量:$[57935-$[57933-1]]条·········
 .uueuxygn.com
 .jaaqbbqbst.com
 .evenghiougher.com
@@ -43410,6 +43410,7 @@ inapps.appsflyersdk.com
 .tritebadge.com
 .troubleshade.com
 .truckstomatoes.com
+.truculentrate.com
 .tumblebirds.com
 .tumbleicicle.com
 .tutorthing.com
@@ -52436,6 +52437,9 @@ inapps.appsflyersdk.com
 .rgpujh.xyz
 .haxqxd.xyz
 .feijied.xyz
+.rett.top
+.zhangyuting04.cn
+.holdntlc.com
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
