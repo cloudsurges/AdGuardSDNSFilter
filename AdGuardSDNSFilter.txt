@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-20 08:00:01·········数量:57924条·········增量:$[57924-$[57926-1]]条·········
+#·········更新时间:2023-11-20 09:00:01·········数量:57931条·········增量:$[57931-$[57926-1]]条·········
 .uueuxygn.com
 .jaaqbbqbst.com
 .evenghiougher.com
@@ -52420,6 +52420,7 @@ inapps.appsflyersdk.com
 .zlncvn.xyz
 .zmfcnlvu.xyz
 .zndvfrl.xyz
+.eypqbjju.xyz
 .znwzcmd.cn
 .zpvuugw.cn
 .zuugfj.cn
@@ -52429,6 +52430,12 @@ inapps.appsflyersdk.com
 .zyzo.cn
 .zzyy17.top
 .zzyy18.top
+.f4nfg.site
+.ckmbig.xyz
+.oxrvfsi.xyz
+.rgpujh.xyz
+.haxqxd.xyz
+.feijied.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
