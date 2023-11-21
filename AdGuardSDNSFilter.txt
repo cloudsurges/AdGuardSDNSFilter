@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-21 20:00:01·········数量:57970条·········增量:$[57970-$[57972-1]]条·········
+#·········更新时间:2023-11-21 21:00:01·········数量:57972条·········增量:$[57972-$[57972-1]]条·········
+.jazzlowness.com
 .scoggerashrams.com
 .dautegoa.xyz
 .uueuxygn.com
@@ -49535,6 +49536,7 @@ inapps.appsflyersdk.com
 .azol.de
 .twiago.com
 .bauernative.com
+.ggsfq.xyz
 .lqxbkqdtvtdhw.xyz
 .bilec.xyz
 .vkjsnvk.com
