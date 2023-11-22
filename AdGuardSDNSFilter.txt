@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-23 02:00:01·········数量:58043条·········增量:$[58043-$[58045-1]]条·········
+#·········更新时间:2023-11-23 03:00:01·········数量:58048条·········增量:$[58048-$[58045-1]]条·········
+.oxxvikappo.com
 .gronsoad.com
 .jazzlowness.com
 .scoggerashrams.com
@@ -14890,6 +14891,7 @@ vkcdnservice.appspot.com
 .inauknceiwouldlikuk.info
 .inbbredraxing.com
 .inbdmaza.com
+.inbdorenda.com
 .inboldoreer.com
 .inbornsodcharms.com
 .incarnatepicturesque.com
@@ -18736,6 +18738,7 @@ vkcdnservice.appspot.com
 .munsterduke.com
 .muntiglesia.com
 .mupyfpimgnvqdgy.com
+.muragetunnel.com
 .muralattentive.com
 .muralshelvesdeposition.com
 .murderassuredness.com
@@ -20672,6 +20675,7 @@ vkcdnservice.appspot.com
 .outyanmegaom.com
 .ouveelsa.xyz
 .ouzavamt.com
+.ouzeelre.net
 .ouzekomtok.com
 .ovariesutopia.com
 .ovdimin.buzz
@@ -34642,6 +34646,7 @@ vkcdnservice.appspot.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.meanlytics.com
 .app.pendo.io
 .vibeaconstr.onezapp.com
 .analysis.wangtwothree.com
@@ -50247,8 +50252,8 @@ inapps.appsflyersdk.com
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-21 13:08:45 CET
-# entries:        1061
+# last updated:   2023-11-22 14:03:17 CET
+# entries:        1063
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 .1terms.com
@@ -51930,8 +51935,10 @@ inapps.appsflyersdk.com
 .2c0a5.xyz
 .2u3v4w5x6y.com
 .3562wsgkbcm.xyz
+.38bw0.space
 .3dh9y.com
 .3uvz5.xyz
+.415677.com
 .44jui.top
 .5jzu5t.com
 .6528fdyngk.xyz
@@ -51952,6 +51959,7 @@ inapps.appsflyersdk.com
 .agossuoeach.com
 .ahpphkc.xyz
 .aidmat.icu
+.aiiaqw.xyz
 .aispyd.icu
 .aknkvallbfml.com
 .albsgdq.cn
@@ -52089,6 +52097,7 @@ inapps.appsflyersdk.com
 .fsgiosi.com
 .ftzzbx.xyz
 .fwhhcpj.xyz
+.fytpft.xyz
 .fzgetdy.cn
 .g0fc3.com
 .g2ak5.com
@@ -52186,6 +52195,7 @@ inapps.appsflyersdk.com
 .igkgag.xyz
 .ikmhndd.com
 .iknhgj.com
+.ileled.xyz
 .imrvyop.cn
 .imxsvpxe.xyz
 .insfengdata.com
@@ -52195,6 +52205,7 @@ inapps.appsflyersdk.com
 .itwzlyq.com
 .iujlwn.icu
 .iuvssgh.cn
+.jane1.top
 .jane2.top
 .jcbjcb9.cn
 .jeqxuvv.icu
@@ -52223,6 +52234,7 @@ inapps.appsflyersdk.com
 .kkmsa.top
 .klfbnklddfbkn.com
 .klwhuci.cn
+.kmlpgjh.xyz
 .kncrya.xyz
 .knhmgn.com
 .knuaxfv.cn
@@ -52245,6 +52257,7 @@ inapps.appsflyersdk.com
 .liuyuhuaa.cn
 .lkdybkwi.xyz
 .lkoqtvvajktpjsk.xyz
+.lkot.top
 .llblwzg.xyz
 .llmxt.fun
 .llnxdx.xyz
@@ -52268,6 +52281,7 @@ inapps.appsflyersdk.com
 .mfnfylx.xyz
 .mggzah.icu
 .mhnzhlase.xyz
+.mhzftye.xyz
 .mlumlio.cn
 .mmvjuti.cn
 .mnhncf.cn
@@ -52378,6 +52392,7 @@ inapps.appsflyersdk.com
 .sglahyea.xyz
 .shipostrich.com
 .shx11.xyz
+.slkdfg.com
 .sllo.top
 .smlpcz.icu
 .splfnok.cn
@@ -52385,6 +52400,7 @@ inapps.appsflyersdk.com
 .sregfle.cn
 .srldkqj.cn
 .srlhgo.cn
+.stylishar.com
 .suzoqz.icu
 .syjkscy.cn
 .tae0t.site
@@ -52402,6 +52418,7 @@ inapps.appsflyersdk.com
 .tmvebl.xyz
 .tongjiniao.com
 .toyhyhv.icu
+.tozwrqnq.xyz
 .tqrznqs.cn
 .trdmtx.xyz
 .trrmkzesvyqrary.com
@@ -52514,6 +52531,7 @@ inapps.appsflyersdk.com
 .z0a1b2c3d4.com
 .z1wfe.top
 .z91f4.top
+.zattdf.xyz
 .zbxtcwi.xyz
 .zchvyet.cn
 .zcpsc.top
@@ -52534,19 +52552,6 @@ inapps.appsflyersdk.com
 .zyzo.cn
 .zzyy17.top
 .zzyy18.top
-.lkot.top
-.38bw0.space
-.kmlpgjh.xyz
-.fytpft.xyz
-.tozwrqnq.xyz
-.mhzftye.xyz
-.ileled.xyz
-.zattdf.xyz
-.slkdfg.com
-.aiiaqw.xyz
-.415677.com
-.jane1.top
-.stylishar.com
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
