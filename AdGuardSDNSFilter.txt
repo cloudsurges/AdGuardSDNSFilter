@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-24 00:00:01·········数量:58135条·········增量:$[58135-$[58137-1]]条·········
+#·········更新时间:2023-11-24 01:00:01·········数量:58135条·········增量:$[58135-$[58137-1]]条·········
 .oxxvikappo.com
 .gronsoad.com
 .jazzlowness.com
