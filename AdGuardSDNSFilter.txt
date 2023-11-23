@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-23 20:00:01·········数量:58129条·········增量:$[58129-$[58131-1]]条·········
+#·········更新时间:2023-11-23 21:00:01·········数量:58135条·········增量:$[58135-$[58131-1]]条·········
 .oxxvikappo.com
 .gronsoad.com
 .jazzlowness.com
@@ -34658,6 +34658,8 @@ vkcdnservice.appspot.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.logging.pw.adn.cloud
+.admatrix.jp
 .meanlytics.com
 .app.pendo.io
 .vibeaconstr.onezapp.com
@@ -38176,6 +38178,7 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.inbound-analytics.pixlee.com
 .rtm-tracking.zozo.jp
 .analytics.netkeiba.com
 .d1tprjo2w7krrh.cloudfront.net
@@ -44703,7 +44706,6 @@ inapps.appsflyersdk.com
 .ad-fam.com
 .ad-track.jp
 .adapf.com
-.admatrix.jp
 .adpon.jp
 .af-z.jp
 .afi-b.com
@@ -52633,6 +52635,10 @@ inapps.appsflyersdk.com
 .mhglue.xyz
 .bfgtfxd.com
 .fgcxdr.cn
+.ronm.top
+.wwwww.asia
+.kbzs88.com
+.yjbdyjnctgj.top
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
