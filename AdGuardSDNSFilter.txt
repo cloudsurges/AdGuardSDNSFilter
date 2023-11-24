@@ -1,5 +1,7 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-24 20:00:01·········数量:58174条·········增量:$[58174-$[58176-1]]条·········
+#·········更新时间:2023-11-24 21:00:01·········数量:58181条·········增量:$[58181-$[58176-1]]条·········
+.prosocrawn.com
+.geometryworstaugust.com
 .cpcstdploqqh.com
 .psedregn.net
 .edvxygh.com
@@ -38207,6 +38209,7 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.azq.zozo.jp
 .inbound-analytics.pixlee.com
 .rtm-tracking.zozo.jp
 .analytics.netkeiba.com
@@ -49700,6 +49703,8 @@ inapps.appsflyersdk.com
 .azol.de
 .twiago.com
 .bauernative.com
+.max211.top
+.st-fly.b-cdn.net
 .ggsfq.xyz
 .lqxbkqdtvtdhw.xyz
 .bilec.xyz
@@ -52678,6 +52683,7 @@ inapps.appsflyersdk.com
 .huxsvl.xyz
 .kkeojk.xyz
 .tobyxev.com
+.wecklrb.cn
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
@@ -56860,6 +56866,7 @@ inapps.appsflyersdk.com
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
+.gg88.bj.bcebos.com
 .27gh.cc
 .003store.com
 .0941.org
