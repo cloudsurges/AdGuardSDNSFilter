@@ -1,5 +1,20 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-24 08:00:01·········数量:58146条·········增量:$[58146-$[58148-1]]条·········
+#·········更新时间:2023-11-24 09:00:01·········数量:58173条·········增量:$[58173-$[58148-1]]条·········
+.cpcstdploqqh.com
+.psedregn.net
+.edvxygh.com
+.tqrjlqt.com
+.nfeblwlatpnbjs.com
+.wfuwlkgm.com
+.wouldmakefea.org
+.greataseset.org
+.rekfubzli.com
+.connecttoday.eu
+.btodsjr.com
+.cthkgodgy.com
+.fldkakjccxhgw.com
+.lkjgdyhtdrnau.com
+.zpvsuniqkhj.com
 .oxxvikappo.com
 .gronsoad.com
 .jazzlowness.com
@@ -1323,6 +1338,7 @@
 .adrunnr.com
 .samsungtvads.com
 .adconsent.samsungrs.com
+.dv663fc06d35i.cloudfront.net
 .pbcs.realtor.com
 .d108nnfn2eigw4.cloudfront.net
 .d2osk0po1oybwz.cloudfront.net
@@ -13112,6 +13128,7 @@ vkcdnservice.appspot.com
 .gnojicfj.com
 .gnosticwinks.com
 .go-rillatrack.com
+.go-srv.com
 .go2.global
 .go2affise.com
 .go2app.org
@@ -13124,6 +13141,7 @@ vkcdnservice.appspot.com
 .go6shde9nj2itle.com
 .goaciptu.net
 .goads.pro
+.goadserver.com
 .goadx.com
 .goaffmy.com
 .goagloow.xyz
@@ -52650,6 +52668,15 @@ inapps.appsflyersdk.com
 .zyzo.cn
 .zzyy17.top
 .zzyy18.top
+.ytezym.xyz
+.juhooqv.cn
+.lejshxao.xyz
+.vpqko.fun
+.prhphla.xyz
+.koyuod.xyz
+.djponj.xyz
+.huxsvl.xyz
+.kkeojk.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
