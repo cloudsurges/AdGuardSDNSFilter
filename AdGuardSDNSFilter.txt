@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-24 14:00:01·········数量:58173条·········增量:$[58173-$[58175-1]]条·········
+#·········更新时间:2023-11-24 15:00:01·········数量:58174条·········增量:$[58174-$[58175-1]]条·········
 .cpcstdploqqh.com
 .psedregn.net
 .edvxygh.com
@@ -41309,6 +41309,7 @@ inapps.appsflyersdk.com
 .datasteam.io
 .datazoom.io
 .ddm.io
+.deadlinefunnel.com
 .debugbear.com
 .deep-content.io
 .deepattention.com
@@ -43846,12 +43847,10 @@ inapps.appsflyersdk.com
 .caspionlog.appspot.com
 .ccexperimentsstatic.oracleoutsourcing.com
 .cdn-channels-pixel.ex.co
-.cdn.trafficexchangelist.com
 .cf.overblog.com
 .cgicounter.oneandone.co.uk
 .cgicounter.puretec.de
 .chanalytics.merchantadvantage.com
-.check.deadlinefunnel.com
 .cimage.adobe.com
 .ck.connatix.com
 .clevertap-prod.com
@@ -43951,6 +43950,7 @@ inapps.appsflyersdk.com
 .dig.ultimedia.com
 .dl.episerver.net
 .doppler-beacon.cbsivideo.com
+.doppler-client-events.cbsivideo.com
 .doppler-reporting.cbsivideo.com
 .dotaudiences.com
 .doug1izaerwt3.cloudfront.net
@@ -52677,6 +52677,7 @@ inapps.appsflyersdk.com
 .djponj.xyz
 .huxsvl.xyz
 .kkeojk.xyz
+.tobyxev.com
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
