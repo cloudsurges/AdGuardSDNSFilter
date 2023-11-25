@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-26 00:00:01·········数量:58213条·········增量:$[58213-$[58215-1]]条·········
+#·········更新时间:2023-11-26 01:00:01·········数量:58213条·········增量:$[58213-$[58215-1]]条·········
 .prosocrawn.com
 .geometryworstaugust.com
 .cpcstdploqqh.com
