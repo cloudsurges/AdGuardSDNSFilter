@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-26 08:00:01·········数量:58223条·········增量:$[58223-$[58225-1]]条·········
+#·········更新时间:2023-11-26 09:00:01·········数量:58233条·········增量:$[58233-$[58225-1]]条·········
 .fmorugnmnihrcv.com
 .oulrarta.net
 .cdosagebreakfast.com
@@ -52725,6 +52725,16 @@ inapps.appsflyersdk.com
 .zys16.top
 .zyzo.cn
 .zzyy17.top
+.rycff.online
+.ntlzvrv.xyz
+.xixil.cn
+.autyxdek.xyz
+.bhlntz.xyz
+.pobrpr.xyz
+.jiangyahuir.top
+.eraygc.xyz
+.mmiedf.xyz
+.uzrxoxd.xyz
 .zzyy18.top
 .zzyy19.top
 .zzyy20.top
