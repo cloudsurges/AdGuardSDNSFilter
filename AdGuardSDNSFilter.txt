@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-26 22:00:01·········数量:58286条·········增量:$[58286-$[58288-1]]条·········
+#·········更新时间:2023-11-26 23:00:01·········数量:58286条·········增量:$[58286-$[58288-1]]条·········
 .fmorugnmnihrcv.com
 .oulrarta.net
 .cdosagebreakfast.com
