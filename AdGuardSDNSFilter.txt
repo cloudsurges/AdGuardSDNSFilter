@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-28 22:00:01·········数量:58098条·········增量:$[58098-$[58100-1]]条·········
+#·········更新时间:2023-11-28 23:00:01·········数量:58098条·········增量:$[58098-$[58100-1]]条·········
 .ohaijoub.com
 .keefeezo.net
 .phaipaun.net
