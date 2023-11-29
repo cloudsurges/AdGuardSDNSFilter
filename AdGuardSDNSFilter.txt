@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-29 14:00:01·········数量:58128条·········增量:$[58128-$[58130-1]]条·········
+#·········更新时间:2023-11-29 15:00:01·········数量:58127条·········增量:$[58127-$[58130-1]]条·········
 .ytvigqwx.com
 .waunsgraphs.website
 .homierceston.top
@@ -44961,7 +44961,6 @@ inapps.appsflyersdk.com
 .dnt-userreport.com
 .tags.op-palvelut.fi
 .links.boom.ge
-.analytics.skroutz.gr
 .heartbeat.pmd.444.hu
 .rum.marquardmedia.hu
 .videostat-new.index.hu
