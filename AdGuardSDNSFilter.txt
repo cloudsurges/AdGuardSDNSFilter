@@ -1,5 +1,7 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-11-29 18:00:01·········数量:58127条·········增量:$[58127-$[58129-1]]条·········
+#·········更新时间:2023-11-29 19:00:01·········数量:58129条·········增量:$[58129-$[58129-1]]条·········
+.zsgpdafjd.com
+.wzcznlufq.com
 .ytvigqwx.com
 .waunsgraphs.website
 .homierceston.top
@@ -40095,7 +40097,6 @@ charlestownwyllie.oaklawnnonantum.com
 .logs.supersonic.com
 .ntracker-collector.naver.com
 .ace.naver.com
-.api.sec.intl.miui.com
 .authbe.sec.intl.miui.com
 .flash.sec.intl.miui.com
 .api.setting.intl.miui.com
@@ -52629,6 +52630,7 @@ inapps.appsflyersdk.com
 .bavkvoks.xyz
 .oouiqi.xyz
 .fxkfhbn.xyz
+.commonwealthproficient.com
 .zzyy18.top
 .zzyy19.top
 .zzyy20.top
