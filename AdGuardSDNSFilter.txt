@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-02 05:00:01·········数量:57452条·········增量:$[57452-$[57454-1]]条·········
+#·········更新时间:2023-12-02 06:00:01·········数量:57452条·········增量:$[57452-$[57454-1]]条·········
 .nutgxfwechkcuf.com
 .koustouk.net
 .hkifcxblsu.com
