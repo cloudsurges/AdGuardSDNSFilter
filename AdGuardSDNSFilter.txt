@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-01 07:00:01·········数量:58237条·········增量:$[58237-$[58239-1]]条·········
+#·········更新时间:2023-12-01 08:00:01·········数量:58237条·········增量:$[58237-$[58239-1]]条·········
 .kgsehayyvhk.com
 .pyzwxkb.com
 .sthgqhb.com
