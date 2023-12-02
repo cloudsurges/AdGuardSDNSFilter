@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-02 14:00:01·········数量:57467条·········增量:$[57467-$[57469-1]]条·········
+#·········更新时间:2023-12-02 15:00:01·········数量:57476条·········增量:$[57476-$[57469-1]]条·········
 .nutgxfwechkcuf.com
 .koustouk.net
 .hkifcxblsu.com
@@ -52799,6 +52799,14 @@ inapps.appsflyersdk.com
 .atmdew.xyz
 .9i8i.com
 .cmiega.top
+.fjxstt.xyz
+.gbc27.online
+.aapubcti.xyz
+.lznpcwl.xyz
+.hwpvbdj.xyz
+.tunovl.xyz
+.ieequd.icu
+.latu.cc
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
@@ -55773,6 +55781,7 @@ inapps.appsflyersdk.com
 .zzxedr.xyz
 .zzxmcp.com
 .06789.xyz
+.mnnmnn.com
 .3p8801.co
 .6651tp.com
 .79181531227.com
