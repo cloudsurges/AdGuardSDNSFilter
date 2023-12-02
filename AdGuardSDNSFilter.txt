@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-02 20:00:01·········数量:57476条·········增量:$[57476-$[57478-1]]条·········
+#·········更新时间:2023-12-02 21:00:01·········数量:57479条·········增量:$[57479-$[57478-1]]条·········
 .nutgxfwechkcuf.com
 .koustouk.net
 .hkifcxblsu.com
@@ -44043,6 +44043,7 @@ inapps.appsflyersdk.com
 .geoip.nekudo.com
 .geolocation.outreach.com
 .gi-client-tracking.goodgamestudios.com
+.go.activengage.com
 .go.toutapp.com
 .green-griffin-860.appspot.com
 .gsp1.baidu.com
@@ -52807,6 +52808,8 @@ inapps.appsflyersdk.com
 .tunovl.xyz
 .ieequd.icu
 .latu.cc
+.qgl27.xyz
+.jhl1993.cn
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
