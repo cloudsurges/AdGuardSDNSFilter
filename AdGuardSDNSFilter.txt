@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-04 20:00:01·········数量:57627条·········增量:$[57627-$[57629-1]]条·········
+#·········更新时间:2023-12-04 21:00:01·········数量:57630条·········增量:$[57630-$[57629-1]]条·········
 .naumkamebian.com
 .hmrxsxvl.com
 .goshbiopsy.com
@@ -38300,6 +38300,7 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.analytics.peraichi.com
 .ddl.alma.iltalehti.fi
 .azq.zozo.jp
 .inbound-analytics.pixlee.com
@@ -44224,6 +44225,7 @@ inapps.appsflyersdk.com
 .logs.animaapp.com
 .lucid.mjhassoc.com
 .ma.logsss.com
+.magento-recs-sdk.adobe.net
 .martech.condenastdigital.com
 .mas.nth.ch
 .mcdp-*.outbrain.com
@@ -52958,6 +52960,7 @@ inapps.appsflyersdk.com
 .xn--gmq238c5fy.com
 .xn--9kq29i0tjy6b044actm.com
 .v34s6r.com
+.hangzhouhdb.top
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
