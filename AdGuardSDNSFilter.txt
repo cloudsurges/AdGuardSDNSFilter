@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-05 20:00:01·········数量:57678条·········增量:$[57678-$[57680-1]]条·········
+#·········更新时间:2023-12-05 21:00:01·········数量:57680条·········增量:$[57680-$[57680-1]]条·········
 .core.dimatter.ai
 .naumkamebian.com
 .hmrxsxvl.com
@@ -49224,6 +49224,7 @@ inapps.appsflyersdk.com
 .hdvmyo.com
 .ads1-adselo.com
 .adsy.mail.bg
+.rtb.pixad.com.tr
 .finvest.care
 .winaffiliates1.com
 .flarby.com
@@ -53009,6 +53010,7 @@ inapps.appsflyersdk.com
 .ygfgzmzo.xyz
 .vbzrkme.xyz
 .jltolz.xyz
+.haokanshipin.com
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
