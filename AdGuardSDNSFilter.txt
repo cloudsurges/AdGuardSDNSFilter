@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-06 14:00:01·········数量:57735条·········增量:$[57735-$[57737-1]]条·········
+#·········更新时间:2023-12-06 15:00:01·········数量:57736条·········增量:$[57736-$[57737-1]]条·········
 .vrcjleonnurifjy.xyz
 .ecoulsou.xyz
 .rtwdzxstpanmn.com
@@ -51586,7 +51586,7 @@ inapps.appsflyersdk.com
 .log.vietnamplus.vn
 .log.zalo.video
 .log.zingmp3.vn
-.log.zingnews.com.vn
+.log.znews.vn
 .logen.vietnamplus.vn
 .loges.vietnamplus.vn
 .logfr.vietnamplus.vn
@@ -51740,7 +51740,6 @@ inapps.appsflyersdk.com
 .younetmedia.com
 .za.zapps.vn
 .za.zingmp3.vn
-.za.zingnews.com.vn
 .zads.me.zing.vn
 .zalo-ads-240-td.zadn.vn
 .zalo-ads-240.zadn.vn
@@ -53066,6 +53065,8 @@ inapps.appsflyersdk.com
 .epebuk.xyz
 .jspqhh.xyz
 .awareista.com
+.zigyspv.icu
+.linj.top
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
