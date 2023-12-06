@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-06 20:00:01·········数量:57736条·········增量:$[57736-$[57738-1]]条·········
+#·········更新时间:2023-12-06 21:00:01·········数量:57747条·········增量:$[57747-$[57738-1]]条·········
+.nifty-transportation.com
 .vrcjleonnurifjy.xyz
 .ecoulsou.xyz
 .rtwdzxstpanmn.com
@@ -34854,6 +34855,7 @@ vkcdnservice.appspot.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.ohmy.bid
 .nakanohito.jp
 .analytics.fcgtalent.fi
 .gl-product-analytics.com
@@ -45585,6 +45587,10 @@ inapps.appsflyersdk.com
 .ver-pelis.net
 .xclk-integracion.com
 .yestorrents.org
+.flyroll.ru
+.adstreamer.ru
+.videohead.tech
+.openssp.ru
 .079301eaff0975107716716fd1cb0dcd.com
 .gimnsr.com
 .wensonk.com
@@ -53067,6 +53073,11 @@ inapps.appsflyersdk.com
 .awareista.com
 .zigyspv.icu
 .linj.top
+.yshlor.icu
+.ioswhi.com
+.xiaohuishu.top
+.05pg9z.com
+.p5kzev.com
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
