@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-07 07:00:01·········数量:57768条·········增量:$[57768-$[57770-1]]条·········
+#·········更新时间:2023-12-07 08:00:01·········数量:57768条·········增量:$[57768-$[57770-1]]条·········
 .nifty-transportation.com
 .vrcjleonnurifjy.xyz
 .ecoulsou.xyz
