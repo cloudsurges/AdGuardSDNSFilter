@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-07 14:00:01·········数量:57799条·········增量:$[57799-$[57801-1]]条·········
+#·········更新时间:2023-12-07 15:00:01·········数量:57804条·········增量:$[57804-$[57801-1]]条·········
 .ihwwssyperloof.com
 .arqznlwzkkaev.top
 .tuhwjkesxo.com
@@ -50627,8 +50627,8 @@ inapps.appsflyersdk.com
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-12-03 06:36:12 CET
-# entries:        1054
+# last updated:   2023-12-07 06:20:43 CET
+# entries:        1053
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 .1terms.com
@@ -50852,7 +50852,6 @@ inapps.appsflyersdk.com
 .m.extellio.com
 .m1.analytics.sitevision-cloud.se
 .markhor.organicfruitapps.com
-.marmotsverige.com.se
 .masture.mobi
 .matomo.chsc.dk
 .matomo.goteborgco.se
@@ -53129,6 +53128,12 @@ inapps.appsflyersdk.com
 .rfxnff.xyz
 .iephrenhq.com
 .nwpcptmm.xyz
+.maxun066.top
+.maxun118.top
+.lvzkfcm.cn
+.cwrxgb.icu
+.manymgsgn.com
+.bmatgg18.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
