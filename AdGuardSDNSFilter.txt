@@ -1,5 +1,25 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-07 08:00:01·········数量:57768条·········增量:$[57768-$[57770-1]]条·········
+#·········更新时间:2023-12-07 09:00:01·········数量:57799条·········增量:$[57799-$[57770-1]]条·········
+.ihwwssyperloof.com
+.arqznlwzkkaev.top
+.tuhwjkesxo.com
+.tukeelsy.com
+.ayaghlq.com
+.pubtrky.com
+.inourdreamsa.org
+.nedandlooked.org
+.whifflehumeral.guru
+.glaultoa.com
+.onatsoas.net
+.nbucvfymvkyv.com
+.aizglunbhfq.com
+.fgkoxeqjpal.com
+.oroodsee.xyz
+.avucugkccpavsxv.xyz
+.mnzznvpktnqtmm.com
+.moronesphotos.com
+.stascdnuuar.com
+.fmbsknwpvxlhqim.com
 .nifty-transportation.com
 .vrcjleonnurifjy.xyz
 .ecoulsou.xyz
@@ -1476,6 +1496,7 @@
 .adrunnr.com
 .samsungtvads.com
 .adconsent.samsungrs.com
+.d27tzcmp091qxd.cloudfront.net
 .d2fnnovf9qvlf2.cloudfront.net
 .d25sca3heoa1so.cloudfront.net
 .d3u8vuldqjolr7.cloudfront.net
@@ -53098,6 +53119,16 @@ inapps.appsflyersdk.com
 .zyzo.cn
 .zzyy17.top
 .zzyy18.top
+.xrllybr.xyz
+.qbcmws.xyz
+.99zns.top
+.96kso.online
+.vrnblp.xyz
+.yddbysa.xyz
+.isna.top
+.rfxnff.xyz
+.iephrenhq.com
+.nwpcptmm.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
