@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-07 20:00:01·········数量:57804条·········增量:$[57804-$[57806-1]]条·········
+#·········更新时间:2023-12-07 21:00:01·········数量:57845条·········增量:$[57845-$[57806-1]]条·········
+.enwerzaqqbbnb.top
 .ihwwssyperloof.com
 .arqznlwzkkaev.top
 .tuhwjkesxo.com
@@ -34895,6 +34896,8 @@ vkcdnservice.appspot.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.dmp.eland-tech.com
+.stat.gn01.top
 .ohmy.bid
 .nakanohito.jp
 .analytics.fcgtalent.fi
@@ -38413,6 +38416,7 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.analytics.dealmoon.com
 .tagmanager.yodobashi.com
 .d2cli4kgl5uxre.cloudfront.net
 .analytics.peraichi.com
@@ -42354,6 +42358,7 @@ inapps.appsflyersdk.com
 .absurdapple.com
 .absurdwater.com
 .acceptableauthority.com
+.accurateanimal.com
 .achieverknee.com
 .acidicstraw.com
 .acousticsapparel.com
@@ -42405,6 +42410,7 @@ inapps.appsflyersdk.com
 .annoyedairport.com
 .annoyedfifth.com
 .annoyingacoustics.com
+.annoyingclover.com
 .anxiousapples.com
 .apathetictheory.com
 .apparatuslip.com
@@ -42449,6 +42455,7 @@ inapps.appsflyersdk.com
 .balloonbelieve.com
 .balloonbit.com
 .balloontexture.com
+.ballsbanana.com
 .barbarousbase.com
 .barbarousnerve.com
 .baseballbone.com
@@ -42463,6 +42470,7 @@ inapps.appsflyersdk.com
 .beadbears.com
 .beamincrease.com
 .beamvolcano.com
+.beancontrol.com
 .beastbeef.com
 .beautifulhobbies.com
 .bedsberry.com
@@ -42496,8 +42504,10 @@ inapps.appsflyersdk.com
 .boringberry.com
 .boringcoat.com
 .bouncyfront.com
+.boundlessargument.com
 .boundlessbrake.com
 .boundlessveil.com
+.brainybasin.com
 .brainynut.com
 .brandybison.com
 .brashbead.com
@@ -42619,6 +42629,7 @@ inapps.appsflyersdk.com
 .combativecar.com
 .combativedetail.com
 .combbit.com
+.combcattle.com
 .combclover.com
 .comfortablecheese.com
 .commonalmanac.com
@@ -42677,6 +42688,7 @@ inapps.appsflyersdk.com
 .culturedfeather.com
 .cumbersomecake.com
 .cumbersomecar.com
+.cumbersomecarpenter.com
 .cumbersomecloud.com
 .curiouschalk.com
 .curlycannon.com
@@ -42791,6 +42803,7 @@ inapps.appsflyersdk.com
 .elderlyscissors.com
 .elderlytown.com
 .elephantqueue.com
+.embellishedmeadow.com
 .embermosaic.com
 .enchantedjudge.com
 .enchantedskyline.com
@@ -42800,6 +42813,7 @@ inapps.appsflyersdk.com
 .encourageshock.com
 .encouragingleaf.com
 .encouragingvase.com
+.endurablebulb.com
 .endurablecrayon.com
 .endurableshop.com
 .energeticladybug.com
@@ -42809,6 +42823,7 @@ inapps.appsflyersdk.com
 .entertainingeyes.com
 .entertainskin.com
 .enthusiasticdad.com
+.enthusiastictemper.com
 .enviousthread.com
 .equablekettle.com
 .erraticreaction.com
@@ -42851,6 +42866,7 @@ inapps.appsflyersdk.com
 .faultycanvas.com
 .faultyfowl.com
 .fearfowl.com
+.fearfulfear.com
 .fearfulfish.com
 .fearfulmint.com
 .fearlessfaucet.com
@@ -42874,6 +42890,7 @@ inapps.appsflyersdk.com
 .floweryfact.com
 .floweryflavor.com
 .floweryoperation.com
+.flutteringfireman.com
 .foamyfood.com
 .foamypain.com
 .forecasttiger.com
@@ -42963,6 +42980,7 @@ inapps.appsflyersdk.com
 .gulliblecamp.com
 .gulliblegrip.com
 .gullibleguitar.com
+.gustygrandmother.com
 .h78xb.pw
 .habitualhumor.com
 .hallowedinvention.com
@@ -43105,6 +43123,7 @@ inapps.appsflyersdk.com
 .livingsleet.com
 .lizardslaugh.com
 .loadsurprise.com
+.lonelyflavor.com
 .longinglettuce.com
 .longingtrees.com
 .looseloaf.com
@@ -43135,6 +43154,7 @@ inapps.appsflyersdk.com
 .markedpail.com
 .marketspiders.com
 .marriedbelief.com
+.marriedmailbox.com
 .massivebasket.com
 .materialexample.com
 .materialisticfan.com
@@ -43168,6 +43188,7 @@ inapps.appsflyersdk.com
 .mimosamajor.com
 .mindlessmark.com
 .minormeeting.com
+.minuteburst.com
 .minuterhythm.com
 .miscreantmine.com
 .miscreantmoon.com
@@ -43191,6 +43212,7 @@ inapps.appsflyersdk.com
 .mutemailbox.com
 .muterange.com
 .mysteriousmonth.com
+.naivestatement.com
 .nappyattack.com
 .nappyneck.com
 .necessarywax.com
@@ -43253,6 +43275,7 @@ inapps.appsflyersdk.com
 .parchedangle.com
 .parchedsofa.com
 .pardonpopular.com
+.parentpicture.com
 .parsimoniouspolice.com
 .partplanes.com
 .passengerpage.com
@@ -43261,6 +43284,8 @@ inapps.appsflyersdk.com
 .pastepot.com
 .pastoralcorn.com
 .pastoralroad.com
+.peacefullimit.com
+.pedromister.com
 .pedropanther.com
 .pegasusplate.com
 .penspade.com
@@ -43365,6 +43390,7 @@ inapps.appsflyersdk.com
 .quillkick.com
 .quirkysugar.com
 .quixoticnebula.com
+.quizzicalpartner.com
 .quizzicalzephyr.com
 .rabbitbreath.com
 .rabbitrifle.com
@@ -43459,6 +43485,7 @@ inapps.appsflyersdk.com
 .samesticks.com
 .samestretch.com
 .satisfycork.com
+.satisfyingshirt.com
 .satisfyingshow.com
 .satisfyingspark.com
 .savoryorange.com
@@ -43474,6 +43501,7 @@ inapps.appsflyersdk.com
 .scaredsnake.com
 .scaredsnakes.com
 .scaredsong.com
+.scaredstomach.com
 .scaredstory.com
 .scaredswing.com
 .scarefowl.com
@@ -43498,6 +43526,7 @@ inapps.appsflyersdk.com
 .seashoresociety.com
 .seashoreturn.com
 .seatsmoke.com
+.secondhandfall.com
 .secretivecub.com
 .secretivesheep.com
 .secretivestick.com
@@ -43527,6 +43556,7 @@ inapps.appsflyersdk.com
 .shakytaste.com
 .shallowblade.com
 .shallowsmile.com
+.shamerain.com
 .shapecomb.com
 .sharppatch.com
 .sheltercellar.com
@@ -43579,6 +43609,7 @@ inapps.appsflyersdk.com
 .smilingswim.com
 .smilingwaves.com
 .smoggysnakes.com
+.smoggysongs.com
 .smoggystation.com
 .snailscart.com
 .snailsengine.com
@@ -43697,6 +43728,7 @@ inapps.appsflyersdk.com
 .strangeclocks.com
 .strangersponge.com
 .strangesink.com
+.streetsort.com
 .stretchsister.com
 .stretchsneeze.com
 .stretchsquirrel.com
@@ -43798,6 +43830,7 @@ inapps.appsflyersdk.com
 .thoughtlessknot.com
 .threechurch.com
 .threetruck.com
+.thrivecover.com
 .throattrees.com
 .thunderingrose.com
 .thunderingtendency.com
@@ -43838,11 +43871,14 @@ inapps.appsflyersdk.com
 .tumblebirds.com
 .tumbleicicle.com
 .tutorthing.com
+.twistloss.com
+.twistsweater.com
 .typicalairplane.com
 .typicalteeth.com
 .tzwaw.pw
 .ultraoranges.com
 .unablehope.com
+.unaccountablecreator.com
 .unaccountablepie.com
 .unadvisedengine.com
 .unarmedindustry.com
@@ -43885,6 +43921,7 @@ inapps.appsflyersdk.com
 .virgoplato.com
 .virtualvincent.com
 .vivaciousveil.com
+.vmundanepollution.com
 .voicelessvein.com
 .voicevegetable.com
 .volatileprofit.com
@@ -43940,6 +43977,7 @@ inapps.appsflyersdk.com
 .zbwp6ghm.com
 .zealousfield.com
 .zestycrime.com
+.zestywire.com
 .zipperxray.com
 .zippywind.com
 .zlp6s.pw
@@ -49306,6 +49344,7 @@ inapps.appsflyersdk.com
 .hdvmyo.com
 .ads1-adselo.com
 .adsy.mail.bg
+.intermediaworks.com
 .rtb.pixad.com.tr
 .finvest.care
 .winaffiliates1.com
@@ -49971,6 +50010,7 @@ inapps.appsflyersdk.com
 .azol.de
 .twiago.com
 .bauernative.com
+.cdn.holmesmind.com
 .aziekg.xyz
 .max211.top
 .st-fly.b-cdn.net
@@ -53134,6 +53174,7 @@ inapps.appsflyersdk.com
 .cwrxgb.icu
 .manymgsgn.com
 .bmatgg18.xyz
+.44180055.cn
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
