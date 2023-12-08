@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-08 08:00:01·········数量:57864条·········增量:$[57864-$[57866-1]]条·········
+#·········更新时间:2023-12-08 09:00:01·········数量:57876条·········增量:$[57876-$[57866-1]]条·········
 .enwerzaqqbbnb.top
 .ihwwssyperloof.com
 .arqznlwzkkaev.top
@@ -7060,6 +7060,7 @@ vkcdnservice.appspot.com
 .cahvpbsikxvvm.xyz
 .caicuptu.xyz
 .caigluph.xyz
+.caigobou.com
 .caimoasy.net
 .cainauhi.xyz
 .cainismlungee.uno
@@ -10502,6 +10503,7 @@ vkcdnservice.appspot.com
 .echoachy.xyz
 .echoizepheeal.uno
 .echskbpghlc.com
+.eciivxqtur.com
 .ecipientconcertain.info
 .ecityalittl.buzz
 .eclatedpewy.com
@@ -11044,6 +11046,7 @@ vkcdnservice.appspot.com
 .eoveukrnme.info
 .eoweridus.com
 .eownouncillors.info
+.eoxaxdglxecvguh.xyz
 .epacash.com
 .epagogerepines.com
 .epailseptox.com
@@ -14899,6 +14902,7 @@ vkcdnservice.appspot.com
 .iletterismyper.info
 .ilgwuqgvdzl.com
 .iliifmido.xyz
+.iliketomakingpics.com
 .ilinouck.net
 .ilkmawgod.site
 .illallwoe.com
@@ -53193,6 +53197,13 @@ inapps.appsflyersdk.com
 .zyzo.cn
 .zzyy17.top
 .zzyy18.top
+.uito.top
+.ydv7k.cyou
+.wwhsxwow.xyz
+.cnqaaa.xyz
+.hdbppx.xyz
+.murdyq.com
+.wzzlnld.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
@@ -57542,6 +57553,7 @@ analytics-*.aasaam.com
 .tracker.farsnews.ir
 # >> G <<
 # >> H <<
+.analytics.hostiran.net
 .hiads.hidoctor.ir
 # >> I <<
 .ipsite.ir
