@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-08 21:00:01·········数量:57882条·········增量:$[57882-$[57880-1]]条·········
+#·········更新时间:2023-12-08 22:00:01·········数量:57882条·········增量:$[57882-$[57884-1]]条·········
 .hadmvmqe.com
 .nwhuomqmuym.com
 .enwerzaqqbbnb.top
