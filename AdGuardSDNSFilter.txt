@@ -1,5 +1,17 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-09 08:00:01·········数量:57926条·········增量:$[57926-$[57928-1]]条·········
+#·········更新时间:2023-12-09 09:00:01·········数量:57946条·········增量:$[57946-$[57928-1]]条·········
+.vtsyqikqnrfmaye.com
+.bhqfnuq.com
+.jcqueawk.xyz
+.kdwuiulga.com
+.oehfvrpeleg.com
+.zjupukgjuez.com
+.rvltckxibcmlt.com
+.qgtastuxjdrrmc.com
+.enoneahbut.org
+.ryremovement.com
+.ydwrkwwqytj.xyz
+.mgdbtjwc.com
 .xuudtwhlkrbah.com
 .whotchie.net
 .xskctff.com
@@ -1514,6 +1526,7 @@
 .adrunnr.com
 .samsungtvads.com
 .adconsent.samsungrs.com
+.d1hfbz0n5yb6ym.cloudfront.net
 .d126kahie2ogx0.cloudfront.net
 .d27tzcmp091qxd.cloudfront.net
 .d2fnnovf9qvlf2.cloudfront.net
@@ -4140,6 +4153,7 @@ vkcdnservice.appspot.com
 .allpipestay.live
 .allpornovids.com
 .allrightjerseydresser.com
+.allskillon.com
 .allstat-pp.ru
 .alltopnewz.com
 .alltopposts.com
@@ -4826,6 +4840,7 @@ vkcdnservice.appspot.com
 .ascomamizzen.com
 .ascraftan.com
 .asdasdad.net
+.asdf1.site
 .asdguswfys.com
 .asdpoi.com
 .asdqslnqmwwkc.com
@@ -6162,6 +6177,7 @@ vkcdnservice.appspot.com
 .bird-getabid.net
 .birdnavy.com
 .biroads.com
+.birqmiowxfh.com
 .birter.com
 .birthdayforester.com
 .birthdiscipline.com
@@ -16106,6 +16122,7 @@ vkcdnservice.appspot.com
 .jujabxlusgag.com
 .jujaufur.net
 .jujwhjmtidgp.com
+.jukseeng.net
 .julia-liz.com
 .julidanroebuck.com
 .julkkoazfkh.com
@@ -20251,6 +20268,7 @@ vkcdnservice.appspot.com
 .ojtkusmitp.com
 .ojtosjaqkrr.com
 .ojuhfoa.com
+.ojwapnolwa.com
 .ojzfinlhemu.com
 .ojzghaawlf.com
 .okaks.com
@@ -21719,6 +21737,7 @@ vkcdnservice.appspot.com
 .phultems.net
 .phultids.com
 .phumpauk.com
+.phupours.com
 .phuteheglu.com
 .physical-flow-i-255.site
 .physicalaverage.com
@@ -29601,6 +29620,7 @@ vkcdnservice.appspot.com
 .vflouksffoxmlnk.xyz
 .vftqmnqopdf.xyz
 .vfvdsati.com
+.vfvvhywsdons.com
 .vfyxjsclor.com
 .vg4u8rvq65t6.com
 .vgfeuwrewzzmc.com
