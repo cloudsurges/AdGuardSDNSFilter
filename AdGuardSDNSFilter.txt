@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-11 14:00:01·········数量:57211条·········增量:$[57211-$[57213-1]]条·········
+#·········更新时间:2023-12-11 15:00:01·········数量:57228条·········增量:$[57228-$[57213-1]]条·········
 .vtsyqikqnrfmaye.com
 .bhqfnuq.com
 .jcqueawk.xyz
@@ -8457,6 +8457,7 @@ vkcdnservice.appspot.com
 .credentialsdispatchsuperstitious.com
 .credibilitystakehemisphere.com
 .credibilityyowl.com
+.creditbitesize.com
 .creditorapido.xyz
 .credulityicicle.com
 .creedaileenboiler.com
@@ -16917,6 +16918,7 @@ vkcdnservice.appspot.com
 .lividtrash.pro
 .livrfufzios.com
 .livyersremoval.com
+.liwnffsxdhn.com
 .lixnirokjqp.com
 .lixsbdifa.com
 .lizapaisan.com
@@ -30202,6 +30204,7 @@ vkcdnservice.appspot.com
 .woxfiybiepgltf.com
 .woymebsi.com
 .wpadmngr.com
+.wpcgyoyq.com
 .wphmavwgay.xyz
 .wpkdqrzzcodvjc.com
 .wpncdn.com
@@ -31000,6 +31003,7 @@ vkcdnservice.appspot.com
 .zel-zel-fie.com
 .zelatorpukka.com
 .zelllwrite.com
+.zelqytckpgzwag.com
 .zelrasty.net
 .zelrulte.com
 .zemewitted.com
@@ -41640,6 +41644,7 @@ inapps.appsflyersdk.com
 .82o9v830.com
 .abackafterthought.com
 .abackchain.com
+.abackframe.com
 .abacksoda.com
 .abandonedaction.com
 .aboardamusement.com
@@ -41714,6 +41719,7 @@ inapps.appsflyersdk.com
 .apathetictheory.com
 .apparatuslip.com
 .aquaticalarm.com
+.aquaticanswer.com
 .aquaticowl.com
 .archswimming.com
 .arcticamber.com
@@ -41843,6 +41849,7 @@ inapps.appsflyersdk.com
 .butterburst.com
 .buttonladybug.com
 .cabledemand.com
+.cakesdrum.com
 .calculatingcircle.com
 .calculatingtoothbrush.com
 .calculatorcamera.com
@@ -41908,6 +41915,7 @@ inapps.appsflyersdk.com
 .clamcelery.com
 .clammychicken.com
 .clammytree.com
+.clarifyverse.com
 .cleanhaircut.com
 .clearcabbage.com
 .cloisteredcurve.com
@@ -42017,6 +42025,7 @@ inapps.appsflyersdk.com
 .dashingsweater.com
 .daughterstone.com
 .dazzlingbook.com
+.deadpangate.com
 .deadpanmarble.com
 .deadpantruck.com
 .deafeningdock.com
@@ -42047,6 +42056,7 @@ inapps.appsflyersdk.com
 .detailedkitten.com
 .detectdinner.com
 .detectdiscovery.com
+.dewdroplagoon.com
 .differentcoat.com
 .difficultfog.com
 .digestiondrawer.com
@@ -42487,6 +42497,7 @@ inapps.appsflyersdk.com
 .mimosamajor.com
 .mindlessmark.com
 .minormeeting.com
+.minusmental.com
 .minuteburst.com
 .minuterhythm.com
 .miscreantmine.com
@@ -42568,6 +42579,7 @@ inapps.appsflyersdk.com
 .panickycurtain.com
 .panickypancake.com
 .panoramicbutter.com
+.panoramicplane.com
 .paradoxfactor.com
 .parallelbulb.com
 .parcelcreature.com
@@ -42643,6 +42655,7 @@ inapps.appsflyersdk.com
 .predictplate.com
 .prefixpatriot.com
 .prepareplanes.com
+.presentbedroom.com
 .presetrabbits.com
 .presssensor.com
 .previousplayground.com
@@ -42703,6 +42716,7 @@ inapps.appsflyersdk.com
 .rainyrule.com
 .rainystretch.com
 .rainyzinc.com
+.rambunctiousflock.com
 .rambunctiousvoyage.com
 .rampantwork.com
 .rangecake.com
@@ -42935,6 +42949,7 @@ inapps.appsflyersdk.com
 .sophisticatedstory.com
 .sophisticatedstove.com
 .sordidsmile.com
+.sordidstation.com
 .soresidewalk.com
 .soresneeze.com
 .sorethunder.com
@@ -43064,6 +43079,7 @@ inapps.appsflyersdk.com
 .superficialspring.com
 .superficialsquare.com
 .supervisegoldfish.com
+.supportwaves.com
 .suspectmark.com
 .suspendseed.com
 .swankysquare.com
@@ -43257,6 +43273,7 @@ inapps.appsflyersdk.com
 .wildcommittee.com
 .wildernesscamera.com
 .wirecomic.com
+.wirypaste.com
 .wistfulflight.com
 .wittypopcorn.com
 .womanear.com
