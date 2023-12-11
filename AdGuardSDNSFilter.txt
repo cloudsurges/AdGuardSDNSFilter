@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-11 08:00:01·········数量:57199条·········增量:$[57199-$[57201-1]]条·········
+#·········更新时间:2023-12-11 09:00:01·········数量:57211条·········增量:$[57211-$[57201-1]]条·········
 .vtsyqikqnrfmaye.com
 .bhqfnuq.com
 .jcqueawk.xyz
@@ -31837,6 +31837,7 @@ vkcdnservice.appspot.com
 .e-generator.com
 .e-planning.net
 .e-viral.com
+.eadsrv.com
 .easy-ads.com
 .easyhits4u.com
 .easyinline.com
@@ -40488,6 +40489,7 @@ inapps.appsflyersdk.com
 .iconnode.com
 .id-ward.com
 .idx.lat
+.ilius.net
 .impactcdn.com
 .impactradius-event.com
 .ineed2s.ro
@@ -44677,6 +44679,7 @@ inapps.appsflyersdk.com
 .dnt-userreport.com
 .tags.op-palvelut.fi
 .links.boom.ge
+.stats-real-clients.zentech.gr
 .heartbeat.pmd.444.hu
 .rum.marquardmedia.hu
 .videostat-new.index.hu
@@ -44747,7 +44750,6 @@ inapps.appsflyersdk.com
 .ad-tracker-api.luizalabs.com
 .analytics-stamp.confi.com.vc
 .analytics.spun.com.br
-.api.nobeta.com.br
 .collect.chaordicsystems.com
 .events.chaordicsystems.com
 .hitserver.ibope.com.br
@@ -50478,6 +50480,7 @@ inapps.appsflyersdk.com
 .www.gymshark-sweden.com.se
 .www.gym-sharksweden.com
 .adplay.it
+.brznetwork.com
 .delosnetwork.it
 .eadv.it
 .epeex.io
@@ -50519,7 +50522,6 @@ inapps.appsflyersdk.com
 .banzaiadv.it
 .beead.it
 .break-even.it
-.brznetwork.com
 .btsaffiliations.com
 .casino-sicuro.it
 .clacson24.com
@@ -52526,6 +52528,16 @@ inapps.appsflyersdk.com
 .zzbmxl.xyz
 .zzyy17.top
 .zzyy18.top
+.zf4.top
+.zxpvalr.xyz
+.sltle.icu
+.ptflrj.xyz
+.aerbgpn.xyz
+.limopf.top
+.ravzbd.xyz
+.ukkkmg.xyz
+.ucjevgue.xyz
+.seutop.icu
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
