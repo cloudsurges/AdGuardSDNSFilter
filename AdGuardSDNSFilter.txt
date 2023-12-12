@@ -1,5 +1,27 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-12 08:00:01·········数量:57243条·········增量:$[57243-$[57245-1]]条·········
+#·········更新时间:2023-12-12 09:00:01·········数量:57284条·········增量:$[57284-$[57245-1]]条·········
+.xtdioaawlam.com
+.psegreew.net
+.aheaptorsos.life
+.evecticvocoder.life
+.korununkept.digital
+.tfmgqdj.com
+.yiejvik.com
+.astesnlyno.org
+.decordingholo.org
+.aumtoost.net
+.wirsilsa.net
+.jsfrfeuubna.com
+.noblelevityconcrete.com
+.hvkwmvpxvjo.xyz
+.thoobsix.xyz
+.extensionworthwhile.com
+.mowdzgbusbqug.com
+.mprhrvnxppdxci.com
+.braflipperstense.com
+.mildlyrambleadroit.com
+.klihldyjzrjouh.com
+.xdezxlbnpo.com
 .vtsyqikqnrfmaye.com
 .bhqfnuq.com
 .jcqueawk.xyz
@@ -1508,6 +1530,8 @@
 .adrunnr.com
 .samsungtvads.com
 .adconsent.samsungrs.com
+.ad.apl298.me
+.d15fkr9rkey1dd.cloudfront.net
 .d1hfbz0n5yb6ym.cloudfront.net
 .d126kahie2ogx0.cloudfront.net
 .d27tzcmp091qxd.cloudfront.net
@@ -13889,6 +13913,7 @@ vkcdnservice.appspot.com
 .hghm4u7b61.com
 .hgpmbfkxmrw.xyz
 .hgub2polye.com
+.hgx1.online
 .hhbypdoecp.com
 .hhcktiucw.xyz
 .hhit.xyz
@@ -14364,6 +14389,7 @@ vkcdnservice.appspot.com
 .hvd1t.com
 .hvdmwhnawvhbejv.com
 .hvikgqco.com
+.hvkwmvpxvjo.xyz
 .hvooyieoei.com
 .hvvafunojvdlv.xyz
 .hwchvgpc.xyz
@@ -18524,6 +18550,7 @@ vkcdnservice.appspot.com
 .mtjrhfww.com
 .mtjwxcdjierrmw.com
 .mtwdmk9ic.com
+.mtypitea.net
 .mtzenhigqg.com
 .muchorindownlo.xyz
 .muchotrust.com
@@ -20260,6 +20287,7 @@ vkcdnservice.appspot.com
 .ossmightyenar.net
 .ossnidorinoom.com
 .osspalkiaom.com
+.osspwamuhn.com
 .ossrhydonr.com
 .ossshucklean.com
 .ostensibledressmaker.com
@@ -22329,6 +22357,7 @@ vkcdnservice.appspot.com
 .ptookaih.net
 .ptooshos.net
 .ptotchie.xyz
+.ptoubeeh.net
 .ptoujaix.xyz
 .ptoumsid.net
 .ptoushoa.com
@@ -27606,6 +27635,7 @@ vkcdnservice.appspot.com
 .tractusoutsum.com
 .tradbypass.com
 .trade46-q.com
+.tradertimerz.media
 .trading21s.com
 .tradingken.com
 .tradingpancreasdevice.com
@@ -32114,6 +32144,7 @@ vkcdnservice.appspot.com
 .nitmus.com
 .nitropay.com
 .njih.net
+.nobeta.com.br
 .notsy.io
 .nsstatic.com
 .nsstatic.net
@@ -32513,6 +32544,7 @@ vkcdnservice.appspot.com
 .23.109.87.
 .1080872514.rsc.cdn77.org
 .10945-5.s.cdn15.com
+.1144017219.rsc.cdn77.org
 .1187531871.rsc.cdn77.org
 .1203782659.rsc.cdn77.org
 .1437953666.rsc.cdn77.org
@@ -52570,6 +52602,15 @@ inapps.appsflyersdk.com
 .zzbmxl.xyz
 .zzyy17.top
 .zzyy18.top
+.amxk.top
+.lmtnfl.xyz
+.dsbudkwq.xyz
+.gmgbmzz.xyz
+.gwivqo.xyz
+.pdhjnz.xyz
+.0hq6k.site
+.lhtnuop.xyz
+.mefiafd.top
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
