@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-13 09:00:01·········数量:57474条·········增量:$[57474-$[57459-1]]条·········
+#·········更新时间:2023-12-13 10:00:01·········数量:57474条·········增量:$[57474-$[57476-1]]条·········
 .d3c.site
 .pnlwbcxphfhgqp.com
 .alexicallowed.digital
