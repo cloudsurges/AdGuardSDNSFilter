@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-14 06:00:01·········数量:57536条·········增量:$[57536-$[57538-1]]条·········
+#·········更新时间:2023-12-14 07:00:01·········数量:57536条·········增量:$[57536-$[57538-1]]条·········
 .aycrxa.com
 .d3c.site
 .pnlwbcxphfhgqp.com
