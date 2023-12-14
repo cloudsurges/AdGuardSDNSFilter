@@ -1,5 +1,24 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-14 08:00:01·········数量:57536条·········增量:$[57536-$[57538-1]]条·········
+#·········更新时间:2023-12-14 09:00:01·········数量:57564条·········增量:$[57564-$[57538-1]]条·········
+.wwvqxqmcvfxwqq.com
+.rodrergi.com
+.actpbfa.com
+.wtmhwnv.com
+.xpjjlgzqs.com
+.suchcesusar.org
+.oftheappyri.org
+.acnwxjhfby.com
+.jfmpafthtwuo.com
+.sytqxychwk.xyz
+.zipheeda.xyz
+.pqulqqpmx.com
+.encumbranceunderlineheadmaster.com
+.cleaningmaturegallop.com
+.dignityhourmulticultural.com
+.conventionalrestaurant.com
+.apytbfdzy.com
+.usiphdtubj.com
+.toovoala.net
 .aycrxa.com
 .d3c.site
 .pnlwbcxphfhgqp.com
@@ -1547,6 +1566,7 @@
 .adrunnr.com
 .samsungtvads.com
 .adconsent.samsungrs.com
+.d12nvv2jqzsaax.cloudfront.net
 .d9leupuz17y6i.cloudfront.net
 .ad.apl298.me
 .d15fkr9rkey1dd.cloudfront.net
@@ -52863,6 +52883,14 @@ inapps.appsflyersdk.com
 .zzbmxl.xyz
 .zzyy17.top
 .zzyy18.top
+.viladram.xyz
+.um9.top
+.eheuye.xyz
+.xxlihf.xyz
+.orbxiul.xyz
+.94n33.fun
+.jxpjlb.xyz
+.lckjqtx.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
