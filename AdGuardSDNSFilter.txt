@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-15 14:00:01·········数量:57632条·········增量:$[57632-$[57634-1]]条·········
+#·········更新时间:2023-12-15 15:00:01·········数量:57635条·········增量:$[57635-$[57634-1]]条·········
 .oijorfkfwtdswv.xyz
 .lmmpjhvli.com
 .jsgmsoapx.com
@@ -42025,6 +42025,7 @@ inapps.appsflyersdk.com
 .ambitiousagreement.com
 .ambitiousanimal.com
 .amethystzenith.com
+.amuckafternoon.com
 .amusedbucket.com
 .amusementmorning.com
 .amusinggirls.com
@@ -52939,7 +52940,6 @@ inapps.appsflyersdk.com
 .rwnmcum.cn
 .xn--1qwynp09f.net
 .smbx8.net
-.sda1.dev
 .mross044.com
 .maxun103.top
 .kfpicimage.xyz
@@ -52959,6 +52959,9 @@ inapps.appsflyersdk.com
 .fhdjdv.xyz
 .pgieqr.top
 .ajbpcxi.xyz
+.qtciam.xyz
+.birglucy.xyz
+.vjnxpj.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
