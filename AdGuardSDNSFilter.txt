@@ -1,5 +1,21 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-15 08:00:01·········数量:57607条·········增量:$[57607-$[57609-1]]条·········
+#·········更新时间:2023-12-15 09:00:01·········数量:57632条·········增量:$[57632-$[57609-1]]条·········
+.oijorfkfwtdswv.xyz
+.lmmpjhvli.com
+.jsgmsoapx.com
+.jssiiamvbuqqkb.com
+.faffwut.com
+.iwjerwaxjblelve.com
+.zfhuzyw.com
+.amkbpcc.com
+.tbradshedm.org
+.unicatethebe.org
+.fkyhqtfiopfit.com
+.xevbjycybvb.xyz
+.lacerateinventorwaspish.com
+.cnfccdxhggrz.com
+.zxwhkosabux.com
+.ybuduzpe.com
 .wwvqxqmcvfxwqq.com
 .rodrergi.com
 .actpbfa.com
@@ -28,7 +44,6 @@
 .vdenwwytxmw.com
 .jyfirjqojg.xyz
 .endingrude.com
-.lacerateinventorwaspish.com
 .treblescholarfestival.com
 .evecticvocoder.life
 .korununkept.digital
@@ -1185,6 +1200,7 @@
 .adrunnr.com
 .samsungtvads.com
 .adconsent.samsungrs.com
+.d2f0ixlrgtk7ff.cloudfront.net
 .buzzer.xhamster.com
 .d12nvv2jqzsaax.cloudfront.net
 .d9leupuz17y6i.cloudfront.net
@@ -16310,6 +16326,7 @@ vkcdnservice.appspot.com
 .kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 .kzkmmbrrzn.com
 .kzsfip3v.cfd
+.l-iw.de
 .l1native.com
 .l1vec4ms.com
 .l3g3media.com
@@ -38159,7 +38176,6 @@ vkcdnservice.appspot.com
 .1l-view.my.games
 .apptics.zoho.com
 .a*.smlog.co.kr
-.cdn.smlog.co.kr
 .collector-statistics.nhn-commerce.com
 .insight.danawa.com
 .las.danawa.com
@@ -40151,6 +40167,7 @@ inapps.appsflyersdk.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.zml-apm-prd.dbv4.noncd.db.de
 .api.bytebrew.io
 .lg-release-tracking-8080.gcld-line.com
 .iemiq.com
@@ -44742,6 +44759,7 @@ inapps.appsflyersdk.com
 .dawin.tv
 .oevery.com
 .rainbownine.net
+.smlog.co.kr
 .tenping.kr
 .mcloudglobal.com
 .ppdb.pl
@@ -45088,6 +45106,7 @@ inapps.appsflyersdk.com
 .megadata.co.kr
 .ngc1.nsm-corp.com
 .performanceplay.co.kr
+.pxl.retaku.net
 .sas.nsm-corp.com
 .counter.hackers.lv
 .cis.schibsted.com
@@ -52934,6 +52953,12 @@ inapps.appsflyersdk.com
 .1227a.xyz
 .jdbfknsbkldns.com
 .88dgn.top
+.88dgx.top
+.fxbcc.cyou
+.kkyjfdj.xyz
+.fhdjdv.xyz
+.pgieqr.top
+.ajbpcxi.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
