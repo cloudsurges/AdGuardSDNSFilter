@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-16 08:00:01·········数量:57671条·········增量:$[57671-$[57673-1]]条·········
+#·········更新时间:2023-12-16 09:00:01·········数量:57683条·········增量:$[57683-$[57673-1]]条·········
 .rldwideorgani.org
 .ciedpso.com
 .acquisitionsneezeswell.com
@@ -35056,6 +35056,7 @@ vkcdnservice.appspot.com
 .gnar.grammarly.com
 .analytics.churnzero.net
 .trk.reclameaqui.com.br
+.events-api.gazetadopovo.com.br
 .i-cmg-amlg-prod.appspot.com
 .capture-api.autopilotapp.com
 .s.autopilotapp.com
@@ -41276,6 +41277,7 @@ inapps.appsflyersdk.com
 .heatmap.services
 .heylink.com
 .hif.to
+.highlight.run
 .hira-meki.jp
 .hit-360.com
 .hitsteps.com
@@ -52998,6 +53000,16 @@ inapps.appsflyersdk.com
 .zzbmxl.xyz
 .zzyy17.top
 .zzyy18.top
+.kyjwtxei.xyz
+.f780f.space
+.awzddev.cn
+.qznjujv.xyz
+.hvlitr.xyz
+.mbfhwag.xyz
+.trojangfw.xyz
+.nrfhbd.xyz
+.cfateu.xyz
+.acemof.top
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
