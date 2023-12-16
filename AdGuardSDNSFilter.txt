@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-16 14:00:01·········数量:57683条·········增量:$[57683-$[57685-1]]条·········
+#·········更新时间:2023-12-16 15:00:01·········数量:57691条·········增量:$[57691-$[57685-1]]条·········
 .rldwideorgani.org
 .ciedpso.com
 .acquisitionsneezeswell.com
@@ -2027,6 +2027,7 @@ vkcdnservice.appspot.com
 .493b98cce8bc1a2dd.com
 .495affa75e.com
 .49af7cee19.com
+.49b6b77e56.com
 .4a136c118e.com
 .4a167ec12d.com
 .4a623a5a49.com
@@ -4904,6 +4905,7 @@ vkcdnservice.appspot.com
 .awstaticdn.net
 .awsurveys.com
 .awswayful.space
+.awtpguxqtf.com
 .awtqbjylk.com
 .awugxvrmsdalpx.com
 .awutohkhu.com
@@ -14946,6 +14948,7 @@ vkcdnservice.appspot.com
 .intelligenceretarget.com
 .intellipopup.com
 .intellitxt.com
+.intelstqkt.com
 .intendedeasiestlost.com
 .intendedoutput.com
 .intentanalysis.com
@@ -15778,6 +15781,7 @@ vkcdnservice.appspot.com
 .jvnydntynmru.com
 .jvrawodh.com
 .jvsffrjutsax.com
+.jvydtutqrmdx.com
 .jvylyreyazmea.top
 .jvzoupeh.com
 .jwalf.com
@@ -16236,6 +16240,7 @@ vkcdnservice.appspot.com
 .koureptu.xyz
 .koustouk.net
 .koutobey.net
+.koxcsmmcealss.com
 .kpdqdbyi.com
 .kpkgkkbs.xyz
 .kqhi97lf.de
@@ -19063,6 +19068,7 @@ vkcdnservice.appspot.com
 .nextdark.pro
 .nextgencounter.com
 .nextpsh.top
+.neylwuhxhaek.com
 .nezuel.com
 .nezygmobha.com
 .nfctoroxi.xyz
@@ -20277,6 +20283,7 @@ vkcdnservice.appspot.com
 .origintube.com
 .origunix.com
 .orisow.com
+.orjfun.com
 .orkoedthroug.xyz
 .orldwhoisquite.com
 .orldwhoisquite.org
@@ -22995,6 +23002,7 @@ vkcdnservice.appspot.com
 .qyajwjyjnavzq.top
 .qydrwhhk.xyz
 .qyenlspei.com
+.qymdcuco.com
 .qynpfyvxkyv.com
 .qynqvkkmbzvkk.top
 .qyqkemrarznvv.top
