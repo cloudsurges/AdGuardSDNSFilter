@@ -1,5 +1,17 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-17 08:00:01·········数量:57714条·········增量:$[57714-$[57716-1]]条·········
+#·········更新时间:2023-12-17 09:00:01·········数量:57736条·········增量:$[57736-$[57716-1]]条·········
+.elwcchbwtnohia.com
+.bipidoan.com
+.aksleaj.com
+.imemediates.org
+.tiotyuknsyen.org
+.wirsilsa.net
+.hoowuliz.com
+.rooptawu.net
+.nvgelwnecuw.com
+.wcycotzoxhvapo.com
+.avkktuywj.xyz
+.xlyhpurmfnlall.com
 .rldwideorgani.org
 .ciedpso.com
 .acquisitionsneezeswell.com
@@ -1214,6 +1226,7 @@
 .adrunnr.com
 .samsungtvads.com
 .adconsent.samsungrs.com
+.dvv009j588zal.cloudfront.net
 .d18ql5xgy7gz3p.cloudfront.net
 .d2f0ixlrgtk7ff.cloudfront.net
 .buzzer.xhamster.com
@@ -53040,6 +53053,15 @@ inapps.appsflyersdk.com
 .zzbmxl.xyz
 .zzyy17.top
 .zzyy18.top
+.abe1.cn
+.c9qh3.website
+.cntsgsd.top
+.tybmbbgu.xyz
+.kphcrjth.xyz
+.thjwxz.xyz
+.oryhic.xyz
+.phcrjth.xyz
+.ytjzqde.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
