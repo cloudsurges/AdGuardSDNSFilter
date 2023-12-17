@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-17 20:00:01·········数量:57750条·········增量:$[57750-$[57752-1]]条·········
+#·········更新时间:2023-12-17 21:00:01·········数量:57776条·········增量:$[57776-$[57752-1]]条·········
 .elwcchbwtnohia.com
 .bipidoan.com
 .aksleaj.com
@@ -3056,6 +3056,7 @@ vkcdnservice.appspot.com
 .adperium.com
 .adpinion.com
 .adpionier.de
+.adplushub.com
 .adplxmd.com
 .adpod.in
 .adpointrtb.com
@@ -3160,6 +3161,7 @@ vkcdnservice.appspot.com
 .adsmarket.com
 .adsmiscellaneouswalked.com
 .adsnative.com
+.adsnetworkplus.com
 .adsnetworkserver.com
 .adsoftware.top
 .adsomi.com
@@ -4387,6 +4389,7 @@ vkcdnservice.appspot.com
 .armiesinvolve.com
 .arminius.io
 .armisticeexpress.com
+.armletglene.com
 .armlockyakker.com
 .armoryleaseholder.com
 .armourhardilytraditionally.com
@@ -7668,6 +7671,7 @@ vkcdnservice.appspot.com
 .cnredg.xyz
 .cnt.my
 .cntrafficpro.com
+.cntrktaieagnam.com
 .cnvuspci.com
 .co5n3nerm6arapo7ny.com
 .coacil.com
@@ -9672,6 +9676,7 @@ vkcdnservice.appspot.com
 .dqhoikghxts.com
 .dqjkzrx.com
 .dqlgpnljfgmlqs.xyz
+.dqnvcjcyx.com
 .dqvnpbs.com
 .dqywkdxtcy.xyz
 .dr0.biz
@@ -10113,6 +10118,7 @@ vkcdnservice.appspot.com
 .ebonyrecognize.com
 .ebutiseemedlikeal.xyz
 .ebuzzing.com
+.ebwvjkvd.com
 .ebz.io
 .ec1e2c92b3.com
 .ec2867edc4.com
@@ -14508,6 +14514,7 @@ vkcdnservice.appspot.com
 .iihcjcil.com
 .iinzwyd.com
 .iistillstayherea.com
+.iivzdmqgyyiw.com
 .iiwm70qvjmee.com
 .iiydmrr.com
 .ijatsapphiresanda.com
@@ -15487,6 +15494,7 @@ vkcdnservice.appspot.com
 .jewscane.digital
 .jewspa.com
 .jf71qh5v14.com
+.jfbrkbgvxwib.com
 .jfedgbskofck.com
 .jfjlfah.com
 .jfoaxwbatlic.com
@@ -16189,6 +16197,7 @@ vkcdnservice.appspot.com
 .knowledgepretend.com
 .knownconsider.com
 .knownwarn.com
+.knowsdcollet.com
 .knsnyfpnbyakn.xyz
 .kntswafuos.com
 .knubbyripens.uno
@@ -16945,6 +16954,7 @@ vkcdnservice.appspot.com
 .lizapaisan.com
 .lizebruisiaculi.info
 .lizziefullrounded.com
+.ljlbzdqznogl.com
 .ljlmzblvzerj.top
 .ljokijpwtkwib.com
 .ljyajgjvuv.com
@@ -18608,6 +18618,7 @@ vkcdnservice.appspot.com
 .multipletrustedpc.com
 .multiplydiscourage.com
 .multiplyinvisible.com
+.multiwall-ads.shop
 .multstorage.com
 .mumblesmisrun.space
 .mumcreator.com
@@ -21181,6 +21192,7 @@ vkcdnservice.appspot.com
 .pervialinagile.com
 .perviv.com
 .peskyclarifysuitcases.com
+.peskylock.com
 .pestequitch.com
 .pesterdisarm.com
 .pestilenttidefilth.org
@@ -22850,6 +22862,7 @@ vkcdnservice.appspot.com
 .qjsknpxwlesvou.com
 .qjvtofw.com
 .qjwglnuwqvr.com
+.qjyoanpkf.com
 .qkalpmwsvfwqqy.com
 .qkepevhlton.xyz
 .qkhvongctffugm.com
@@ -26038,6 +26051,7 @@ vkcdnservice.appspot.com
 .sqhyjfbckqrxd.xyz
 .sqlekbxp.xyz
 .sqlick.com
+.sqqqytzxjywx.com
 .squarepicket.com
 .squatdisloyal.com
 .squeakyheart.pro
@@ -27802,6 +27816,7 @@ vkcdnservice.appspot.com
 .tposkglvqookv.xyz
 .tpydhykibbz.com
 .tpyxplkcap.top
+.tpzzdrxnp.com
 .tqgrrfssodfo.com
 .tqkfrdcwht.xyz
 .tqlkg.com
@@ -28158,6 +28173,7 @@ vkcdnservice.appspot.com
 .tugust.com
 .tuhwjkesxo.com
 .tuitionpancake.com
+.tujofclqgazqa.com
 .tujourda.net
 .tukeelsy.com
 .tukulordimera.com
@@ -28473,6 +28489,7 @@ vkcdnservice.appspot.com
 .ulmoyc.com
 .ulmpyqgfqkffe.com
 .ulmujev.com
+.ulnidkdlaxclpo.com
 .uloadeeksurvey.space
 .uloaludu.xyz
 .ulourgaz.net
@@ -29887,6 +29904,7 @@ vkcdnservice.appspot.com
 .wboptim.online
 .wboux.com
 .wbsads.com
+.wbubnjqyrmv.com
 .wbuurzutrhmlsz.com
 .wbvjhlaljp.com
 .wbzfybvl.com
@@ -30532,6 +30550,7 @@ vkcdnservice.appspot.com
 .wowebahugoo.com
 .wowhaujy.com
 .wowjogsot.com
+.wowkydktwnyfuo.com
 .wowlnk.com
 .wowreality.info
 .wowshortvideos.com
@@ -30936,6 +30955,7 @@ vkcdnservice.appspot.com
 .xxxvjmp.com
 .xxxwebtraffic.com
 .xyardnle.com
+.xyaueuufd.com
 .xydbpbnmo.com
 .xyhuoi.com
 .xyjaewocysv.com
@@ -31123,6 +31143,7 @@ vkcdnservice.appspot.com
 .ymchcohvncak.xyz
 .ymuitydkdoy.com
 .ymwehrducswbeu.com
+.yndmorvwdfuk.com
 .yneationsliee.xyz
 .ynisramnmcm.com
 .ynkjwogined.com
@@ -31572,6 +31593,7 @@ vkcdnservice.appspot.com
 .zvbkyrbwrlqll.top
 .zvetokr2hr8pcng09.com
 .zvhednrza.com
+.zvjkhrdp.com
 .zvkytbjimbhk.com
 .zvrvwpcqweiwhm.com
 .zvwhrc.com
@@ -45154,6 +45176,7 @@ inapps.appsflyersdk.com
 .click.kataweb.it
 .cnt.iol.it
 .dmpcdn.el-mundo.net
+.heatmaps.lcisoft.it
 .limone.iltrovatore.it
 .livestats.matrix.it
 .log.edidomus.it
@@ -53076,6 +53099,9 @@ inapps.appsflyersdk.com
 .nbhixt.xyz
 .uphcrjth.xyz
 .bphcrjth.xyz
+.xphcrjth.xyz
+.tphcrjth.xyz
+.pengjinvc.top
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
