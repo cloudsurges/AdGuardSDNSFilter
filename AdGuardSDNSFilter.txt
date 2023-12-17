@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-17 14:00:02·········数量:57736条·········增量:$[57736-$[57738-1]]条·········
+#·········更新时间:2023-12-17 15:00:01·········数量:57750条·········增量:$[57750-$[57738-1]]条·········
 .elwcchbwtnohia.com
 .bipidoan.com
 .aksleaj.com
@@ -2243,6 +2243,7 @@ vkcdnservice.appspot.com
 .71692fai4cc0.com
 .71a30cae934e.com
 .71d7511a4861068.com
+.71dd1ff9fd.com
 .71ec0646e6.com
 .7253d56acf.com
 .72hdgb5o.de
@@ -4650,6 +4651,7 @@ vkcdnservice.appspot.com
 .atholicncesispe.info
 .athvicatfx.com
 .aticalfelixstownrus.info
+.aticalmaster.org
 .atinsolutions.com
 .atiretrously.com
 .atjigglypuffor.com
@@ -6589,6 +6591,7 @@ vkcdnservice.appspot.com
 .bygliscortor.com
 .byildmkzjyjx.com
 .byluvdiscor.com
+.bymnyzbkylaaw.top
 .bymnyzbkylvkv.top
 .bymyth.com
 .bypasseaseboot.com
@@ -16075,6 +16078,7 @@ vkcdnservice.appspot.com
 .kinozo.xyz
 .kinripen.com
 .kioeasodamid.com
+.kipapjhs.com
 .kipeir.com
 .kirkifyapache.website
 .kirkmanhirple.com
@@ -16153,6 +16157,7 @@ vkcdnservice.appspot.com
 .knawelgrx.com
 .kncecafvdeu.info
 .kncrnjspoxd.com
+.kndaspiratioty.org
 .kneeansweras.com
 .kneescountdownenforcement.com
 .kneesettingflashing.com
@@ -21493,6 +21498,7 @@ vkcdnservice.appspot.com
 .pizasoji.com
 .pizzazz.lol
 .pjblqxvmcjyiel.com
+.pjhbyaaadlw.com
 .pjivapiumeb.com
 .pjjpp.com
 .pjlufuwtxv.com
@@ -22720,6 +22726,7 @@ vkcdnservice.appspot.com
 .pvlcbsynxsabti.com
 .pvqzggfkuxum.com
 .pvsxzlb.com
+.pvtypsgueyqey.com
 .pvxvazbehd.com
 .pvykihatcb.com
 .pwbmdalngizhz.com
@@ -24185,6 +24192,7 @@ vkcdnservice.appspot.com
 .rqpcgvey.com
 .rqtrk.eu
 .rqvahauofbdg.com
+.rqwel.com
 .rreauksofthecom.xyz
 .rrentlysearchi.info
 .rrfolvppqeg.com
@@ -28930,6 +28938,7 @@ vkcdnservice.appspot.com
 .uvbyty.com
 .uviticketway.com
 .uvoovoachee.com
+.uvrdhasvzal.com
 .uvsvlisbartwq.com
 .uvtuiks.com
 .uvwelvnydoy.com
@@ -28944,6 +28953,7 @@ vkcdnservice.appspot.com
 .uwrzjgtnur.com
 .uxdfxyepfow.xyz
 .uxdwhatijun.xyz
+.uxicgxqq.com
 .uxpascal.com
 .uxwnqppdma.com
 .uxxsiyokw.com
@@ -50421,8 +50431,8 @@ inapps.appsflyersdk.com
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-12-10 08:32:21 CET
-# entries:        1054
+# last updated:   2023-12-17 06:44:32 CET
+# entries:        1055
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 .1terms.com
@@ -50482,6 +50492,7 @@ inapps.appsflyersdk.com
 .analytics.nikkasystems.com
 .analytics.sunet.se
 .analytics.svt.se
+.analytics.undeco.se
 .analytics.ci-360.se
 .angry-golick-2a96e5.netlify.app
 .annons.svenskjakt.se
@@ -53062,6 +53073,9 @@ inapps.appsflyersdk.com
 .oryhic.xyz
 .phcrjth.xyz
 .ytjzqde.xyz
+.nbhixt.xyz
+.uphcrjth.xyz
+.bphcrjth.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
