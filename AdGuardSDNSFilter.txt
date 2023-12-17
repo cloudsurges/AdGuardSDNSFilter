@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-17 15:00:01·········数量:57750条·········增量:$[57750-$[57738-1]]条·········
+#·········更新时间:2023-12-17 16:00:01·········数量:57750条·········增量:$[57750-$[57752-1]]条·········
 .elwcchbwtnohia.com
 .bipidoan.com
 .aksleaj.com
