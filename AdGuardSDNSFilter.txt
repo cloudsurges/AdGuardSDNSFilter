@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-18 20:00:01·········数量:57828条·········增量:$[57828-$[57830-1]]条·········
+#·········更新时间:2023-12-18 21:00:01·········数量:57847条·········增量:$[57847-$[57830-1]]条·········
+.jenwyrjbvvlrl.top
 .elwcchbwtnohia.com
 .bipidoan.com
 .aksleaj.com
@@ -6935,6 +6936,7 @@ vkcdnservice.appspot.com
 .cbyiqsfp.com
 .cc-dt.com
 .cc5dce551d.com
+.cc72fceb4f.com
 .cc954a8da8.com
 .cca63f7d30.com
 .ccaahdancza.com
@@ -8523,6 +8525,7 @@ vkcdnservice.appspot.com
 .cythat.com
 .cytlbwfhbopqati.xyz
 .cytock.com
+.cyyhkeknmbe.com
 .czarhonoraryrunning.com
 .czboox.xyz
 .czechose.com
@@ -8962,6 +8965,7 @@ vkcdnservice.appspot.com
 .demonryinlaced.com
 .demonstrationbeth.com
 .demoteexplanation.com
+.demountglinted.life
 .demureanklesecond.com
 .demurerbewary.live
 .denansgdfier.info
@@ -14605,6 +14609,7 @@ vkcdnservice.appspot.com
 .imaginativebite.com
 .imaginestandingharvest.com
 .imalug.com
+.imathematica.org
 .imatrk.net
 .imatue.com
 .imbalmenvy.website
@@ -16275,6 +16280,7 @@ vkcdnservice.appspot.com
 .kornbulk1.com
 .koronacineole.life
 .korpeoe.com
+.korporatefinau.org
 .korrelate.net
 .korunabevy.com
 .kostprice.com
@@ -16601,6 +16607,7 @@ vkcdnservice.appspot.com
 .lcmbppikwtxujc.xyz
 .lcswbwinvhzm.com
 .lcvdvyqpewwhllt.com
+.lcwoewvvmhj.com
 .ld.myrciawaapa.com
 .ldehffofpeqr.com
 .ldforeyesheha.info
@@ -17661,6 +17668,7 @@ vkcdnservice.appspot.com
 .markreptiloid.com
 .markshospitalitymoist.com
 .marktworks.com
+.markxa.xyz
 .marlpitbucku.com
 .marormesole.com
 .marphezis.com
@@ -18041,6 +18049,7 @@ vkcdnservice.appspot.com
 .mgdbtjwc.com
 .mgdjmp.com
 .mghkpg.com
+.mgjgqztw.com
 .mgrattedropenrigh.xyz
 .mgtxdntxkx.com
 .mgyccfrshz.com
@@ -18273,6 +18282,7 @@ vkcdnservice.appspot.com
 .mneljcvkiwe.xyz
 .mnetads.com
 .mng-ads.com
+.mnhjk.com
 .mnnuhtvnubdg.xyz
 .mnodtbmmomqo.com
 .mnoglcfv.com
@@ -22865,6 +22875,7 @@ vkcdnservice.appspot.com
 .qgtastuxjdrrmc.com
 .qgxbluhsgad.com
 .qhdwjjhvgqa.com
+.qhiqlwcwguv.com
 .qhnwj.com
 .qhskskb.com
 .qhttxwlecujjfc.com
@@ -22934,6 +22945,7 @@ vkcdnservice.appspot.com
 .qppq166n.de
 .qprthjab.com
 .qpvbsekwtwsoe.com
+.qqgfubewassi.com
 .qqkcmafkxossru.com
 .qqkzjpupluv.com
 .qqlnvwjtjhve.com
@@ -24766,6 +24778,7 @@ vkcdnservice.appspot.com
 .scrivermoulded.life
 .scrogrearm.com
 .scrollisolation.com
+.scrollye.com
 .scrubheiress.com
 .scruis.com
 .scubaenterdane.com
@@ -28385,6 +28398,7 @@ vkcdnservice.appspot.com
 .ubilinkbin.com
 .ubish.com
 .uboungera.com
+.ubthyoitrr.com
 .ubuwwswnceqmjtg.xyz
 .ubygsworlow.com
 .ucationinin.info
@@ -29708,6 +29722,7 @@ vkcdnservice.appspot.com
 .vwl7kia4fzz6.com
 .vwlknjjt.com
 .vwqohlgfneusxy.com
+.vwswilfrveqzw.com
 .vwuyuahqf.com
 .vxlpuja.com
 .vxnbklwrctqbn.xyz
@@ -31392,6 +31407,7 @@ vkcdnservice.appspot.com
 .zayac2volk11.com
 .zazaruniri.com
 .zbnfhsk.com
+.zbvhwaakws.com
 .zcaadfl.com
 .zcekqwlqktzrfq.com
 .zcode12.me
@@ -45485,6 +45501,7 @@ inapps.appsflyersdk.com
 .ver-pelis.net
 .xclk-integracion.com
 .yestorrents.org
+.dpjrba.com
 .appcodedark.com
 .flyroll.ru
 .adstreamer.ru
@@ -53154,6 +53171,8 @@ inapps.appsflyersdk.com
 .alwaysc.com
 .vpqrydt.xyz
 .opszt.com
+.xvpqrydt.xyz
+.tvpqrydt.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
