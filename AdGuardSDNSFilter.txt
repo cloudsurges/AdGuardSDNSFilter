@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-19 02:00:01·········数量:57847条·········增量:$[57847-$[57849-1]]条·········
+#·········更新时间:2023-12-19 03:00:01·········数量:57880条·········增量:$[57880-$[57849-1]]条·········
+.decbusi.com
 .jenwyrjbvvlrl.top
 .elwcchbwtnohia.com
 .bipidoan.com
@@ -2532,6 +2533,7 @@ vkcdnservice.appspot.com
 .ab93t2kc.de
 .ab97114bda.com
 .abacaxiraptors.com
+.abamatoyer.com
 .abandonrecommendationwars.com
 .abange.com
 .abanicmasons.uno
@@ -6445,6 +6447,7 @@ vkcdnservice.appspot.com
 .budapebluest.com
 .buddedpetrie.space
 .buddhamoduli.com
+.buddlekroner.com
 .budroups.xyz
 .budsminepatent.com
 .budvawshes.ru
@@ -8256,6 +8259,7 @@ vkcdnservice.appspot.com
 .crazyhell.com
 .crazylead.com
 .crbbgate.com
+.crcgrilses.com
 .crdefault.link
 .crdefault1.com
 .creamssicsite.com
@@ -8484,6 +8488,7 @@ vkcdnservice.appspot.com
 .cvtfyyflrrkjsam.xyz
 .cvuvoljuqlkeuc.com
 .cvyimypsjxca.com
+.cwipbkyqhloajc.com
 .cwknqqsjgboycim.xyz
 .cwkuki.com
 .cwlvmsvmqqgzb.com
@@ -8712,6 +8717,7 @@ vkcdnservice.appspot.com
 .datingtoday.top
 .datingtopgirls.com
 .datingvr.ru
+.datlelrzvge.com
 .dattoswitches.com
 .daubierbatties.uno
 .daubingweekday.com
@@ -10033,6 +10039,7 @@ vkcdnservice.appspot.com
 .eagletskoku.com
 .eaglic.com
 .eaglid.com
+.eaglingauslaut.com
 .eajpryc.com
 .ealeo.com
 .eallywasnothy.com
@@ -12883,6 +12890,7 @@ vkcdnservice.appspot.com
 .glufoksy.com
 .glugherg.net
 .glugreez.com
+.glukropi.com
 .glum-bake.pro
 .glumdrawer.com
 .glumtitu.net
@@ -13989,6 +13997,7 @@ vkcdnservice.appspot.com
 .hmyuokltxplqwfa.com
 .hnkyxyknp.com
 .hnrgmc.com
+.hntkeiupbnoaeha.xyz
 .ho47no3iry.de
 .hoa44trk.com
 .hoabinoo.net
@@ -14195,6 +14204,7 @@ vkcdnservice.appspot.com
 .hreerfdfgourg.com.ua
 .hrhufhhay.com
 .hrogrpee.de
+.hrrlyfdnxlzxe.com
 .hrscompetepickles.com
 .hrscouchoutbreak.com
 .hrtennaarn.com
@@ -14507,6 +14517,7 @@ vkcdnservice.appspot.com
 .ignorant-union.pro
 .ignorantmethod.pro
 .ignorantrigidpreferred.com
+.ignoresphlorol.com
 .ignoringinconvenience.com
 .ignoringpromisingonce.com
 .igoognou.xyz
@@ -14672,6 +14683,7 @@ vkcdnservice.appspot.com
 .impatientlyastonishing.com
 .impatienttidy.com
 .impavidcircean.com
+.impavidmarsian.com
 .impeccablewriter.com
 .impededhaeing.com
 .impendingaggregated.com
@@ -14930,6 +14942,7 @@ vkcdnservice.appspot.com
 .insectclothe.com
 .insectsaw.com
 .insectsmanners.com
+.insecurepaint.pro
 .insensitiveintegertransactions.com
 .insertfend.com
 .inservinea.com
@@ -16043,6 +16056,7 @@ vkcdnservice.appspot.com
 .kfxkxyb.com
 .kgdvs9ov3l2aasw4nuts.com
 .kgfjrb711.com
+.kglqjacmqmns.com
 .kgnohpvawhef.com
 .kgqipyttin.com
 .kgroundandinte.net
@@ -16668,6 +16682,7 @@ vkcdnservice.appspot.com
 .leechdesperatelymidterm.com
 .leechiza.net
 .leegaroo.xyz
+.leesecobourg.com
 .leetaipt.net
 .leethalo.net
 .leetmedia.com
@@ -17216,6 +17231,7 @@ vkcdnservice.appspot.com
 .lp-preview.net
 .lp247p.com
 .lpaqjnfmxftqfx.com
+.lpausaiverbene.com
 .lpawakkabpho.com
 .lpeqztx.com
 .lpetooopz.com
@@ -17889,6 +17905,7 @@ vkcdnservice.appspot.com
 .medicineflogaccumulate.com
 .mediuln.com
 .medleyads.com
+.medoofty.com
 .medusasglance.com
 .medyanetads.com
 .meebofoo.com
@@ -17915,6 +17932,7 @@ vkcdnservice.appspot.com
 .megdexchange.com
 .meghis.com
 .megmobpoi.club
+.megnotch.xyz
 .megrezvans.guru
 .meharisgrabs.com
 .mehebborc.com
@@ -18679,6 +18697,7 @@ vkcdnservice.appspot.com
 .musicalbilateral.com
 .musicalglutton.com
 .musicnote.info
+.muskatarsenal.com
 .musmentportal.com
 .musselchangeableskier.com
 .musselregimentcharles.com
@@ -18785,6 +18804,7 @@ vkcdnservice.appspot.com
 .mywondertrip.com
 .myxlyajuhsjiwsp.com
 .myxozilla.icu
+.myyhvsekloyvul.com
 .mziso.xyz
 .mznbrazfty.com
 .mzol7lbm.com
@@ -19463,6 +19483,7 @@ vkcdnservice.appspot.com
 .npcta.xyz
 .npdyxhvefuqkj.xyz
 .npjhdunxxfhwgtv.com
+.npkzqlhtecxx.com
 .npracticalwhic.buzz
 .npracticalwhich.com
 .npugpilraku.com
@@ -20949,6 +20970,7 @@ vkcdnservice.appspot.com
 .paulty.com
 .paurozel.net
 .pausairiatas.guru
+.pausaiverbene.com
 .paushaisie.com
 .paushoow.net
 .pausingeoedb.com.ua
@@ -23526,6 +23548,7 @@ vkcdnservice.appspot.com
 .registercanoeinvaded.com
 .registercherryheadquarter.com
 .regizm.com
+.reglowsupbar.com
 .regmacimbia.com
 .regnumyelp.digital
 .regott.com
@@ -23571,6 +23594,7 @@ vkcdnservice.appspot.com
 .relativefraudulentprop.com
 .relativelyweptcurls.com
 .relativewheneverhoe.com
+.relatumrorid.com
 .relaxespawner.space
 .relaxkubera.tech
 .relaxtime24.biz
@@ -24335,6 +24359,7 @@ vkcdnservice.appspot.com
 .rufadses.net
 .rufflycouncil.com
 .ruftodru.net
+.rugaetieback.com
 .rugiomyh2vmr.com
 .rugnullsspecimens.com
 .ruineddefectivecurb.com
@@ -24936,6 +24961,7 @@ vkcdnservice.appspot.com
 .semsicou.net
 .semupgrjbnlhi.com
 .semwtaanx.xyz
+.senecaanoles.com
 .sength.com
 .senonsiatinus.com
 .sensefifth.com
@@ -25685,6 +25711,7 @@ vkcdnservice.appspot.com
 .snebbubbled.com
 .sneezeinterview.com
 .snicherchitra.space
+.snidethereto.com
 .snipersex.com
 .snippystowstool.com
 .snippyteevee.com
@@ -27018,6 +27045,7 @@ vkcdnservice.appspot.com
 .teachmewind.com
 .teads.tv
 .teaismonless.com
+.tealsgenevan.com
 .teamantacket.com
 .teambetaffiliates.com
 .teamsmarched.com
@@ -28534,6 +28562,7 @@ vkcdnservice.appspot.com
 .ulmoyc.com
 .ulmpyqgfqkffe.com
 .ulmujev.com
+.ulnhlnsw.com
 .ulnidkdlaxclpo.com
 .uloadeeksurvey.space
 .uloaludu.xyz
@@ -28697,6 +28726,7 @@ vkcdnservice.appspot.com
 .unjoincaper.com
 .unjointbobbed.com
 .unkemptsodio.digital
+.unkinpigsty.com
 .unkistwilily.digital
 .unlawful-clock.pro
 .unlawful-inspector.com
@@ -29818,6 +29848,7 @@ vkcdnservice.appspot.com
 .wanmolamchoor.store
 .wannessdebus.com
 .wannestfooled.com
+.wanodtbfif.com
 .wansultoud.com
 .want-s0me-push.net
 .want-some-push.net
@@ -52259,6 +52290,7 @@ inapps.appsflyersdk.com
 .aknkvallbfml.com
 .albsgdq.cn
 .alchemeeten.com
+.alwaysc.com
 .ameidj.xyz
 .amxk.top
 .anhlnnm.cn
@@ -52268,6 +52300,7 @@ inapps.appsflyersdk.com
 .apvnzvg.xyz
 .aqburrae.xyz
 .aqiemc.xyz
+.aqwsms.xyz
 .ar611.xyz
 .arbbj6.com
 .asfybkiy.xyz
@@ -52289,6 +52322,7 @@ inapps.appsflyersdk.com
 .bbfnrn.xyz
 .bbrnpj.xyz
 .bcovazp.icu
+.bcqnbge.cn
 .bctxtl.xyz
 .bdlexn.xyz
 .bdzdd2-sdd53-vxc.com
@@ -52320,6 +52354,7 @@ inapps.appsflyersdk.com
 .brorzpj.cn
 .btfjjwt.xyz
 .bthypgm.cn
+.bvpqrydt.xyz
 .bxbyll.xyz
 .bydcxdy.cn
 .bzbopfh.cn
@@ -52376,6 +52411,7 @@ inapps.appsflyersdk.com
 .djiuss.cn
 .djponj.xyz
 .dkvakldvnsv.com
+.dotuij.top
 .dpj0uvy.icu
 .dqlfabc.cn
 .dqzehgha.xyz
@@ -52436,6 +52472,7 @@ inapps.appsflyersdk.com
 .fenem.top
 .fepmpify.xyz
 .fgcxdr.cn
+.fghhbp.xyz
 .fgttbz.xyz
 .fguhyg.cn
 .fgukchz.icu
@@ -52582,6 +52619,7 @@ inapps.appsflyersdk.com
 .ikmhndd.com
 .iknhgj.com
 .ileled.xyz
+.ilph0.icu
 .imrvyop.cn
 .imxsvpxe.xyz
 .insfengdata.com
@@ -52656,11 +52694,13 @@ inapps.appsflyersdk.com
 .kqbrgl.icu
 .kqvvqv.icu
 .kqwerp.top
+.kreisis.top
 .kshrsf.icu
 .ksrgsc.xyz
 .ktvtxir.xyz
 .kvhee.com
 .kvhtsvy.xyz
+.kvpqrydt.xyz
 .kvskknklssv.com
 .kvsvug.xyz
 .kwtgntyu.xyz
@@ -52746,6 +52786,7 @@ inapps.appsflyersdk.com
 .muycpg.xyz
 .muyxmmz.cn
 .mvng.cn
+.mvpqrydt.xyz
 .mwfyab.icu
 .myyxox.icu
 .mzthbna.xyz
@@ -52800,6 +52841,7 @@ inapps.appsflyersdk.com
 .oouiqi.xyz
 .operqr.top
 .oprece.xyz
+.opszt.com
 .oq8.top
 .orbxiul.xyz
 .orssengseen.com
@@ -52823,6 +52865,7 @@ inapps.appsflyersdk.com
 .pidurrmu.xyz
 .pipc.top
 .pirubcfy.xyz
+.plnrkgc.xyz
 .pobrpr.xyz
 .poiwer.com
 .ppenid.xyz
@@ -52962,6 +53005,7 @@ inapps.appsflyersdk.com
 .ttgjwxp.icu
 .tunovl.xyz
 .tuvixr.xyz
+.tvpqrydt.xyz
 .twlmq.space
 .txzepl.xyz
 .tybmbbgu.xyz
@@ -52990,6 +53034,7 @@ inapps.appsflyersdk.com
 .uskoie.xyz
 .usxuyr.icu
 .uuzsfpju.xyz
+.uvpqrydt.xyz
 .uwerpyh.cn
 .uwfxvvm.cn
 .uzrxoxd.xyz
@@ -53025,8 +53070,10 @@ inapps.appsflyersdk.com
 .vizhtd.xyz
 .vjnxpj.xyz
 .vjzjpt.xyz
+.vljjtj.xyz
 .vozftn.xyz
 .vpqko.fun
+.vpqrydt.xyz
 .vrdxznr.xyz
 .vrivslffndepxqd.xyz
 .vrnblp.xyz
@@ -53089,6 +53136,7 @@ inapps.appsflyersdk.com
 .xrrhwgj.xyz
 .xucyufv.icu
 .xvorpqz.cn
+.xvpqrydt.xyz
 .xvzfyra.xyz
 .xxfphsg.cn
 .xxkswdf.icu
@@ -53145,6 +53193,7 @@ inapps.appsflyersdk.com
 .zmfcnlvu.xyz
 .zndvfrl.xyz
 .znwzcmd.cn
+.zotcjeig.xyz
 .zpvfsrb.xyz
 .zpvuugw.cn
 .zpzlbv.xyz
@@ -53157,22 +53206,6 @@ inapps.appsflyersdk.com
 .zzbmxl.xyz
 .zzyy17.top
 .zzyy18.top
-.ilph0.icu
-.bcqnbge.cn
-.plnrkgc.xyz
-.kvpqrydt.xyz
-.aqwsms.xyz
-.zotcjeig.xyz
-.vljjtj.xyz
-.fghhbp.xyz
-.uvpqrydt.xyz
-.dotuij.top
-.bvpqrydt.xyz
-.alwaysc.com
-.vpqrydt.xyz
-.opszt.com
-.xvpqrydt.xyz
-.tvpqrydt.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
