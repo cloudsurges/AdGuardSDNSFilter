@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-18 14:00:01·········数量:57822条·········增量:$[57822-$[57824-1]]条·········
+#·········更新时间:2023-12-18 15:00:01·········数量:57828条·········增量:$[57828-$[57824-1]]条·········
 .elwcchbwtnohia.com
 .bipidoan.com
 .aksleaj.com
@@ -53148,6 +53148,12 @@ inapps.appsflyersdk.com
 .zotcjeig.xyz
 .vljjtj.xyz
 .fghhbp.xyz
+.uvpqrydt.xyz
+.dotuij.top
+.bvpqrydt.xyz
+.alwaysc.com
+.vpqrydt.xyz
+.opszt.com
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
