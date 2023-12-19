@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-19 20:00:01·········数量:57899条·········增量:$[57899-$[57901-1]]条·········
+#·········更新时间:2023-12-19 21:00:01·········数量:57903条·········增量:$[57903-$[57901-1]]条·········
 .ovkamwvdof.com
 .groacoaz.com
 .stepchateautolerance.com
@@ -50547,8 +50547,8 @@ inapps.appsflyersdk.com
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-12-17 06:44:32 CET
-# entries:        1055
+# last updated:   2023-12-19 12:26:29 CET
+# entries:        1056
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 .1terms.com
@@ -50909,6 +50909,7 @@ inapps.appsflyersdk.com
 .tourn.se
 .tr.apsisforms.com
 .track.postkodlotteriet.se
+.track.yetric.app
 .tracker.zummycloud.com
 .tracker-v4.gamedock.io
 .tracker.kollega.open-analytics.se
@@ -53225,6 +53226,9 @@ inapps.appsflyersdk.com
 .rsvvfx.xyz
 .hznaxah.cn
 .uuxfznnf.xyz
+.buxfznnf.xyz
+.tatyboy.top
+.sdjbcjsbdjk.com
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
