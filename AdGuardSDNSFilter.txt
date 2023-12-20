@@ -1,5 +1,16 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-20 08:00:01·········数量:57934条·········增量:$[57934-$[57936-1]]条·········
+#·········更新时间:2023-12-20 09:00:01·········数量:57955条·········增量:$[57955-$[57936-1]]条·········
+.xblonthyc.com
+.nfuwpyx.com
+.esbqetmmejjtksa.xyz
+.efumesok.xyz
+.wutseelo.xyz
+.urpctsrjilp.com
+.mvgzwamfvkw.com
+.yjrchhgs.com
+.fvzhenljkw.com
+.yrhdmalrfr.com
+.accuracyswede.com
 .ovkamwvdof.com
 .groacoaz.com
 .stepchateautolerance.com
@@ -22649,6 +22660,7 @@ vkcdnservice.appspot.com
 .puitaexb.com
 .pujuco.uno
 .pulayanyet.com
+.puldhukelpmet.com
 .pulfrnaewqrkuqg.com
 .pullcattishwidth.com
 .pulpix.com
@@ -24204,6 +24216,7 @@ vkcdnservice.appspot.com
 .rooptuph.xyz
 .roosteem.net
 .rootzaffiliates.com
+.ropeanresu.com
 .ropedsawwort.com
 .ropemoon.com
 .ropesunfamiliar.com
@@ -53260,6 +53273,14 @@ inapps.appsflyersdk.com
 .zzbmxl.xyz
 .zzyy17.top
 .zzyy18.top
+.kdh095.cn
+.yv8zs.online
+.nnrbyty.xyz
+.dfninp.xyz
+.feakio.top
+.kafuzcxr.xyz
+.redyzlmc.xyz
+.efalid.top
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
