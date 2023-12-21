@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-21 07:00:01·········数量:58140条·········增量:$[58140-$[58142-1]]条·········
+#·········更新时间:2023-12-21 08:00:01·········数量:58140条·········增量:$[58140-$[58142-1]]条·········
 .xblonthyc.com
 .nfuwpyx.com
 .esbqetmmejjtksa.xyz
