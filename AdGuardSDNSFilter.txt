@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-22 14:00:01·········数量:58229条·········增量:$[58229-$[58231-1]]条·········
+#·········更新时间:2023-12-22 15:00:01·········数量:58232条·········增量:$[58232-$[58231-1]]条·········
 .ad.tradertimerz.media
 .xblonthyc.com
 .nfuwpyx.com
@@ -32559,6 +32559,7 @@ vkcdnservice.appspot.com
 .cpfclassifieds.com
 .cpm.media
 .cpmleader.com
+.crazyrocket.io
 .crispads.com
 .croea.com
 .cryptoads.space
@@ -45594,7 +45595,6 @@ inapps.appsflyersdk.com
 .megadata.co.kr
 .ngc1.nsm-corp.com
 .performanceplay.co.kr
-.pxl.retaku.net
 .sas.nsm-corp.com
 .counter.hackers.lv
 .cis.schibsted.com
@@ -53556,6 +53556,9 @@ inapps.appsflyersdk.com
 .kycxhgrp.xyz
 .lmrhhn.xyz
 .ghreha.top
+.1234good.com
+.uycxhgrp.xyz
+.huryds.top
 .zzyy20.top
 .01v62.xyz
 .027dir.com
