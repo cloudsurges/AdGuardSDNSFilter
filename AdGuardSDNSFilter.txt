@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-22 20:00:01·········数量:58232条·········增量:$[58232-$[58234-1]]条·········
+#·········更新时间:2023-12-22 21:00:01·········数量:58254条·········增量:$[58254-$[58234-1]]条·········
 .ad.tradertimerz.media
 .xblonthyc.com
 .nfuwpyx.com
@@ -1713,6 +1713,7 @@ vkcdnservice.appspot.com
 .181m2fscr.de
 .1847ff24f9.com
 .184c4i95p.de
+.18788fdb24.com
 .18tlm4jee.de
 .19273817.com
 .194ac5b0e3.com
@@ -2410,6 +2411,7 @@ vkcdnservice.appspot.com
 .9001476746.com
 .90935ff0ea.com
 .90f2a627a3.com
+.91199a.xyz
 .9159f9a13d.com
 .91cd3khn.de
 .92245a1d7e.com
@@ -5037,6 +5039,7 @@ vkcdnservice.appspot.com
 .azulcw7.com
 .azwkjjkmbqavv.top
 .azxdkucizr.com
+.azxhlzxmrqc.com
 .b-5-shield.com
 .b-m.xyz
 .b014381c95cb.com
@@ -5923,6 +5926,7 @@ vkcdnservice.appspot.com
 .bldvxzxdpsrjla.com
 .bleaksheinz.com
 .bleandworld.xyz
+.bleandworldw.org
 .bleatflirtengland.com
 .bleedingofficecontagion.com
 .blehcourt.com
@@ -6673,6 +6677,7 @@ vkcdnservice.appspot.com
 .byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
 .byvpezdzmpureo.com
 .bywntfg.com
+.byxcbixzvjclxz.com
 .byyanmaor.com
 .byzkrjamkqbal.top
 .byzkrjamkqyjr.top
@@ -10778,6 +10783,7 @@ vkcdnservice.appspot.com
 .eooslfyhziubo.com
 .eopleshouldt.info
 .eoredi.com
+.eorganizatio.com
 .eosads.com
 .eoseurlingeringonl.xyz
 .eoseurlingeringont.com.ua
@@ -13418,6 +13424,7 @@ vkcdnservice.appspot.com
 .growthbuddy.app
 .grozeesh.com
 .grqjpukbyvypq.xyz
+.grrngjxqno.com
 .grsm.io
 .grt02.com
 .grtaanmdu.com
@@ -15989,6 +15996,7 @@ vkcdnservice.appspot.com
 .jvbzzmnjeznrw.top
 .jvnvrqzvyvbmv.top
 .jvnvrqzvyvbww.top
+.jvnvrqzvyveqj.top
 .jvnydntynmru.com
 .jvrawodh.com
 .jvsffrjutsax.com
@@ -17621,6 +17629,7 @@ vkcdnservice.appspot.com
 .ma3ryh8l6v.de
 .maaphdiwuoetl.com
 .maboazolsamp.com
+.mabolmvcuo.com
 .mabtcaraqdho.com
 .macan-native.com
 .macaronibackachebeautify.com
@@ -18473,6 +18482,7 @@ vkcdnservice.appspot.com
 .mnetads.com
 .mng-ads.com
 .mnhjk.com
+.mniumlapsers.com
 .mnnuhtvnubdg.xyz
 .mnodtbmmomqo.com
 .mnoglcfv.com
@@ -20018,6 +20028,7 @@ vkcdnservice.appspot.com
 .oddsserve.com
 .odeerofhisk.xyz
 .odipjwipwwyus.xyz
+.odlyccugg.com
 .odnaknopka.ru
 .odnaturedfe.org
 .odoursguard.website
@@ -21868,6 +21879,7 @@ vkcdnservice.appspot.com
 .plkoxaypcmzkus.com
 .pllah.com
 .plmhezvbcjcywo.com
+.plmwsl.com
 .plntxgh.com
 .plocap.com
 .plodpicture.com
@@ -23110,6 +23122,7 @@ vkcdnservice.appspot.com
 .qhnwj.com
 .qhskskb.com
 .qhttxwlecujjfc.com
+.qhuguzodbd.com
 .qibkkioqqw.com
 .qickazzmoaxv.com
 .qimwsxukxwnhba.xyz
@@ -29975,6 +29988,7 @@ vkcdnservice.appspot.com
 .vuftouks.com
 .vugnubier.com
 .vujriahqyleveh.com
+.vukpwyvge.com
 .vulgarmilletappear.com
 .vulguspyemic.com
 .vulnerableordered.com
@@ -30779,6 +30793,7 @@ vkcdnservice.appspot.com
 .woeefpxz.com
 .woeentre.guru
 .woejh.com
+.wofqzuwtkxw.com
 .wofulsensism.com
 .wogglehydrae.com
 .wokenoptionalcohabit.com
@@ -31279,6 +31294,7 @@ vkcdnservice.appspot.com
 .xvvsnnciengskyx.xyz
 .xvwebllndr.com
 .xwagtyhujov.com
+.xwcfvvnegv.com
 .xwlketvkzf.com
 .xwqea.com
 .xwqvytuiko.com
@@ -34976,6 +34992,8 @@ vkcdnservice.appspot.com
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.t.arcade.show
+.pxl.retaku.net
 .extrawatch.com
 .ga.getresponse.com
 .t.fastcmp.com
@@ -50835,8 +50853,8 @@ inapps.appsflyersdk.com
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-12-20 10:16:35 CET
-# entries:        1057
+# last updated:   2023-12-22 07:55:14 CET
+# entries:        1059
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 .1terms.com
@@ -53559,6 +53577,10 @@ inapps.appsflyersdk.com
 .1234good.com
 .uycxhgrp.xyz
 .huryds.top
+.bycxhgrp.xyz
+.liujiahao6.cn
+.xycxhgrp.xyz
+.tycxhgrp.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
