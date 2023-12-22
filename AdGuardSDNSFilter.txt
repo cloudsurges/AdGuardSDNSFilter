@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-22 08:00:01·········数量:58220条·········增量:$[58220-$[58222-1]]条·········
+#·········更新时间:2023-12-22 09:00:01·········数量:58229条·········增量:$[58229-$[58222-1]]条·········
 .ad.tradertimerz.media
 .xblonthyc.com
 .nfuwpyx.com
@@ -38499,6 +38499,7 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.track.linksynergy.com
 .tracking.epicgames.com
 .tracking.fortnite.com
 .log.znews.vn
@@ -53547,6 +53548,14 @@ inapps.appsflyersdk.com
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
+.aokkwzg.cn
+.gunepszy.xyz
+.zomcz.cyou
+.ezeqcy.xyz
+.qxzlmzt.xyz
+.kycxhgrp.xyz
+.lmrhhn.xyz
+.ghreha.top
 .zzyy20.top
 .01v62.xyz
 .027dir.com
