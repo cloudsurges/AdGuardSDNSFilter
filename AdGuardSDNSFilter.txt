@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-23 20:00:01·········数量:58315条·········增量:$[58315-$[58317-1]]条·········
+#·········更新时间:2023-12-23 21:00:01·········数量:58317条·········增量:$[58317-$[58317-1]]条·········
 .elfnxscnmtao.com
 .putfeablean.org
 .oyoperseduca.com
@@ -53640,6 +53640,8 @@ inapps.appsflyersdk.com
 .ipryes.top
 .bekmhvbb.xyz
 .xoojqxh.icu
+.xekmhvbb.xyz
+.tekmhvbb.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
