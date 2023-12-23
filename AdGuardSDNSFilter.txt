@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-24 03:00:01·········数量:58334条·········增量:$[58334-$[58319-1]]条·········
+#·········更新时间:2023-12-24 04:00:01·········数量:58334条·········增量:$[58334-$[58336-1]]条·········
 .elfnxscnmtao.com
 .etxahpe.com
 .kbadguhvqig.xyz
