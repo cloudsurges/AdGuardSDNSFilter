@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-23 07:00:01·········数量:58279条·········增量:$[58279-$[58281-1]]条·········
+#·········更新时间:2023-12-23 08:00:01·········数量:58279条·········增量:$[58279-$[58281-1]]条·········
 .ynfsiosdt.com
 .poanouwy.net
 .clopembira.website
