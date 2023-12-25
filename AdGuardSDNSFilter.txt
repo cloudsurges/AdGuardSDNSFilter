@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-25 08:00:01·········数量:58377条·········增量:$[58377-$[58379-1]]条·········
+#·········更新时间:2023-12-25 09:00:01·········数量:58384条·········增量:$[58384-$[58379-1]]条·········
 .elfnxscnmtao.com
 .etxahpe.com
 .kbadguhvqig.xyz
@@ -53702,6 +53702,13 @@ inapps.appsflyersdk.com
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
+.kjappzvz.xyz
+.hapqncfg.xyz
+.zd0.top
+.bqxexj.xyz
+.3hufi.site
+.owyame.xyz
+.arhnuin.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
