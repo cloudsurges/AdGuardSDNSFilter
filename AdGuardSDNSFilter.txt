@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-25 21:00:01·········数量:58412条·········增量:$[58412-$[58399-1]]条·········
+#·········更新时间:2023-12-25 22:00:01·········数量:58412条·········增量:$[58412-$[58414-1]]条·········
 .socde.com
 .elfnxscnmtao.com
 .etxahpe.com
