@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-25 20:00:01·········数量:58397条·········增量:$[58397-$[58399-1]]条·········
+#·········更新时间:2023-12-25 21:00:01·········数量:58412条·········增量:$[58412-$[58399-1]]条·········
+.socde.com
 .elfnxscnmtao.com
 .etxahpe.com
 .kbadguhvqig.xyz
@@ -5209,6 +5210,7 @@ vkcdnservice.appspot.com
 .baltchd.net
 .balvalur.com
 .bam-bam-slam.com
+.bamahseines.com
 .bambao.lol
 .bambarmedia.com
 .banagonatural.tech
@@ -6357,6 +6359,7 @@ vkcdnservice.appspot.com
 .briefengineer.pro
 .brieflizard.com
 .brighteroption.com
+.brighthunter.best
 .brightonclick.com
 .brightshare.com
 .brikinhpaxk.com
@@ -8571,6 +8574,7 @@ vkcdnservice.appspot.com
 .cwvfikunas.com
 .cwwvbqwexbitnb.xyz
 .cxafxdkmusqxsa.xyz
+.cxhqpbwmyfskzt.com
 .cxiebfdqydf.com
 .cxkhadk.com
 .cxmnsbrbdmxoyd.com
@@ -8609,6 +8613,7 @@ vkcdnservice.appspot.com
 .czboox.xyz
 .czechose.com
 .czedgingtenges.com
+.czfyaemtweo.com
 .czglcxlh.com
 .czh5aa.xyz
 .czyoxhxufpm.com
@@ -10963,6 +10968,7 @@ vkcdnservice.appspot.com
 .etretantothis.com
 .ettilt.com
 .ettjvrjujt.xyz
+.etyequiremu.org
 .euahvyde.xyz
 .eucing.com
 .eucleu.com
@@ -13457,6 +13463,7 @@ vkcdnservice.appspot.com
 .grunoaph.net
 .gruponn.com
 .grussreenter.com
+.gruvirxita.com
 .gruwalom.xyz
 .grygrothapi.pro
 .gsclvurjec.xyz
@@ -16588,6 +16595,7 @@ vkcdnservice.appspot.com
 .kwkkxztnjbr.com
 .kwnmhplnqnfxh.xyz
 .kwqelx.com
+.kwqgprdmmwxyhb.com
 .kwtnhdrmbx.com
 .kwyuivlaychxe.com
 .kxfwgqkuojcq.com
@@ -19474,6 +19482,7 @@ vkcdnservice.appspot.com
 .niltibse.net
 .nimhuemark.com
 .nimrute.com
+.ninanceenab.com
 .nineanguish.com
 .nineteenthdipper.com
 .ninetyninesec.com
@@ -22879,6 +22888,7 @@ vkcdnservice.appspot.com
 .puddingamass.com
 .puddingdefeated.com
 .puddleincidentally.com
+.pudencygletty.com
 .pudrardu.net
 .pueber.com
 .pueral.com
@@ -28804,6 +28814,7 @@ vkcdnservice.appspot.com
 .uduhytyllobm.com
 .udwgzninhil.com
 .ueaynogiwgqr.com
+.uedvxswwfub.com
 .uejntsxdffp.com
 .uekish.com
 .uel-uel-fie.com
@@ -29490,6 +29501,7 @@ vkcdnservice.appspot.com
 .vampedcortine.com
 .vampersmutuary.com
 .vampersogmic.com
+.vampersyacal.com
 .vamsoupowoa.com
 .vancip.com
 .vandalismblackboard.com
@@ -30066,6 +30078,7 @@ vkcdnservice.appspot.com
 .vtsyqikqnrfmaye.com
 .vttyjakvvdce.com
 .vtveyowwjvz.com
+.vtvkkbasfm.com
 .vtzkyckmdcecs.com
 .vubihowhe.com
 .vudoutch.com
@@ -53722,6 +53735,8 @@ inapps.appsflyersdk.com
 .ujappzvz.xyz
 .tipl.top
 .bjappzvz.xyz
+.xjappzvz.xyz
+.tjappzvz.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
