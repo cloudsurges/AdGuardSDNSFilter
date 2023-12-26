@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-26 08:00:01·········数量:58414条·········增量:$[58414-$[58416-1]]条·········
+#·········更新时间:2023-12-26 09:00:01·········数量:58423条·········增量:$[58423-$[58416-1]]条·········
 .socde.com
 .elfnxscnmtao.com
 .etxahpe.com
@@ -42819,6 +42819,7 @@ inapps.appsflyersdk.com
 .castcream.com
 .catalogdiscovery.com
 .catschickens.com
+.cattlecommittee.com
 .cautiouscamera.com
 .cautiouscherries.com
 .cautiouscrate.com
@@ -53738,6 +53739,14 @@ inapps.appsflyersdk.com
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
+.xiaobizaizi1.top
+.kiiepofl.xyz
+.jazftz.xyz
+.rjlfolk.xyz
+.nahgvfhs.xyz
+.7vnkf.online
+.daslethv.com
+.iiwoqm.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
