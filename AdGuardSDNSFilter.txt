@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-26 14:00:01·········数量:58423条·········增量:$[58423-$[58425-1]]条·········
+#·········更新时间:2023-12-26 15:00:01·········数量:58431条·········增量:$[58431-$[58425-1]]条·········
 .socde.com
 .elfnxscnmtao.com
 .etxahpe.com
@@ -50963,8 +50963,8 @@ inapps.appsflyersdk.com
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-12-22 07:55:14 CET
-# entries:        1059
+# last updated:   2023-12-26 06:18:49 CET
+# entries:        1060
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 .1terms.com
@@ -51145,6 +51145,7 @@ inapps.appsflyersdk.com
 .fusion.bonniertidskrifter.se
 .gamblingsyndication.com
 .girohjalm.com.se
+.gtm.allabolag.se
 .gtm.findroommate.dk
 .gtm.proff.se
 .gtm.stampenmedia.se
@@ -53747,6 +53748,13 @@ inapps.appsflyersdk.com
 .7vnkf.online
 .daslethv.com
 .iiwoqm.xyz
+.lkuygf.top
+.uiiepofl.xyz
+.hscnpk86.shop
+.maxunn55.top
+.maxucc77.top
+.zu2.top
+.biiepofl.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
