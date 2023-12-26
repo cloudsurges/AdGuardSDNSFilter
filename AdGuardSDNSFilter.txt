@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-26 19:00:01·········数量:58431条·········增量:$[58431-$[58433-1]]条·········
+#·········更新时间:2023-12-26 20:00:01·········数量:58436条·········增量:$[58436-$[58433-1]]条·········
+.pepapigg.xyz
 .socde.com
 .elfnxscnmtao.com
 .etxahpe.com
@@ -41755,7 +41756,6 @@ inapps.appsflyersdk.com
 .datazoom.io
 .ddm.io
 .deadlinefunnel.com
-.debugbear.com
 .deep-content.io
 .deepattention.com
 .deepchannel.com
@@ -53755,6 +53755,11 @@ inapps.appsflyersdk.com
 .maxucc77.top
 .zu2.top
 .biiepofl.xyz
+.xiiepofl.xyz
+.055g.com
+.lkenflknkd.com
+.iossdok.com
+.tiiepofl.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
