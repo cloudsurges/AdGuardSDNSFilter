@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-27 08:00:01·········数量:58457条·········增量:$[58457-$[58459-1]]条·········
+#·········更新时间:2023-12-27 09:00:01·········数量:58467条·········增量:$[58467-$[58459-1]]条·········
 .pepapigg.xyz
 .socde.com
 .elfnxscnmtao.com
@@ -3947,6 +3947,7 @@ vkcdnservice.appspot.com
 .ameedbezique.uno
 .amelatrina.com
 .amendablepartridge.com
+.amendsgeneralize.com
 .amenityleisurelydays.com
 .amenityremorse.com
 .ameofmuki.info
@@ -11917,6 +11918,7 @@ vkcdnservice.appspot.com
 .flipool.com
 .flixcontentshop.com
 .flixdot.com
+.flixtrial.com
 .flmfcox.com
 .flneurtoyed.tech
 .flnxcveswar.com
@@ -45637,6 +45639,7 @@ inapps.appsflyersdk.com
 .atanx.alicdn.com
 .beacon.sina.com.cn
 .beaconcdn.qq.com
+.busuanzi.ibruce.info
 .click.bokecc.com
 .cms.grandcloud.cn
 .collector2c.zhihuishu.com
@@ -53781,6 +53784,13 @@ inapps.appsflyersdk.com
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
+.dfg6.top
+.dbpxivi.xyz
+.1sk27.fun
+.koqsxdpx.xyz
+.jkbdpp.xyz
+.wqnwdjjc.xyz
+.uuuzuu.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
