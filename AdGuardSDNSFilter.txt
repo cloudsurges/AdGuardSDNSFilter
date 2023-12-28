@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-29 06:00:01·········数量:58593条·········增量:$[58593-$[58595-1]]条·········
+#·········更新时间:2023-12-29 07:00:01·········数量:58593条·········增量:$[58593-$[58595-1]]条·········
 .someonein.org
 .mentswithde.com
 .ficvekayfkrm.com
