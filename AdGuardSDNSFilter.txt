@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-28 14:00:01·········数量:58558条·········增量:$[58558-$[58560-1]]条·········
+#·········更新时间:2023-12-28 15:00:01·········数量:58564条·········增量:$[58564-$[58560-1]]条·········
 .someonein.org
 .mentswithde.com
 .ficvekayfkrm.com
@@ -53882,6 +53882,12 @@ inapps.appsflyersdk.com
 .ptppcyg.xyz
 .fqfclmlo.xyz
 .lwdcnz.xyz
+.kkosiso.com
+.uuishsa.com
+.unfhxszj.xyz
+.6969aa.cn
+.s019.com
+.bnfhxszj.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
