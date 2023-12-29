@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-29 14:00:01·········数量:58607条·········增量:$[58607-$[58609-1]]条·········
+#·········更新时间:2023-12-29 15:00:01·········数量:58616条·········增量:$[58616-$[58609-1]]条·········
 .fipkcakk.com
 .hooglidi.net
 .ixxljgh.com
@@ -53931,6 +53931,15 @@ inapps.appsflyersdk.com
 .5q7eb.website
 .ktnwxhjv.xyz
 .blthwbe.xyz
+.refcjn.xyz
+.xeazoj.icu
+.sfqyck.xyz
+.ogxstqna.xyz
+.bkxuprh.cn
+.xvbnrh.xyz
+.utnwxhjv.xyz
+.djcnetb.icu
+.btnwxhjv.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
