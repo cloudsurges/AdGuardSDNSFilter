@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-29 17:00:01·········数量:58616条·········增量:$[58616-$[58618-1]]条·········
+#·········更新时间:2023-12-29 18:00:01·········数量:58616条·········增量:$[58616-$[58618-1]]条·········
 .fipkcakk.com
 .hooglidi.net
 .ixxljgh.com
