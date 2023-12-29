@@ -1,5 +1,15 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-29 08:00:01·········数量:58593条·········增量:$[58593-$[58595-1]]条·········
+#·········更新时间:2023-12-29 09:00:01·········数量:58607条·········增量:$[58607-$[58595-1]]条·········
+.fipkcakk.com
+.hooglidi.net
+.ixxljgh.com
+.anythingamg.org
+.ignamentswit.com
+.vohqpgsdn.xyz
+.xfguylptuqw.com
+.nnjisvdxaoet.com
+.greekroo.xyz
+.ut13r.site
 .someonein.org
 .mentswithde.com
 .ficvekayfkrm.com
@@ -1235,6 +1245,7 @@
 .adrunnr.com
 .samsungtvads.com
 .adconsent.samsungrs.com
+.d3qvcyf9oa6vhw.cloudfront.net
 .d264dxqvolp03e.cloudfront.net
 .d2ovgc4ipdt6us.cloudfront.net
 .d1zw8evbrw553l.cloudfront.net
@@ -14277,7 +14288,6 @@ vkcdnservice.appspot.com
 .hoodcapunbane.digital
 .hoofexcessively.com
 .hoogajee.net
-.hooglidi.net
 .hoojique.xyz
 .hookawep.net
 .hookersecus.com
@@ -32761,6 +32771,7 @@ vkcdnservice.appspot.com
 .clixtrac.com
 .clkmg.com
 .cluep.com
+.codegown.care
 .cogocast.net
 .coguan.com
 .coinads.io
@@ -53917,6 +53928,9 @@ inapps.appsflyersdk.com
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
+.5q7eb.website
+.ktnwxhjv.xyz
+.blthwbe.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
