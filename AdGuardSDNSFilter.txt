@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-30 08:00:01·········数量:58655条·········增量:$[58655-$[58657-1]]条·········
+#·········更新时间:2023-12-30 09:00:01·········数量:58667条·········增量:$[58667-$[58657-1]]条·········
 .fnrbulqws.com
 .ptompeer.net
 .neintheworld.org
@@ -9575,6 +9575,7 @@ vkcdnservice.appspot.com
 .divedresign.com
 .diversecrashconcern.com
 .diversityspaceship.com
+.divertbywordinjustice.com
 .dividedbecameinquisitive.com
 .dividedching.com
 .dividedscientific.com
@@ -14232,6 +14233,7 @@ vkcdnservice.appspot.com
 .hmsykhbqvesopt.xyz
 .hmyuokltxplqwfa.com
 .hn1l.online
+.hn1l.site
 .hnkyxyknp.com
 .hnrgmc.com
 .hntkeiupbnoaeha.xyz
@@ -31783,6 +31785,7 @@ vkcdnservice.appspot.com
 .yoginsnorland.com
 .yojanaarabic.life
 .yokeeroud.com
+.yolkhandledwheels.com
 .yomeno.xyz
 .yonabrar.com
 .yonhelioliskor.com
@@ -33541,6 +33544,7 @@ vkcdnservice.appspot.com
 .23.109.87.
 .1002867133.rsc.cdn77.org
 .1035218900.rsc.cdn77.org
+.1044195567.rsc.cdn77.org
 .1052982219.rsc.cdn77.org
 .1080872514.rsc.cdn77.org
 .10945-5.s.cdn15.com
@@ -33553,6 +33557,7 @@ vkcdnservice.appspot.com
 .1603463731.rsc.cdn77.org
 .1675450967.rsc.cdn77.org
 .1736253261.rsc.cdn77.org
+.1885212191.rsc.cdn77.org
 .360playvid.com
 .360playvid.info
 .a-delivery.rmbl.ws
@@ -43417,6 +43422,7 @@ inapps.appsflyersdk.com
 .handyfield.com
 .handyfireman.com
 .handyincrease.com
+.haplesshydrant.com
 .haplessland.com
 .happenhistory.com
 .harborcaption.com
@@ -53979,6 +53985,12 @@ inapps.appsflyersdk.com
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
+.ksvkfwth.xyz
+.ugpibtpk.xyz
+.rsvkfwth.xyz
+.zohdfd.xyz
+.jhpbtp.xyz
+.sdxzqec.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
