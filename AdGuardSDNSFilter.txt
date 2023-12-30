@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-31 01:00:01·········数量:58675条·········增量:$[58675-$[58677-1]]条·········
+#·········更新时间:2023-12-31 02:00:01·········数量:58675条·········增量:$[58675-$[58677-1]]条·········
 .fnrbulqws.com
 .ptompeer.net
 .neintheworld.org
