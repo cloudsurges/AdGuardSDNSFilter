@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-30 20:00:01·········数量:58672条·········增量:$[58672-$[58674-1]]条·········
+#·········更新时间:2023-12-30 21:00:01·········数量:58675条·········增量:$[58675-$[58674-1]]条·········
 .fnrbulqws.com
 .ptompeer.net
 .neintheworld.org
@@ -53996,6 +53996,9 @@ inapps.appsflyersdk.com
 .usvkfwth.xyz
 .boplgt.icu
 .bsvkfwth.xyz
+.otbeksf.cn
+.xsvkfwth.xyz
+.tsvkfwth.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
