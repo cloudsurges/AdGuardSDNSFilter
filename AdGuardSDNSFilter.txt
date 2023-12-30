@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-30 14:00:01·········数量:58667条·········增量:$[58667-$[58669-1]]条·········
+#·········更新时间:2023-12-30 15:00:01·········数量:58672条·········增量:$[58672-$[58669-1]]条·········
 .fnrbulqws.com
 .ptompeer.net
 .neintheworld.org
@@ -44172,6 +44172,7 @@ inapps.appsflyersdk.com
 .storeslope.com
 .storesurprise.com
 .stormyachiever.com
+.stormyfold.com
 .stoveseashore.com
 .straightnest.com
 .strangeclocks.com
@@ -53991,6 +53992,10 @@ inapps.appsflyersdk.com
 .zohdfd.xyz
 .jhpbtp.xyz
 .sdxzqec.xyz
+.wyfec.cn
+.usvkfwth.xyz
+.boplgt.icu
+.bsvkfwth.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
