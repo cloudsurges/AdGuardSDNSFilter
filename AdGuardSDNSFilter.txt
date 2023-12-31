@@ -1,5 +1,19 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-31 08:00:01·········数量:58708条·········增量:$[58708-$[58710-1]]条·········
+#·········更新时间:2023-12-31 09:00:01·········数量:58726条·········增量:$[58726-$[58710-1]]条·········
+.srwfwllymprt.com
+.orpoobj.com
+.worldwhoisq.org
+.nandasmile.org
+.mileesidesu.org
+.happymuttere.org
+.rronsep.com
+.umqiapzsc.com
+.acvnhayikyutjsn.xyz
+.iovxhfavijyu.com
+.ogwqkgtboxol.com
+.gnvpmftcgp.com
+.unaswpzo.com
+.pcvlpotybnd.com
 .fnrbulqws.com
 .ptompeer.net
 .neintheworld.org
@@ -1257,6 +1271,7 @@
 .adrunnr.com
 .samsungtvads.com
 .adconsent.samsungrs.com
+.d2s31asn9gp5vl.cloudfront.net
 .d1aukpqf83rqhe.cloudfront.net
 .sponsor.imacdn.com
 .d3qvcyf9oa6vhw.cloudfront.net
@@ -13152,7 +13167,6 @@ vkcdnservice.appspot.com
 .gnojicfj.com
 .gnosticwinks.com
 .gnqtageoyy.com
-.gnvpmftcgp.com
 .go-rillatrack.com
 .go-srv.com
 .go2.global
@@ -15378,7 +15392,6 @@ vkcdnservice.appspot.com
 .ioredi.com
 .iornsfyhueev.com
 .iorwe-qmf.com
-.iovxhfavijyu.com
 .ioward.com
 .ioxffew.com
 .ipales.com
@@ -19224,7 +19237,6 @@ vkcdnservice.appspot.com
 .namol.xyz
 .nan46ysangt28eec.com
 .nancontrast.com
-.nandasmile.org
 .nandinzouaves.uno
 .nandweandthe.org
 .naneducate.com
@@ -20305,7 +20317,6 @@ vkcdnservice.appspot.com
 .ogskle.com
 .ogtgurmzeoj.com
 .ogwmubfnjbzyo.com
-.ogwqkgtboxol.com
 .ohaijoub.com
 .ohdrgrpfyvughty.xyz
 .ohelgbbileii.xyz
@@ -20773,7 +20784,6 @@ vkcdnservice.appspot.com
 .ornery-animal.pro
 .oroodsee.xyz
 .orpheushooven.com
-.orpoobj.com
 .orqaxjj.com
 .orqrdm.com
 .orquideassp.com
@@ -21445,7 +21455,6 @@ vkcdnservice.appspot.com
 .pcruwbk.com
 .pctlwm.com
 .pctsrv.com
-.pcvlpotybnd.com
 .pd-news.com
 .pdbqyzi.com
 .pdcnxobcv.com
@@ -29123,7 +29132,6 @@ vkcdnservice.appspot.com
 .unanimouslyrejectproperly.com
 .unaptsullens.com
 .unarbokor.com
-.unaswpzo.com
 .unauthorizedblur.com
 .unawakegaleus.com
 .unawar.com
@@ -31132,7 +31140,6 @@ vkcdnservice.appspot.com
 .worldtimes2.xyz
 .worldtraffic.trade
 .worldviralnewz.com
-.worldwhoisq.org
 .worldwidemailer.com
 .worldwideor.info
 .worldwideorganiza.xyz
@@ -32653,6 +32660,7 @@ vkcdnservice.appspot.com
 .apexcdn.com
 .aphookkensidah.pro
 .apmebf.com
+.app.ebyn.ai
 .appnext.com
 .apprupt.com
 .apptap.com
@@ -45378,6 +45386,7 @@ inapps.appsflyersdk.com
 .ioam.de
 .lokalleads-cci.com
 .mairdumont.com
+.matelso.de
 .md-nx.com
 .mps-gba.de
 .multicounter.de
@@ -54032,6 +54041,15 @@ inapps.appsflyersdk.com
 .zzyy17.top
 .zzyy18.top
 .zzyy19.top
+.kydzfldt.xyz
+.qdcxia.xyz
+.dwhyjwrw.xyz
+.atlggfy.cn
+.rydzfldt.xyz
+.hyjbdt.xyz
+.evbrkhz.xyz
+.vtnmxx.xyz
+.fyexyd.icu
 .zzyy20.top
 .01v62.xyz
 .027dir.com
