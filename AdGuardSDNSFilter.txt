@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2023-12-31 14:00:01·········数量:58726条·········增量:$[58726-$[58728-1]]条·········
+#·········更新时间:2023-12-31 15:00:01·········数量:58728条·········增量:$[58728-$[58728-1]]条·········
 .srwfwllymprt.com
 .orpoobj.com
 .worldwhoisq.org
@@ -54050,6 +54050,8 @@ inapps.appsflyersdk.com
 .evbrkhz.xyz
 .vtnmxx.xyz
 .fyexyd.icu
+.uydzfldt.xyz
+.bydzfldt.xyz
 .zzyy20.top
 .01v62.xyz
 .027dir.com
