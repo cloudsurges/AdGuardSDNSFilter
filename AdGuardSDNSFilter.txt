@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-01 15:00:01·········数量:58811条·········增量:$[58811-$[58779-1]]条·········
+#·········更新时间:2024-01-01 16:00:01·········数量:58811条·········增量:$[58811-$[58813-1]]条·········
 .mwifcugxihhpwm.com
 .trolleydemocratic.com
 .nastymankinddefective.com
