@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-03 01:00:01·········数量:58865条·········增量:$[58865-$[58867-1]]条·········
+#·········更新时间:2024-01-03 02:00:01·········数量:58865条·········增量:$[58865-$[58867-1]]条·········
 .piaigyyigyghjmi.xyz
 .srwfwllymprt.com
 .orpoobj.com
