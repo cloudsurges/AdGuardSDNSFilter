@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-02 19:00:01·········数量:58847条·········增量:$[58847-$[58849-1]]条·········
+#·········更新时间:2024-01-02 20:00:01·········数量:58847条·········增量:$[58847-$[58849-1]]条·········
 .igjptqlywyvfveq.com
 .wuksosta.com
 .vztlivv.com
