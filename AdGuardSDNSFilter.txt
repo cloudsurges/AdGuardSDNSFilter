@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-03 20:00:01·········数量:58915条·········增量:$[58915-$[58917-1]]条·········
+#·········更新时间:2024-01-03 21:00:01·········数量:58920条·········增量:$[58920-$[58917-1]]条·········
 .nmrjnqiwocfyi.com
 .oargaung.com
 .ebnarnf.com
@@ -38932,6 +38932,7 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.analytics.api.justeattakeaway.com
 .analytics.eip.telegraph.co.uk
 .metrics.geekwire.com
 .click-performance.assets.rndtech.de
@@ -54238,6 +54239,10 @@ inapps.appsflyersdk.com
 .xlnvvbk.xyz
 .kggikf.icu
 .bkbbjtfp.xyz
+.xkbbjtfp.xyz
+.nhcdn.cn
+.tkbbjtfp.xyz
+.ahernssa.com
 .ukbbjtfp.xyz
 .zzyy20.top
 .01v62.xyz
