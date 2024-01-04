@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-04 08:00:01·········数量:58936条·········增量:$[58936-$[58938-1]]条·········
+#·········更新时间:2024-01-04 09:00:01·········数量:58944条·········增量:$[58944-$[58938-1]]条·········
 .dotercouther.uno
 .overlapparians.com
 .artertapirus.com
@@ -38948,6 +38948,7 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.rtnl.bxcl.de
 .analytics.api.justeattakeaway.com
 .analytics.eip.telegraph.co.uk
 .metrics.geekwire.com
@@ -54258,6 +54259,13 @@ inapps.appsflyersdk.com
 .zzbmxl.xyz
 .zzyy17.top
 .zzyy18.top
+.kghgmn.top
+.vdtxlt.xyz
+.kjacgk.xyz
+.jdrnpei.xyz
+.kqjqripb.xyz
+.oqvucp.icu
+.tszoxhtk.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
