@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-05 14:00:01·········数量:56319条·········增量:$[56319-$[56321-1]]条·········
+#·········更新时间:2024-01-05 15:00:01·········数量:56322条·········增量:$[56322-$[56321-1]]条·········
 .dotercouther.uno
 .overlapparians.com
 .artertapirus.com
@@ -51640,6 +51640,9 @@ inapps.appsflyersdk.com
 .wvyqks.xyz
 .avvfjhg.xyz
 .szmkr.cn
+.sd2ua.icu
+.upyerxzn.xyz
+.bpyerxzn.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
