@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-05 22:00:01·········数量:56328条·········增量:$[56328-$[56330-1]]条·········
+#·········更新时间:2024-01-05 23:00:01·········数量:56328条·········增量:$[56328-$[56330-1]]条·········
 .dotercouther.uno
 .overlapparians.com
 .artertapirus.com
