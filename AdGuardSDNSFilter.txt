@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-07 01:00:01·········数量:56391条·········增量:$[56391-$[56393-1]]条·········
+#·········更新时间:2024-01-07 02:00:01·········数量:56391条·········增量:$[56391-$[56393-1]]条·········
 .justey.com
 .hrkplkgjs.com
 .glowedhyalins.com
