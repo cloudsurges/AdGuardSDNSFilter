@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-07 14:00:01·········数量:56405条·········增量:$[56405-$[56407-1]]条·········
+#·········更新时间:2024-01-07 15:00:01·········数量:56415条·········增量:$[56415-$[56407-1]]条·········
 .justey.com
 .hrkplkgjs.com
 .glowedhyalins.com
@@ -26407,6 +26407,7 @@ vkcdnservice.appspot.com
 .smartappsfly.com
 .smartdating.top
 .smartlnk.com
+.smartpicrotation.com
 .smarttds.org
 .smarttopchain.nl
 .smartytech.io
@@ -48700,8 +48701,8 @@ inapps.appsflyersdk.com
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-01-04 12:11:58 CET
-# entries:        1070
+# last updated:   2024-01-07 05:48:44 CET
+# entries:        1071
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 .1terms.com
@@ -49078,6 +49079,7 @@ inapps.appsflyersdk.com
 .stats.poddtoppen.se
 .stats.proff.se
 .stats.userneeds.com
+.stats2.ehandel.se
 .statsapi.tiendeo.se
 .storymedia.se
 .synchrobox.adswizz.com
@@ -51726,6 +51728,14 @@ inapps.appsflyersdk.com
 .lhzxbp.xyz
 .kuoizbtl.xyz
 .ugkpsi.xyz
+.bhktalt.cn
+.yfzpxnb.xyz
+.fjhrq.xyz
+.aojeet.icu
+.uuoizbtl.xyz
+.lkrv.top
+.szmty.cn
+.buoizbtl.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
