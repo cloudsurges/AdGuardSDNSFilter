@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-07 20:00:01·········数量:56415条·········增量:$[56415-$[56417-1]]条·········
+#·········更新时间:2024-01-07 21:00:01·········数量:56423条·········增量:$[56423-$[56417-1]]条·········
 .justey.com
 .hrkplkgjs.com
 .glowedhyalins.com
@@ -33954,6 +33954,7 @@ vkcdnservice.appspot.com
 .ad.kubiccomps.icu
 .ad.netmedia.hu
 .ad.reklamport.com
+.ad.tpmn.co.kr
 .ad.video-mech.ru
 .ad.wsod.com
 .adinplay-venatus.workers.dev
@@ -34163,6 +34164,7 @@ vkcdnservice.appspot.com
 .d1ac2du043ydir.cloudfront.net
 .d1aezk8tun0dhm.cloudfront.net
 .d1aiciyg0qwvvr.cloudfront.net
+.d1ap9gbbf77h85.cloudfront.net
 .d1appgm50chwbg.cloudfront.net
 .d1aqvw7cn4ydzo.cloudfront.net
 .d1aukpqf83rqhe.cloudfront.net
@@ -49719,6 +49721,7 @@ inapps.appsflyersdk.com
 .delivery.vtc.vn
 .delivery.vtcnew.com.vn
 .delivery.vtcnews.vn
+.distinctrobin.com
 .donglogs.com
 .elogs.vnexpress.net
 .eva-ad.24hstatic.com
@@ -49750,6 +49753,7 @@ inapps.appsflyersdk.com
 .la3.vnecdn.net
 .lavamedia.vn
 .lavanetwork.net
+.lio.aiservice.vn
 .log-*.epicdn.me
 .log-*.zadn.vn
 .log-vietnamplus-vn.cdn.ampproject.org
@@ -50016,6 +50020,7 @@ inapps.appsflyersdk.com
 .ads.xedoisong.vn
 .ads.xemphimso.com
 .ads.xemtivisohd.net
+.ads.zunia.vn
 .ads1.careerbuilder.vn
 .ads8.fpt.vn
 .adserver.lag.vn
@@ -50150,7 +50155,6 @@ inapps.appsflyersdk.com
 .file-subiz.com
 .financial-agent.headlines.pw
 .follow.vnay.vn
-.gamma.cachefly.net
 .go.vnecdn.com
 .gtm.saostar.vn
 .gtmjs.com
@@ -50158,6 +50162,7 @@ inapps.appsflyersdk.com
 .hexapinow.xyz
 .hit.123c.vn
 .iads.staticscdn.net
+.iads.vision
 .imgcdnbet.com
 .interactive.tinnhanhchungkhoan.vn
 .intranet.dcorp.com.vn
@@ -51736,6 +51741,9 @@ inapps.appsflyersdk.com
 .lkrv.top
 .szmty.cn
 .buoizbtl.xyz
+.xuoizbtl.xyz
+.dnn1300.top
+.tuoizbtl.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
