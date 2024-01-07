@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-07 08:00:01·········数量:56400条·········增量:$[56400-$[56402-1]]条·········
+#·········更新时间:2024-01-07 09:00:01·········数量:56405条·········增量:$[56405-$[56402-1]]条·········
 .justey.com
 .hrkplkgjs.com
 .glowedhyalins.com
@@ -33223,6 +33223,7 @@ vkcdnservice.appspot.com
 .cryptoads.space
 .cryptocoinsad.com
 .cryptoecom.care
+.cryptotrials.care
 .ctrhub.com
 .ctrmanager.com
 .ctxtfl.com
@@ -33420,6 +33421,7 @@ vkcdnservice.appspot.com
 .klakus.com
 .komoona.com
 .kovla.com
+.kurzycz.care
 .laim.tv
 .lanistaconcepts.com
 .lcwfab1.com
@@ -51721,6 +51723,9 @@ inapps.appsflyersdk.com
 .zzbmxl.xyz
 .zzyy17.top
 .zzyy18.top
+.lhzxbp.xyz
+.kuoizbtl.xyz
+.ugkpsi.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
