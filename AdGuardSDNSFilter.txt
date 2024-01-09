@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-09 20:00:01·········数量:56526条·········增量:$[56526-$[56528-1]]条·········
+#·········更新时间:2024-01-09 21:00:01·········数量:56528条·········增量:$[56528-$[56528-1]]条·········
 .dwvbfnqrbif.com
 .despectclogwyn.com
 .justey.com
@@ -17469,6 +17469,7 @@ vkcdnservice.appspot.com
 .lirateblister.com
 .lirdooch.xyz
 .lispingwraths.space
+.list-ads.com
 .listeraislatory.site
 .listfulhymnals.website
 .listguineaelementary.com
@@ -51847,6 +51848,7 @@ inapps.appsflyersdk.com
 .xzelzfnj.xyz
 .tzelzfnj.xyz
 .ljhbhy.cn
+.adtx2.cn
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
