@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-10 01:00:01·········数量:56528条·········增量:$[56528-$[56530-1]]条·········
+#·········更新时间:2024-01-10 02:00:01·········数量:56528条·········增量:$[56528-$[56530-1]]条·········
 .dwvbfnqrbif.com
 .despectclogwyn.com
 .justey.com
