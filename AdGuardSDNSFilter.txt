@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-11 06:00:01·········数量:56613条·········增量:$[56613-$[56615-1]]条·········
+#·········更新时间:2024-01-11 07:00:01·········数量:56613条·········增量:$[56613-$[56615-1]]条·········
 .meksicie.net
 .sugpgeaunpet.com
 .capletstyldia.com
