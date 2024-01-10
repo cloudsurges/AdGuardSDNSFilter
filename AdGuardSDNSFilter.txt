@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-10 20:00:01·········数量:56575条·········增量:$[56575-$[56577-1]]条·········
+#·········更新时间:2024-01-10 21:00:01·········数量:56581条·········增量:$[56581-$[56577-1]]条·········
 .sugpgeaunpet.com
 .capletstyldia.com
 .dwvbfnqrbif.com
@@ -51896,6 +51896,12 @@ inapps.appsflyersdk.com
 .uymahuxv.xyz
 .szmmb.cn
 .bymahuxv.xyz
+.777bb111ww.com
+.mn1180.top
+.xymahuxv.xyz
+.aqrokdw.cn
+.wclsylk.cn
+.dwfdsfkw.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
