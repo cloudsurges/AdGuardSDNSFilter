@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-11 14:00:01·········数量:56622条·········增量:$[56622-$[56624-1]]条·········
+#·········更新时间:2024-01-11 15:00:01·········数量:56625条·········增量:$[56625-$[56624-1]]条·········
 .meksicie.net
 .sugpgeaunpet.com
 .capletstyldia.com
@@ -51941,6 +51941,9 @@ inapps.appsflyersdk.com
 .zrljzgs.xyz
 .setoniale.com
 .stusnais.com
+.qwmamh.icu
+.twj6s.icu
+.uebohjhh.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
