@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-12 21:00:01·········数量:56829条·········增量:$[56829-$[56704-1]]条·········
+#·········更新时间:2024-01-12 22:00:01·········数量:56829条·········增量:$[56829-$[56831-1]]条·········
 .mintybug.com
 .firsthandtie.com
 .giggleostentatious.com
