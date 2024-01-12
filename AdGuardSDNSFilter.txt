@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-12 14:00:01·········数量:56699条·········增量:$[56699-$[56701-1]]条·········
+#·········更新时间:2024-01-12 15:00:01·········数量:56702条·········增量:$[56702-$[56701-1]]条·········
 .mintybug.com
 .firsthandtie.com
 .giggleostentatious.com
@@ -11488,7 +11488,6 @@ vkcdnservice.appspot.com
 .ezjhhapcoe.com
 .ezmob.com
 .eznoz.xyz
-.ezojs.com
 .ezoufdpeyqaain.com
 .ezqbbqybwjbvm.top
 .ezrvmxshalr.com
@@ -52016,6 +52015,10 @@ inapps.appsflyersdk.com
 .ljpbtjq.xyz
 .kbayke.xyz
 .ugbler.icu
+.df63x.xyz
+.jnwpzq.com
+.udjdpyrt.xyz
+.bdjdpyrt.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
