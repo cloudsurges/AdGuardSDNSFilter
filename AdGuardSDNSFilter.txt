@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-14 14:00:01·········数量:61345条·········增量:$[61345-$[61347-1]]条·········
+#·········更新时间:2024-01-14 15:00:01·········数量:61348条·········增量:$[61348-$[61347-1]]条·········
 .adxfire.net
 .wauchguardee.com
 .mintybug.com
@@ -51699,6 +51699,7 @@ inapps.appsflyersdk.com
 .dangkyvay-bank247.net
 .dangkyvaybidv.com
 .dantri.live
+.dantrii.info
 .daohannganhang.click
 .datamarketplace.net
 .datgrabsaigon.com
@@ -56664,6 +56665,8 @@ inapps.appsflyersdk.com
 .sdtsad.com
 .caajol.icu
 .otxlhpm.xyz
+.53ynh.xyz
+.c9ql2.com
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
