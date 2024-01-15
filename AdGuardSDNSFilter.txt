@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-15 14:00:01·········数量:61400条·········增量:$[61400-$[61402-1]]条·········
+#·········更新时间:2024-01-15 15:00:01·········数量:61404条·········增量:$[61404-$[61402-1]]条·········
 .ktnukmtsbfko.com
 .shaumpem.com
 .swollencompletely.com
@@ -26049,6 +26049,7 @@ vkcdnservice.appspot.com
 .servinghandy.com
 .servingserved.com
 .servtraff97.com
+.servw.bid
 .sesabercuacroo.xyz
 .sesameebookspeedy.com
 .sesamefiddlesticks.com
@@ -44879,7 +44880,6 @@ inapps.appsflyersdk.com
 .unhwav.com
 .rolzox.com
 .baibiigcfdjgdgacig.ru
-.servw.bid
 .retharitus.com
 .rfpozf.com
 .m-growninppcode.com
@@ -51147,6 +51147,7 @@ inapps.appsflyersdk.com
 .mautic-learn.teky.edu.vn
 .mautic.200lab.io
 .mautic.teky.edu.vn
+.measure.pti.com.vn
 .measure.vndirect.com.vn
 .media.dabong247.com
 .menu.metu.vn
@@ -51316,6 +51317,7 @@ inapps.appsflyersdk.com
 .009855.com
 .010172.com
 .0fb.co
+.0fb.ltd
 .113-bca.online
 .11tiki.com
 .123-vay.com
@@ -56719,6 +56721,8 @@ inapps.appsflyersdk.com
 .uyulwc.xyz
 .dafdfd.cn
 .2024114t.shop
+.u2tu4.icu
+.rvbiocn.cn
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
