@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-15 22:00:01·········数量:61406条·········增量:$[61406-$[61408-1]]条·········
+#·········更新时间:2024-01-15 23:00:01·········数量:61406条·········增量:$[61406-$[61408-1]]条·········
 .ktnukmtsbfko.com
 .shaumpem.com
 .swollencompletely.com
