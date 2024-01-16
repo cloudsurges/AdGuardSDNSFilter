@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-16 14:00:01·········数量:61461条·········增量:$[61461-$[61463-1]]条·········
+#·········更新时间:2024-01-16 15:00:01·········数量:61467条·········增量:$[61467-$[61463-1]]条·········
 .tlolaxalxdk.com
 .aluationiamk.info
 .ketgetoexukpr.info
@@ -27036,6 +27036,7 @@ vkcdnservice.appspot.com
 .speani.com
 .speato.com
 .special-offers.online
+.specialcraftbox.com
 .specialisthuge.com
 .specialistinsensitive.com
 .specialistrocky.com
@@ -44263,6 +44264,7 @@ inapps.appsflyersdk.com
 .track.kyoads.com
 .track.myli.io
 .tracking.ecookie.fr
+.tracking.voxeus.com
 .visitping.rossel.be
 .wrapper.lemde.fr
 .ws3.smartp.com
@@ -56780,6 +56782,10 @@ inapps.appsflyersdk.com
 .kozhyf.icu
 .ffawfa.cn
 .zghrxn.xyz
+.8ovgk.online
+.gkswas.xyz
+.mvbvvch.xyz
+.stq89.icu
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
