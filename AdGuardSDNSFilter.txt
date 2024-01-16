@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-16 19:00:01·········数量:61467条·········增量:$[61467-$[61469-1]]条·········
+#·········更新时间:2024-01-16 20:00:01·········数量:61467条·········增量:$[61467-$[61469-1]]条·········
 .tlolaxalxdk.com
 .aluationiamk.info
 .ketgetoexukpr.info
