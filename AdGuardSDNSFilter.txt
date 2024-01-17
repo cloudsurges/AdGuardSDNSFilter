@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-18 06:00:01·········数量:61539条·········增量:$[61539-$[61541-1]]条·········
+#·········更新时间:2024-01-18 07:00:01·········数量:61539条·········增量:$[61539-$[61541-1]]条·········
 .guvsxiex.xyz
 .adxfire.net
 .wauchguardee.com
