@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-17 08:00:01·········数量:61502条·········增量:$[61502-$[61504-1]]条·········
+#·········更新时间:2024-01-17 09:00:01·········数量:61514条·········增量:$[61514-$[61504-1]]条·········
 .guvsxiex.xyz
 .adxfire.net
 .wauchguardee.com
@@ -7383,6 +7383,7 @@ vkcdnservice.appspot.com
 .cgbmjsasm.xyz
 .cgeckmydirect.biz
 .cgupialoensa.com
+.cgyqybeqthaeb.com
 .chachophigy.pro
 .chachors.net
 .chadseer.xyz
@@ -13309,6 +13310,7 @@ vkcdnservice.appspot.com
 .glersakr.com
 .glersooy.net
 .glerteeb.com
+.glestoab.com
 .glevoloo.com
 .gleydegulled.com
 .glibsols.net
@@ -24191,6 +24193,7 @@ vkcdnservice.appspot.com
 .ramtakeout.com
 .ramusiauk.digital
 .ramusiproxied.com
+.ranchsatin.com
 .rancidstrait.com
 .rancorousnoncommittalsomewhat.com
 .randallbesin.com
@@ -26774,6 +26777,7 @@ vkcdnservice.appspot.com
 .smugismanaxon.com
 .smugmuseumframe.com
 .smugturner.com
+.smuxmalamw.com
 .smyfbkk.com
 .smzcjoatnnhuhn.com
 .snagbaudhulas.com
@@ -32125,12 +32129,14 @@ vkcdnservice.appspot.com
 .xcwxfcav.com
 .xdcngimejo.com
 .xder1.fun
+.xder1.online
 .xdezxlbnpo.com
 .xdhqtgpkywjl.com
 .xdirectx.com
 .xdiwbc.com
 .xdkvvtucvbqhv.xyz
 .xdmanage.com
+.xdmicjkveqlgllp.com
 .xdserv.com
 .xduvqslud.com
 .xdvsijtlhr.com
@@ -56821,6 +56827,12 @@ inapps.appsflyersdk.com
 .zzbmxl.xyz
 .zzyy17.top
 .zzyy18.top
+.zmklhev.cn
+.hqjstd.xyz
+.hltkl.fun
+.oyotqp.icu
+.vrwdsvr.icu
+.dnfnpff.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
