@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-17 14:00:01·········数量:61514条·········增量:$[61514-$[61516-1]]条·········
+#·········更新时间:2024-01-17 15:00:01·········数量:61520条·········增量:$[61520-$[61516-1]]条·········
 .guvsxiex.xyz
 .adxfire.net
 .wauchguardee.com
@@ -40213,6 +40213,7 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.wwwstat.rz.uni-leipzig.de
 .analytics.fap.bar
 .analytics-batch.blitz.gg
 .tms-collect.sony.jp
@@ -56833,6 +56834,11 @@ inapps.appsflyersdk.com
 .oyotqp.icu
 .vrwdsvr.icu
 .dnfnpff.xyz
+.ajghca.xyz
+.4wfe3.icu
+.mec9k.com
+.wfpjeul.cn
+.yxptcrss.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
