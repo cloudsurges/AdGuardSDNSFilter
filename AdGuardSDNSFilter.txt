@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-17 20:00:01·········数量:61520条·········增量:$[61520-$[61522-1]]条·········
+#·········更新时间:2024-01-17 21:00:01·········数量:61522条·········增量:$[61522-$[61522-1]]条·········
 .guvsxiex.xyz
 .adxfire.net
 .wauchguardee.com
@@ -36656,6 +36656,7 @@ vkcdnservice.appspot.com
 .counter.packa2.cz
 .emlsend.com
 .lr-intake.com
+.intake-lr.com
 .collector-api.frspecifics.com
 .carrick-ui.advoncommerce.com
 .smelel.icu
@@ -56839,6 +56840,7 @@ inapps.appsflyersdk.com
 .mec9k.com
 .wfpjeul.cn
 .yxptcrss.xyz
+.qsfbmol.cn
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
