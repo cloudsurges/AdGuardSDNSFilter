@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-18 14:00:01·········数量:61564条·········增量:$[61564-$[61566-1]]条·········
+#·········更新时间:2024-01-18 15:00:01·········数量:61567条·········增量:$[61567-$[61566-1]]条·········
 .xhfvljklvq.com
 .moxuthoo.net
 .detergentkindlyrandom.com
@@ -7501,6 +7501,7 @@ vkcdnservice.appspot.com
 .checkm8.com
 .checkoutfree.com
 .checkup02.biz
+.checkupforecast.com
 .checkyofeed.com
 .cheddaramusias.life
 .cheecmou.com
@@ -56883,6 +56884,8 @@ inapps.appsflyersdk.com
 .vggg5.space
 .pfjfjid.xyz
 .halqpt.xyz
+.fol9v.xyz
+.mvevgi.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
