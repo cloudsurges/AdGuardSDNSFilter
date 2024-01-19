@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-19 07:00:01·········数量:61616条·········增量:$[61616-$[61618-1]]条·········
+#·········更新时间:2024-01-19 08:00:01·········数量:61616条·········增量:$[61616-$[61618-1]]条·········
 .xhfvljklvq.com
 .moxuthoo.net
 .detergentkindlyrandom.com
