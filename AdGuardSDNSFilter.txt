@@ -1,5 +1,19 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-19 14:00:01·········数量:61630条·········增量:$[61630-$[61632-1]]条·········
+#·········更新时间:2024-01-19 15:00:01·········数量:61648条·········增量:$[61648-$[61632-1]]条·········
+.auhpaewvbgwjr.com
+.wokaptoa.com
+.lambedbarbal.website
+.jghjhtz.com
+.ctrtrk.com
+.mztqgmr.com
+.ntlysearchingf.info
+.etingplansfor.org
+.uqpvrqplyqm.com
+.wnwkzzzheca.com
+.aysdsvtd.com
+.sjmbwxnqz.com
+.kxkqqycs.xyz
+.psumainy.xyz
 .xhfvljklvq.com
 .moxuthoo.net
 .detergentkindlyrandom.com
@@ -1295,6 +1309,7 @@
 .adrunnr.com
 .samsungtvads.com
 .adconsent.samsungrs.com
+.dic9vgwbkxd8r.cloudfront.net
 .fentent.stre4mplay.one
 .d2s31asn9gp5vl.cloudfront.net
 .sponsor.imacdn.com
@@ -56949,6 +56964,9 @@ inapps.appsflyersdk.com
 .bxnxdlb.xyz
 .1821z.website
 .sukneyu.com
+.l7ghj.xyz
+.xwlnhw.com
+.stbwhln.cn
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
