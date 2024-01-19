@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-19 17:00:01·········数量:61648条·········增量:$[61648-$[61650-1]]条·········
+#·········更新时间:2024-01-19 18:00:01·········数量:61648条·········增量:$[61648-$[61650-1]]条·········
 .auhpaewvbgwjr.com
 .wokaptoa.com
 .lambedbarbal.website
