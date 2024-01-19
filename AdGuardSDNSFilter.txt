@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-19 20:00:01·········数量:61648条·········增量:$[61648-$[61650-1]]条·········
+#·········更新时间:2024-01-19 21:00:01·········数量:61650条·········增量:$[61650-$[61650-1]]条·········
+.snipersex.com
 .auhpaewvbgwjr.com
 .wokaptoa.com
 .lambedbarbal.website
@@ -26890,7 +26891,6 @@ vkcdnservice.appspot.com
 .snhtvtp.com
 .snicherchitra.space
 .snidethereto.com
-.snipersex.com
 .snippystowstool.com
 .snippyteevee.com
 .snippyyuncan.uno
@@ -56967,6 +56967,8 @@ inapps.appsflyersdk.com
 .l7ghj.xyz
 .xwlnhw.com
 .stbwhln.cn
+.m6500.top
+.rotondelibya.com
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
