@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-20 03:00:01·········数量:61659条·········增量:$[61659-$[61652-1]]条·········
+#·········更新时间:2024-01-20 04:00:01·········数量:61659条·········增量:$[61659-$[61661-1]]条·········
 .jyqekzewvyojy.top
 .auhpaewvbgwjr.com
 .wokaptoa.com
