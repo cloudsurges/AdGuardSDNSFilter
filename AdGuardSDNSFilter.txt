@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-20 08:00:01·········数量:61659条·········增量:$[61659-$[61661-1]]条·········
+#·········更新时间:2024-01-20 09:00:01·········数量:61665条·········增量:$[61665-$[61661-1]]条·········
 .jyqekzewvyojy.top
 .auhpaewvbgwjr.com
 .wokaptoa.com
@@ -56978,6 +56978,12 @@ inapps.appsflyersdk.com
 .zzbmxl.xyz
 .zzyy17.top
 .zzyy18.top
+.pupsjr.xyz
+.ktauoy.xyz
+.82zcb.icu
+.awcdst.icu
+.foysswr.cn
+.npnpxoz.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
