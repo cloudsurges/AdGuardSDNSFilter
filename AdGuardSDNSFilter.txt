@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-22 20:00:01·········数量:61786条·········增量:$[61786-$[61788-1]]条·········
+#·········更新时间:2024-01-22 21:00:01·········数量:61792条·········增量:$[61792-$[61788-1]]条·········
 .jyqekzewvyojy.top
 .auhpaewvbgwjr.com
 .wokaptoa.com
@@ -43173,6 +43173,7 @@ inapps.appsflyersdk.com
 .analytics-1.cavai.com
 .analytics-cms.whitebeard.me
 .analytics-consent-manager-v2-prod.azureedge.net
+.analytics-prd.aws.wehaa.net
 .analytics-scripts.cablelabs.com
 .analytics.30m.com
 .analytics.agoda.com
@@ -49872,8 +49873,8 @@ inapps.appsflyersdk.com
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-01-07 05:48:44 CET
-# entries:        1071
+# last updated:   2024-01-22 07:53:24 CET
+# entries:        1072
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 .1terms.com
@@ -57105,6 +57106,10 @@ inapps.appsflyersdk.com
 .iewtwo.xyz
 .ypyjyhny.xyz
 .ovykq.online
+.cpyjyhny.xyz
+.ovnrmvg.cn
+.idns.online
+.xpyjyhny.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
@@ -61629,6 +61634,7 @@ analytics-*.aasaam.com
 .eh-ra-z-se-na.org
 .ebl-hot.com
 .iranuschsahm.sbs
+.seownae.space
 .abcounter.de
 .mobileanalytics.*.amazonaws.com
 .affiliate.mercola.com
