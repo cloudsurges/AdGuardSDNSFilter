@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-22 08:00:01·········数量:61765条·········增量:$[61765-$[61767-1]]条·········
+#·········更新时间:2024-01-22 09:00:01·········数量:61786条·········增量:$[61786-$[61767-1]]条·········
 .jyqekzewvyojy.top
 .auhpaewvbgwjr.com
 .wokaptoa.com
@@ -3195,6 +3195,7 @@ vkcdnservice.appspot.com
 .adpointrtb.com
 .adpone.com
 .adprosrv.com
+.adqongwuxvav.com
 .adquery.io
 .adquet.com
 .adrcdn.com
@@ -6108,6 +6109,7 @@ vkcdnservice.appspot.com
 .bland-husband.com
 .blanddish.pro
 .blaneo.com
+.blareclockwisebead.com
 .blastadoptedlink.com
 .blastcahs.com
 .blastedlurched.com
@@ -6683,6 +6685,7 @@ vkcdnservice.appspot.com
 .bshrdr.com
 .bsjusnip.com
 .bsolaoecm.xyz
+.bsudzbtp.com
 .bswsapnwdx.com
 .bsyftapbp.com
 .bsyhicvmrg.com
@@ -7743,6 +7746,7 @@ vkcdnservice.appspot.com
 .cjvdfw.com
 .cjxomyilmv.com
 .cjyopjydlwkyu.com
+.ckbynmeskffnn.com
 .ckfkigayvdb.com
 .ckgsrzu.com
 .ckofrnk.com
@@ -13648,6 +13652,7 @@ vkcdnservice.appspot.com
 .gossipfinestanalogy.com
 .gossipprotectioncredentials.com
 .gossipsize.com
+.gostoamt.com
 .got-to-be.com
 .goteat.xyz
 .gotherresethat.com
@@ -14076,6 +14081,7 @@ vkcdnservice.appspot.com
 .hairoak.com
 .hairpintacticalartsy.com
 .hairy-level.pro
+.hairyapplication.com
 .haithoaz.net
 .haitingshospi.info
 .hajoopteg.com
@@ -22277,6 +22283,7 @@ vkcdnservice.appspot.com
 .perviv.com
 .peskyclarifysuitcases.com
 .peskylock.com
+.pessimisticextra.com
 .pestequitch.com
 .pesterdisarm.com
 .pestilenttidefilth.org
@@ -22909,6 +22916,7 @@ vkcdnservice.appspot.com
 .poorlyorchidrepute.com
 .poorlystepmotherresolute.com
 .poorlytanrubbing.com
+.poorstress.pro
 .poosoahe.com
 .poosugap.com
 .pop.dojo.cc
@@ -25418,6 +25426,7 @@ vkcdnservice.appspot.com
 .rpmwhoop.com
 .rprinc6etodn9kunjiv.com
 .rpsoybm.com
+.rptdbyvychrfap.com
 .rpts.org
 .rpzbfftekjdz.com
 .rqakljxbs.com
@@ -28097,6 +28106,7 @@ vkcdnservice.appspot.com
 .syrianburlier.top
 .syringaburan.digital
 .syringeitch.com
+.syringewhile.com
 .syrsple2se8nyu09.com
 .syruphamster.com
 .sysdmt.com
@@ -29437,6 +29447,7 @@ vkcdnservice.appspot.com
 .troncomelets.com
 .tronmachi.com
 .troolyhonks.com
+.troopsassistedstupidity.com
 .troopslinecut.website
 .troozescript.store
 .tropbikewall.art
@@ -30334,6 +30345,7 @@ vkcdnservice.appspot.com
 .usylkoifiwa.com
 .uszaodwya.com
 .ut13r.online
+.ut13r.space
 .utaitlastwebe.com
 .utantialcottish.xyz
 .utarget.co.uk
@@ -32718,6 +32730,7 @@ vkcdnservice.appspot.com
 .ym8p.net
 .ymchcohvncak.xyz
 .ymuitydkdoy.com
+.ymwdeaiut.com
 .ymwehrducswbeu.com
 .ynaapihbulbky.com
 .yndmorvwdfuk.com
@@ -34537,6 +34550,7 @@ vkcdnservice.appspot.com
 .1187531871.rsc.cdn77.org
 .1193176784.rsc.cdn77.org
 .1203782659.rsc.cdn77.org
+.1205020224.rsc.cdn77.org
 .1244458189.rsc.cdn77.org
 .1437953666.rsc.cdn77.org
 .1460689281.rsc.cdn77.org
@@ -34547,6 +34561,7 @@ vkcdnservice.appspot.com
 .1736253261.rsc.cdn77.org
 .1805629149.rsc.cdn77.org
 .1885212191.rsc.cdn77.org
+.1915832424.rsc.cdn77.org
 .360playvid.com
 .360playvid.info
 .a-delivery.rmbl.ws
@@ -57084,6 +57099,12 @@ inapps.appsflyersdk.com
 .zzbmxl.xyz
 .zzyy17.top
 .zzyy18.top
+.iivruiz.cn
+.fotrbx.xyz
+.qzvzluu.xyz
+.iewtwo.xyz
+.ypyjyhny.xyz
+.ovykq.online
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
