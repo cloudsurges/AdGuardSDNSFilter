@@ -1,5 +1,6 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-23 20:00:01·········数量:60405条·········增量:$[60405-$[60407-1]]条·········
+#·········更新时间:2024-01-23 21:00:01·········数量:60429条·········增量:$[60429-$[60407-1]]条·········
+.avglfookdjuj.com
 .jyqekzewvyojy.top
 .auhpaewvbgwjr.com
 .wokaptoa.com
@@ -3794,6 +3795,7 @@ vkcdnservice.appspot.com
 .allhypefeed.com
 .allicinarenig.com
 .allmt.com
+.allnesskepped.com
 .allobarpepped.uno
 .allodiafeveret.life
 .alloha.tv
@@ -7134,6 +7136,7 @@ vkcdnservice.appspot.com
 .chaussew.net
 .chautcho.com
 .chauwout.xyz
+.chdkxgjtwflba.com
 .cheap-result.pro
 .cheap-trip.pro
 .cheapcoveringpearl.com
@@ -12989,6 +12992,7 @@ vkcdnservice.appspot.com
 .gondwrists.life
 .gonebyalongt.com
 .gonews2.com
+.gonzalodaemon.top
 .gooblesdd.com
 .good4younow.club
 .goodadvert.ru
@@ -13134,6 +13138,7 @@ vkcdnservice.appspot.com
 .graphnitriot.com
 .grapiercaproyl.com
 .grappamacram.com
+.grapseex.com
 .grasshopperprudencecondiment.com
 .grasutie.net
 .grataeraghu.digital
@@ -16637,6 +16642,7 @@ vkcdnservice.appspot.com
 .layzvgxgodnv.com
 .lazmblmywqjyb.top
 .lazypeacefullyutterly.com
+.lbbzxarfoukaf.com
 .lbwjqrtxeeriap.com
 .lbxcnbrczmmp.com
 .lby2kd27c.com
@@ -17373,6 +17379,7 @@ vkcdnservice.appspot.com
 .lureillegimateillegimate.com
 .lurgaimt.net
 .lurgaush.net
+.lurgimte.com
 .luronews.com
 .lusaisso.com
 .lushcrush.com
@@ -18458,6 +18465,7 @@ vkcdnservice.appspot.com
 .moneymak3rstrack.com
 .moneymakercdn.com
 .mongbo.com
+.monhax.com
 .monismartlink.com
 .monitorinflictmotivation.com
 .monitormilletstray.com
@@ -18629,6 +18637,7 @@ vkcdnservice.appspot.com
 .mqarrenothanca.xyz
 .mqcjqjhy.com
 .mqkuzy.com
+.mqldskirbp.com
 .mqnrrawj.com
 .mr2cnjuh34jb.com
 .mraozo.xyz
@@ -18642,6 +18651,7 @@ vkcdnservice.appspot.com
 .mrjb7hvcks.com
 .mrlscr.com
 .mrmlxqck.com
+.mrpihtwtoprvw.com
 .mrtbbnr.com
 .mrtbbnrdip.com
 .mrtnsvr.com
@@ -21675,6 +21685,7 @@ vkcdnservice.appspot.com
 .pjyvgdpvjp.com
 .pk910324e.com
 .pkhhyool.com
+.pkhntvfvkho.com
 .pkjekjmzfiuvi.com
 .pkklkcdn.com
 .pkmxofozs.com
@@ -23535,6 +23546,7 @@ vkcdnservice.appspot.com
 .reclaimhorridaltitude.com
 .reclod.com
 .recloseclouty.com
+.recognisetorchfreeway.com
 .recoiltravellingbreach.com
 .recollectionchicken.com
 .recomendedsite.com
@@ -24401,6 +24413,7 @@ vkcdnservice.appspot.com
 .rssrqecohagbk.xyz
 .rsthwwqhxef.xyz
 .rsxocgqnu.com
+.rsyawvcbmthnfr.com
 .rszimg.com
 .rszqtry.cn
 .rtb-media.me
@@ -26981,6 +26994,7 @@ vkcdnservice.appspot.com
 .tagalodrome.com
 .taggerumbre.uno
 .taghaugh.com
+.tagmai.xyz
 .tagoutlookignoring.com
 .tagun.xyz
 .tahinapasses.com
@@ -27107,6 +27121,7 @@ vkcdnservice.appspot.com
 .tbhenherthertindn.xyz
 .tbiwkjomju.com
 .tbm09.com
+.tbppfktchj.com
 .tbtqjbgrelc.xyz
 .tbudz.co.in
 .tcaochocskid.com
@@ -28618,6 +28633,7 @@ vkcdnservice.appspot.com
 .ukrkskillsombine.info
 .uktureukworekt.info
 .ul8seok7w5al.com
+.ulaiwhiw.xyz
 .ulalrars.net
 .ulathana.com
 .ulbackgroundandiy.info
@@ -30549,6 +30565,7 @@ vkcdnservice.appspot.com
 .wjikxopltjp.xyz
 .wjudihl.com
 .wjxtbwffpykdmo.com
+.wjzrzwyrrbwyz.top
 .wka4jursurf6.com
 .wkewgywth.xyz
 .wkmorvzqjmwav.top
@@ -31588,6 +31605,7 @@ vkcdnservice.appspot.com
 .zauthuvy.com
 .zayac2volk11.com
 .zazaruniri.com
+.zbdcrnfheyfu.com
 .zbnfhsk.com
 .zbvhwaakws.com
 .zcaadfl.com
@@ -31835,6 +31853,7 @@ vkcdnservice.appspot.com
 .zuqito.uno
 .zutcqppwm.com
 .zvbkyrbwrlqll.top
+.zvbldrth.com
 .zvetokr2hr8pcng09.com
 .zvhednrza.com
 .zvjkhrdp.com
@@ -43459,6 +43478,8 @@ inapps.appsflyersdk.com
 .tracking.fsjmp.com
 .xclk-integracion.com
 .yestorrents.org
+.hciaicdbiahibedhae.world
+.gomtdata.com
 .ad2the.net
 .get2.fun
 .teachmeiwnd.com
@@ -55723,6 +55744,9 @@ inapps.appsflyersdk.com
 .plotafb.com
 .nanaimostarkle.com
 .chubsxmg.xyz
+.maoskk.com
+.xiwusn9982.top
+.xhubsxmg.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
