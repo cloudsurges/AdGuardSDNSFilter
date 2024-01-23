@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-23 08:00:01·········数量:61833条·········增量:$[61833-$[61835-1]]条·········
+#·········更新时间:2024-01-23 09:00:01·········数量:61855条·········增量:$[61855-$[61835-1]]条·········
 .jyqekzewvyojy.top
 .auhpaewvbgwjr.com
 .wokaptoa.com
@@ -2077,6 +2077,7 @@ vkcdnservice.appspot.com
 .3j8c56p9.de
 .3lift.com
 .3lr67y45.com
+.3mhg.online
 .3mhg.site
 .3qfe1gfa.de
 .3r1kwxcd.top
@@ -4937,6 +4938,7 @@ vkcdnservice.appspot.com
 .auckledfathere.xyz
 .aucred.com
 .audacitycompare.com
+.audiblereflectionsenterprising.com
 .audiblerelinquishnegation.com
 .audiblysecretaryburied.com
 .audiblytriggersreview.com
@@ -5062,6 +5064,7 @@ vkcdnservice.appspot.com
 .avowappear.com
 .avowsvarus.com
 .avprotect.store
+.avthelkp.net
 .avtklwruejfr.com
 .avtvcuofgz.com
 .avucugkccpavsxv.xyz
@@ -9528,6 +9531,7 @@ vkcdnservice.appspot.com
 .dhhuakggx.xyz
 .dhkrftpc.xyz
 .dhlyikbubkibk.com
+.dhobybailli.com
 .dhowsptelea.com
 .dhthrewdownth.xyz
 .dhuimjkivb.com
@@ -10128,6 +10132,7 @@ vkcdnservice.appspot.com
 .drauda.com
 .drawbacksubdue.com
 .draweesjabbers.com
+.drawerenter.com
 .drawerfontactual.com
 .drawingsingmexican.com
 .drawingsugarnegative.com
@@ -10411,6 +10416,7 @@ vkcdnservice.appspot.com
 .dzkpopetrf.com
 .dzliege.com
 .dzprcdskxn.com
+.dzsorpf.com
 .dzubavstal.com
 .dzuowpapvcu.com
 .e-cougar.fr
@@ -10629,6 +10635,7 @@ vkcdnservice.appspot.com
 .edirectuklyeco.info
 .edition25.com
 .editionlingerexpanded.com
+.editionoverlookadvocate.com
 .editorpilotlimbs.com
 .edjadcscca.com
 .edjnkones.com
@@ -15848,6 +15855,7 @@ vkcdnservice.appspot.com
 .iqimwsctvgbvqx.xyz
 .iqkjrwf.com
 .iqlpkca.com
+.iqmlcia.com
 .iqnevmje.com
 .iqpkee.com
 .iqtest365.online
@@ -18708,6 +18716,7 @@ vkcdnservice.appspot.com
 .mbtennu.com
 .mbubaniblike.digital
 .mbuncha.com
+.mbvfawgcsnukb.com
 .mbzgogo.xyz
 .mc7clurd09pla4nrtat7ion.com
 .mcdote.com
@@ -22551,6 +22560,7 @@ vkcdnservice.appspot.com
 .pikecentreconfederate.com
 .pikedhelloed.com
 .pikepreviousi.com
+.pikrumsi.net
 .pilaffskoniga.com
 .pilaryhurrah.com
 .pilgrimarduouscorruption.com
@@ -22739,6 +22749,7 @@ vkcdnservice.appspot.com
 .playvideodirect.com
 .playwrightgrant.com
 .pleasantlyrevenge.com
+.pleasedexample.com
 .pleasenudgemillions.com
 .pleasetrack.com
 .pleastevallege.xyz
@@ -23163,6 +23174,7 @@ vkcdnservice.appspot.com
 .precipitationsquall.com
 .preciselysolitaryallegation.com
 .precisionclick.com
+.precisionnight.com
 .precoilrowlock.digital
 .predestineprohibitionmassive.com
 .predicamentdisconnect.com
@@ -25889,6 +25901,7 @@ vkcdnservice.appspot.com
 .savingdownrightmitten.com
 .savingshyleg.com
 .saviourketonic.com
+.savorydult.com
 .savourethicalmercury.com
 .savouryadolescent.com
 .savoyedpollet.life
@@ -31927,6 +31940,7 @@ vkcdnservice.appspot.com
 .wjgcygwgrvooio.com
 .wjikxopltjp.xyz
 .wjudihl.com
+.wjxtbwffpykdmo.com
 .wka4jursurf6.com
 .wkewgywth.xyz
 .wkjoehzlkl.com
@@ -32311,6 +32325,7 @@ vkcdnservice.appspot.com
 .xakfdicg.com
 .xalienstreamx.com
 .xameleonads.com
+.xammcokaho.com
 .xanawet.com
 .xannevugjv.com
 .xapads.com
@@ -57151,6 +57166,13 @@ inapps.appsflyersdk.com
 .zzbmxl.xyz
 .zzyy17.top
 .zzyy18.top
+.cjzrfxs.xyz
+.fyvpzn.xyz
+.fm44f.space
+.yhubsxmg.xyz
+.hrbpopp.cn
+.uqueae.xyz
+.oyugspe.cn
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
