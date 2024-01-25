@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-25 20:00:01·········数量:63032条·········增量:$[63032-$[63034-1]]条·········
+#·········更新时间:2024-01-25 21:00:01·········数量:63037条·········增量:$[63037-$[63034-1]]条·········
 .8trd.online
 .wgyoaqtjfb.com
 .oaxuroaw.net
@@ -37343,6 +37343,8 @@ vkcdnservice.appspot.com
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.aan.amazon.*
+.mads.amazon.com
 .p16-ad.byteoversea.com
 .mtgglobals.com
 .pgdt.gtimg.cn
@@ -41603,6 +41605,7 @@ vkcdnservice.appspot.com
 .affex.org
 .tagman.britishairways.com
 |piwik.
+.analytics.pangle-ads.com
 .d9jj3mjthpub.cloudfront.net
 .wwwstat.rz.uni-leipzig.de
 .analytics.fap.bar
@@ -58352,6 +58355,8 @@ inapps.appsflyersdk.com
 .nszort.xyz
 .chnvgdkw.xyz
 .fopksr.icu
+.ogmjhve.cn
+.xhnvgdkw.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
