@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-26 01:00:01·········数量:63037条·········增量:$[63037-$[63039-1]]条·········
+#·········更新时间:2024-01-26 02:00:01·········数量:63037条·········增量:$[63037-$[63039-1]]条·········
 .8trd.online
 .wgyoaqtjfb.com
 .oaxuroaw.net
