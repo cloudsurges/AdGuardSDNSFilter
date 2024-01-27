@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-27 14:00:01·········数量:63267条·········增量:$[63267-$[63269-1]]条·········
+#·········更新时间:2024-01-27 15:00:01·········数量:63274条·········增量:$[63274-$[63269-1]]条·········
 .riweeboo.com
 .8trd.online
 .publisher1st.com
@@ -36762,6 +36762,7 @@ vkcdnservice.appspot.com
 .d7jpk19dne0nn.cloudfront.net
 .d7po8h5dek3wm.cloudfront.net
 .d7tst6bnt99p2.cloudfront.net
+.d85wutc1n854v.cloudfront.net
 .d8a69dni6x2i5.cloudfront.net
 .d8cxnvx3e75nn.cloudfront.net
 .d8dcj5iif1uz.cloudfront.net
@@ -44579,6 +44580,7 @@ inapps.appsflyersdk.com
 .amplify.outbrain.com
 .ams-pageview-public.s3.amazonaws.com
 .analyse.bcovery.com
+.analyse.lnearn.com
 .analytic.rollout.io
 .analytic.xingcloud.com
 .analyticcdn.globalmailer.com
@@ -45326,6 +45328,7 @@ inapps.appsflyersdk.com
 .usersegment.wpdigital.net
 .vdrn.redplum.com
 .vercel-vitals.axiom.co
+.verify.lnearn.com
 .vortex.data.microsoft.com
 .vst.sibnet.ru
 .vstat.borderlessbd.com
@@ -58587,6 +58590,10 @@ inapps.appsflyersdk.com
 .qqainj.cn
 .yzmcok.xyz
 .4imk5.online
+.niticl.icu
+.chgpuxim.xyz
+.dmdnlr.xyz
+.kaurieseluxate.com
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
