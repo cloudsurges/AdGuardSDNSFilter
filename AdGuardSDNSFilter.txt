@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-27 20:00:01·········数量:63274条·········增量:$[63274-$[63276-1]]条·········
+#·········更新时间:2024-01-27 21:00:01·········数量:63275条·········增量:$[63275-$[63276-1]]条·········
 .riweeboo.com
 .8trd.online
 .publisher1st.com
@@ -58594,6 +58594,8 @@ inapps.appsflyersdk.com
 .chgpuxim.xyz
 .dmdnlr.xyz
 .kaurieseluxate.com
+.lioyfmp.cn
+.xhgpuxim.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
@@ -62634,7 +62636,6 @@ inapps.appsflyersdk.com
 .v1.phb123.com
 .v1.taksh.cn
 .v1.wphonelife.com
-.ve.kj-cy.cn
 .vip.panggugu.com
 .vv1.pyhfxdm.cn
 .vvv.ieduw.com
