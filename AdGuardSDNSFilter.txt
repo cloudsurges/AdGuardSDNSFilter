@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-29 06:00:01·········数量:63308条·········增量:$[63308-$[63310-1]]条·········
+#·········更新时间:2024-01-29 07:00:01·········数量:63308条·········增量:$[63308-$[63310-1]]条·········
 .riweeboo.com
 .8trd.online
 .publisher1st.com
