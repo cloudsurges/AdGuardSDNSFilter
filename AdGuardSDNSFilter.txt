@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-30 14:00:01·········数量:63278条·········增量:$[63278-$[63280-1]]条·········
+#·········更新时间:2024-01-30 15:00:01·········数量:63287条·········增量:$[63287-$[63280-1]]条·········
 .mads-fe.amazon.com
 .venturepeasant.com
 .riweeboo.com
@@ -45365,6 +45365,7 @@ inapps.appsflyersdk.com
 .platform.iteratehq.com
 .plausibleio.workers.dev
 .play.adtonos.com
+.player-metrics.instaread.co
 .pm.boostintegrated.com
 .popup-static.unisender.com
 .porpoise.azettl.net
@@ -58935,6 +58936,14 @@ inapps.appsflyersdk.com
 .ypwlctfk.xyz
 .d10wv.fun
 .sxtnpzd.xyz
+.iwwmaq.xyz
+.zghsep.icu
+.x08jd.top
+.9s64g.icu
+.1cecn.icu
+.ovbgeum.cn
+.cpwlctfk.xyz
+.pmnct63.shop
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
