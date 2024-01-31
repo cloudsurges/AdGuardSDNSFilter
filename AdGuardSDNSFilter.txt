@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-01-31 07:00:01·········数量:61507条·········增量:$[61507-$[61509-1]]条·········
+#·········更新时间:2024-01-31 08:00:01·········数量:61507条·········增量:$[61507-$[61509-1]]条·········
 .mads-fe.amazon.com
 .venturepeasant.com
 .riweeboo.com
