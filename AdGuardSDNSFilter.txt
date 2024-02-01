@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-02-01 13:00:01·········数量:61199条·········增量:$[61199-$[61201-1]]条·········
+#·········更新时间:2024-02-01 14:00:01·········数量:61199条·········增量:$[61199-$[61201-1]]条·········
 .bwpuoba.com
 .nk.inventdebosh.com
 .mads-fe.amazon.com
