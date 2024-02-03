@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-02-03 10:00:01·········数量:61347条·········增量:$[61347-$[61349-1]]条·········
+#·········更新时间:2024-02-03 11:00:01·········数量:61347条·········增量:$[61347-$[61349-1]]条·········
 .monthcurrencybeam.com
 .begracetindery.com
 .bwpuoba.com
