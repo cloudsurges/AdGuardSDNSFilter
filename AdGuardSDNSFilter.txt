@@ -1,5 +1,5 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-02-03 14:00:01·········数量:61347条·········增量:$[61347-$[61349-1]]条·········
+#·········更新时间:2024-02-03 15:00:01·········数量:61362条·········增量:$[61362-$[61349-1]]条·········
 .monthcurrencybeam.com
 .begracetindery.com
 .bwpuoba.com
@@ -1672,6 +1672,7 @@ vkcdnservice.appspot.com
 .063f828cf2.com
 .0676el9lskux.top
 .06e293435c.com
+.070880.com
 .072c4580e8.com
 .07wr439dfait.top
 .0819478661.com
@@ -57027,6 +57028,20 @@ inapps.appsflyersdk.com
 .zzbmxl.xyz
 .zzyy17.top
 .zzyy18.top
+.wttuuyd.cn
+.zfpkrl.xyz
+.ve0ke.icu
+.dk45h.icu
+.ylypzbzs.xyz
+.wbnbocz.xyz
+.it8vh.site
+.cbyhoe.xyz
+.uu11881.com
+.uu22002.com
+.uu22332.com
+.clypzbzs.xyz
+.gyjgrvd.cn
+.qeuckn.icu
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
