@@ -1,5 +1,8 @@
 #基于Adguard官方https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt修改
-#·········更新时间:2024-02-06 20:00:01·········数量:61667条·········增量:$[61667-$[61669-1]]条·········
+#·········更新时间:2024-02-06 21:00:01·········数量:61675条·········增量:$[61675-$[61669-1]]条·········
+.stethuth.xyz
+.ktxvbcbfs.xyz
+.ro.ondatrakrafts.com
 .ewhareey.com
 .skatistlollard.com
 .monthcurrencybeam.com
@@ -44366,6 +44369,9 @@ inapps.appsflyersdk.com
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.volceapplog.com
+.toblog.tobsnssdk.com
+.tobapplog.tobsnssdk.com
 .log.talkie-ai.com
 .log.goodreels.com
 .log.dramaboxdb.com
@@ -57347,6 +57353,8 @@ inapps.appsflyersdk.com
 .ciimar.icu
 .myiryc.xyz
 .awhsaso.cn
+.cdolhlwq.xyz
+.xdolhlwq.xyz
 .zzyy19.top
 .zzyy20.top
 .01v62.xyz
