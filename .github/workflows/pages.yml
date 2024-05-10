@@ -29,12 +29,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        run: |
+          sudo mkdir -p /AdGuardSDNSFilter/
+          sudo pwd
+          # sudo cd /home/runner/work/AdGuardSDNSFilter/
+          sudo  echo > /home/runner/work/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
+          sudo wget https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt -O /home/runner/work/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
+          sudo chmod a+x /home/runner/work/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
+          sudo sed -i 's/^||/./;/^!.*/d;/^@@.*/d;s/\^$//;/^$/d;1i#·········' /home/runner/work/AdGuardSDNSFilter/AdGuardSDNSFilter.txt
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
         with:
           source: ./
-          destination: ./_site
+          destination: ./AdGuardSDNSFilter.txt
+        run: |
+          sudo cat /home/runner/work/AdGuardSDNSFilter/AdGuardSDNSFilter.txt > ./AdGuardSDNSFilter.txt
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
