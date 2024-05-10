@@ -32,8 +32,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          sudo mkdir -p /home/opc/AdGuardSDNSFilter/
-          sudo > /home/opc/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
-          sudo wget https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt -O /home/opc/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
-          sudo chmod a+x /home/opc/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
-          sudo sed -i 's/^||/./;/^!.*/d;/^@@.*/d;s/\^$//;/^$/d;1i#·········' /home/opc/AdGuardSDNSFilter/AdGuardSDNSFilter.txt
+          sudo mkdir -p /AdGuardSDNSFilter/
+          sudo > /AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
+          # sudo wget https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt -O /home/opc/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
+          # sudo chmod a+x /home/opc/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
+          # sudo sed -i 's/^||/./;/^!.*/d;/^@@.*/d;s/\^$//;/^$/d;1i#·········' /home/opc/AdGuardSDNSFilter/AdGuardSDNSFilter.txt
