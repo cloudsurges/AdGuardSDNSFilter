@@ -49,3 +49,5 @@ jobs:
         with:
           target_branch: main
           build_dir: /home/runner/work/AdGuardSDNSFilter/
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
