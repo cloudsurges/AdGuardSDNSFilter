@@ -34,7 +34,7 @@ jobs:
         run: |
           sudo mkdir -p /AdGuardSDNSFilter/
           sudo pwd
-          # sudo cd /AdGuardSDNSFilter/
+          sudo cd /home/runner/work/AdGuardSDNSFilter/
           # sudo  echo > AdGuardSDNSFilter.txt 
           # sudo wget https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt -O /home/opc/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
           # sudo chmod a+x /home/opc/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
