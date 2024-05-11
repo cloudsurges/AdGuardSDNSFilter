@@ -1,7 +1,8 @@
 name: website
 
-on: push
-
+on:
+  schedule:
+    - cron: '0 10 * * *'
 permissions: 
   contents: write
 
