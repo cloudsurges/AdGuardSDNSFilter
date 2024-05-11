@@ -16,17 +16,14 @@ jobs:
         name: Gen dummy page
         run: |
           mkdir public
-          cat > public/index.html <<EOL
-          <!doctype html>
-          <html>
-            <head>
-              <title>GitHub Pages deployed!</title>
-            </head>
-            <body>
-              <p>GitHub Pages with <strong>${{ github.sha }}</strong> commit ID has been deployed through <a href="https://github.com/marketplace/actions/github-pages">GitHub Pages action</a> successfully.</p>
-            </body>
-          </html>
-          EOL
+          # cat > public/index.html <<EOL
+          # sudo mkdir -p /AdGuardSDNSFilter/
+          # sudo pwd
+          # sudo cd /home/runner/work/AdGuardSDNSFilter/
+          sudo  echo > public/AdGuardSDNSFilter.txt 
+          sudo wget https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt -O public/AdGuardSDNSFilter.txt 
+          sudo chmod a+x public/AdGuardSDNSFilter.txt 
+          sudo sed -i 's/^||/./;/^!.*/d;/^@@.*/d;s/\^$//;/^$/d;1i#·········' public/AdGuardSDNSFilter.txt
       -
         name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
