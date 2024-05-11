@@ -51,9 +51,15 @@ jobs:
           
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3
+        #uses: actions/deploy-pages@v3
+        uses: peaceiris/actions-gh-pages@v3
+        #with:
+        #  target_branch: main
+        #  build_dir: /home/runner/work/AdGuardSDNSFilter/
+        #env:
+        #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          target_branch: main
-          build_dir: /home/runner/work/AdGuardSDNSFilter/
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT_TOKEN }} # 这一步很重要，单独看下面的大步骤，主要是用来给该脚本一些仓库权限
+          publish_dir: ./home/runner/work/AdGuardSDNSFilter/ # 指定该文件夹中的 dist 
+          publish_branch: main # 推送到关联仓库的 gh-pages 分支
+          dotfiles: true  # 包括在提交中，即使被 .gitignore 文件忽略
