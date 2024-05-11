@@ -44,7 +44,11 @@ jobs:
           sudo wget https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt -O /home/runner/work/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
           sudo chmod a+x /home/runner/work/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
           sudo sed -i 's/^||/./;/^!.*/d;/^@@.*/d;s/\^$//;/^$/d;1i#·········' /home/runner/work/AdGuardSDNSFilter/AdGuardSDNSFilter.txt
-      
+      - uses: actions/upload-artifact@v4
+        with:
+          name: upload
+          path: output
+          
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
