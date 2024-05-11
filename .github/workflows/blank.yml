@@ -1,72 +1,37 @@
-# This is a basic workflow to help you get started with Actions
+name: website
 
-name: CI
-
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+on: push
 
 permissions: 
   contents: write
-  pages: write
-  id-token: write
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  publish:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      -
+        name: Checkout
+        uses: actions/checkout@v4
+      -
+        name: Gen dummy page
         run: |
-          sudo mkdir -p /AdGuardSDNSFilter/
-          sudo pwd
-          # sudo cd /home/runner/work/AdGuardSDNSFilter/
-          sudo  echo > /home/runner/work/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
-          sudo wget https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt -O /home/runner/work/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
-          sudo chmod a+x /home/runner/work/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
-          sudo sed -i 's/^||/./;/^!.*/d;/^@@.*/d;s/\^$//;/^$/d;1i#·········' /home/runner/work/AdGuardSDNSFilter/AdGuardSDNSFilter.txt
-      - uses: actions/upload-artifact@v4
-        with:
-          name: upload
-          path: AdGuardSDNSFilter
-          
-      - name: Deploy to GitHub Pages
-        id: deployment
-        #uses: actions/deploy-pages@v4
-        #uses: peaceiris/actions-gh-pages@v3
-        #with:
-        #  target_branch: main
-        #  build_dir: /home/runner/work/AdGuardSDNSFilter/
-        #env:
-        #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        #with:
-          #github_token: ${{ secrets.PAT_TOKEN }} # 这一步很重要，单独看下面的大步骤，主要是用来给该脚本一些仓库权限
-         # github_token: ${{ secrets.GITHUB_TOKEN }}
-         # publish_dir: ./AdGuardSDNSFilter/aa.txt # 指定该文件夹中的 dist 
-          #publish_branch: main # 推送到关联仓库的 gh-pages 分支
-         # dotfiles: true  # 包括在提交中，即使被 .gitignore 文件忽略
+          mkdir public
+          cat > public/index.html <<EOL
+          <!doctype html>
+          <html>
+            <head>
+              <title>GitHub Pages deployed!</title>
+            </head>
+            <body>
+              <p>GitHub Pages with <strong>${{ github.sha }}</strong> commit ID has been deployed through <a href="https://github.com/marketplace/actions/github-pages">GitHub Pages action</a> successfully.</p>
+            </body>
+          </html>
+          EOL
+      -
+        name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: gh-pages
-          build_dir: ./AdGuardSDNSFilter
+          build_dir: public
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
