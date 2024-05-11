@@ -28,7 +28,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
@@ -44,7 +44,7 @@ jobs:
           sudo wget https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt -O /home/runner/work/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
           sudo chmod a+x /home/runner/work/AdGuardSDNSFilter/AdGuardSDNSFilter.txt 
           sudo sed -i 's/^||/./;/^!.*/d;/^@@.*/d;s/\^$//;/^$/d;1i#·········' /home/runner/work/AdGuardSDNSFilter/AdGuardSDNSFilter.txt
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: upload
           path: output
