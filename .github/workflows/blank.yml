@@ -67,6 +67,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: gh-pages
-          #build_dir: AdGuardSDNSFilter
+          build_dir: ./AdGuardSDNSFilter
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
