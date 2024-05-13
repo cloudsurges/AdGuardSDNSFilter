@@ -25,7 +25,9 @@ jobs:
           sudo wget https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt -O public/AdGuardSDNSFilter.txt 
           sudo chmod a+x public/AdGuardSDNSFilter.txt 
           sudo sed -i 's/^||/./;/^!.*/d;/^@@.*/d;s/\^$//;/^$/d;1i#·········' public/AdGuardSDNSFilter.txt
-          sudo sed -i -e "1i\#·········更新时间:${(date "+%F %T")}·········" public/AdGuardSDNSFilter.txt 
+          sudo currentTime = $(date "+%F %T")
+          sudo count = $(awk '{print NR}' public/AdGuardSDNSFilter.txt |tail -n1)
+          sudo sed -i -e "1i\#·········更新时间:${currentTime}·········数量:${count}条·········" public/AdGuardSDNSFilter.txt 
       -
         name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
