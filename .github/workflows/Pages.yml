@@ -1,4 +1,4 @@
-name: website
+name: AdGuard Adblock
 
 on:
   push:
