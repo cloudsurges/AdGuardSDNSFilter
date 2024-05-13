@@ -30,7 +30,11 @@ jobs:
           sudo sed -i 's/^||/./;/^!.*/d;/^@@.*/d;s/\^$//;/^$/d;1i#·········' public/AdGuardSDNSFilter.txt
           currentTime=$(date "+%F %T") 
           count=$(awk '{print NR}' public/AdGuardSDNSFilter.txt |tail -n1)
-          sudo sed -i -e "1i\# ••• ••• ••• 更新时间:${currentTime} ••• ••• ••• 数量:${count}条 ••• ••• ••• " public/AdGuardSDNSFilter.txt 
+          sudo sed -i -e "1i\# ••• ••• ••• 更新时间:${currentTime} ••• ••• ••• 数量:${count}条 ••• ••• ••• " public/AdGuardSDNSFilter.txt
+
+          cat > public/README.md <<EOL
+          基于Adguard官方 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt 修改而来 https://raw.githubusercontent.com/cloudsurges/AdGuardSDNSFilter/gh-pages/AdGuardSDNSFilter.txt，用于surge支持的规则格式，请使用DOMAIN-SET。
+          EOL
       -
         name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
